@@ -1,10 +1,6 @@
-title: "Tire and Rubber Weekly Intelligence Report"
-description: "Weekly intelligence on China's tire and rubber industries for manufacturers, suppliers, researchers, and industry professionals."
+title: Tire and Rubber Weekly Intelligence Report
+description: A human-reviewed weekly digest of notable tire and rubber industry developments.
 theme: jekyll-theme-minimal
-url: "https://sdliqian2021.github.io"
-baseurl: "/tire-and-rubber-weekly-intelligence-report"
-lang: "en-US"
-markdown: kramdown
-permalink: pretty
-show_downloads: false
+baseurl: /tire-and-rubber-weekly-intelligence-report
+url: https://sdliqian2021.github.io
 
