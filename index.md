@@ -3,19 +3,27 @@ layout: default
 title: Home
 ---
 
-# Tire and Rubber Weekly Intelligence Report
+# Tire and Rubber Intelligence
 
-A concise, human-reviewed digest of notable developments across the tire and
-rubber industry. New editions are published after editorial approval.
+Human-reviewed intelligence for people following tire technology, manufacturing,
+materials, supply chains, markets, and policy.
 
 [About this publication]({{ site.baseurl }}/about.html)
 
-<!-- REPORT_LIST_START -->
-## Latest report
+## Deep analysis
 
-[July 6-12, 2026]({{ site.baseurl }}/reports/2026-07-06-to-2026-07-12/)
+Long-form, evidence-based examinations of decision-relevant industry questions.
 
-## Archive
+<!-- DEEP_ANALYSIS_LIST_START -->
+- [How a 5G-Enabled Tire Factory Can Improve Tire Design Decisions]({{ site.baseurl }}/deep-analysis/2026-07-15-5g-enabled-tire-factory-design-loop/) - July 15, 2026
+<!-- DEEP_ANALYSIS_LIST_END -->
+
+## Weekly reports
+
+Concise reviews of material developments and emerging signals.
+
+<!-- WEEKLY_REPORT_LIST_START -->
+**Latest:** [July 6-12, 2026]({{ site.baseurl }}/reports/2026-07-06-to-2026-07-12/)
 
 - [July 6-12, 2026]({{ site.baseurl }}/reports/2026-07-06-to-2026-07-12/)
-<!-- REPORT_LIST_END -->
+<!-- WEEKLY_REPORT_LIST_END -->
