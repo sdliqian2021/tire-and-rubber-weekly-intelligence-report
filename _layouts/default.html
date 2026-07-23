@@ -1,0 +1,65 @@
+<!doctype html>
+<html lang="{{ site.lang | default: 'en' }}">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="color-scheme" content="light">
+    <title>{% if page.title and page.title != "Home" %}{{ page.title }} · {% endif %}{{ site.title }}</title>
+    <meta name="description" content="{{ page.description | default: site.description | strip_html | normalize_whitespace | escape }}">
+    <link rel="canonical" href="{{ page.url | absolute_url }}">
+    <link rel="stylesheet" href="{{ '/assets/css/site.css' | relative_url }}">
+  </head>
+  {% assign is_article = false %}
+  {% if page.page_class == "article-page" or page.url contains "/posts/" or page.url contains "/reports/" or page.url contains "/deep-analysis/" %}
+    {% assign is_article = true %}
+  {% endif %}
+  <body class="site-{{ site.site_section }}{% if is_article %} article-page{% endif %}">
+    <!-- unified-publication-shell v1 -->
+    <a class="skip-link" href="#main-content">Skip to content</a>
+
+    <header class="site-header">
+      <div class="shell nav-shell">
+        <a class="brand" href="{{ site.primary_site_url }}/" aria-label="Qian Li technical publications home">
+          <span class="brand-mark" aria-hidden="true">QL</span>
+          <span class="brand-copy">
+            <strong>Qian Li</strong>
+            <small>Technical publications</small>
+          </span>
+        </a>
+
+        <nav class="primary-nav" aria-label="Primary navigation">
+          <a href="{{ site.primary_site_url }}/"{% if page.nav == "home" %} aria-current="page"{% endif %}>Home</a>
+          <a href="{{ site.primary_site_url }}/#technical-essays"{% if site.site_section == "essays" and page.nav != "home" and page.nav != "about" %} aria-current="page"{% endif %}>Technical essays</a>
+          <a href="{{ site.intelligence_url }}/"{% if site.site_section == "intelligence" and page.nav != "about" %} aria-current="page"{% endif %}>Tire intelligence</a>
+          <a href="{{ site.primary_site_url }}/about.html"{% if page.nav == "about" %} aria-current="page"{% endif %}>About</a>
+        </nav>
+      </div>
+    </header>
+
+    <main id="main-content" class="shell content-shell">
+      {{ content }}
+
+      {% if page.related_url %}
+        <aside class="related-reading" aria-labelledby="related-reading-title">
+          <p class="eyebrow">Related reading</p>
+          <h2 id="related-reading-title">{{ page.related_title }}</h2>
+          <p>{{ page.related_description }}</p>
+          <a class="text-link" href="{{ page.related_url }}">{{ page.related_link_label | default: "Read the related article" }} <span aria-hidden="true">→</span></a>
+        </aside>
+      {% endif %}
+    </main>
+
+    <footer class="site-footer">
+      <div class="shell footer-shell">
+        <p>
+          {% if site.site_section == "intelligence" %}
+            Tire &amp; Rubber Intelligence is part of Qian Li's technical publications.
+          {% else %}
+            Human-authored technical essays and evidence-assisted industry intelligence.
+          {% endif %}
+        </p>
+        <p><a href="{{ site.primary_site_url }}/about.html">Editorial approach and disclaimer</a></p>
+      </div>
+    </footer>
+  </body>
+</html>
