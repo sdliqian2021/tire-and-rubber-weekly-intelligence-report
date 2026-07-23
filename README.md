@@ -1,14 +1,14 @@
-# Tire and Rubber Weekly Intelligence Report
+# Tire and Rubber Intelligence
 
 This standalone public repository contains the GitHub Pages site and only the
-files approved for public release.
+weekly reports and deep analyses approved for public release.
 
 **Live site:**
 [sdliqian2021.github.io/tire-and-rubber-weekly-intelligence-report](https://sdliqian2021.github.io/tire-and-rubber-weekly-intelligence-report/)
 
 The private research and content-creation workspace is maintained separately.
-Approved reports are transferred through its allowlisted sync tool, reviewed in
-this repository, and then committed and pushed manually.
+Approved articles are transferred through an allowlisted, one-way sync, reviewed
+in this repository, and then committed and pushed.
 
 ## GitHub Pages
 
