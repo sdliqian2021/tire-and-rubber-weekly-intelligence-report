@@ -3,15 +3,21 @@ layout: default
 title: About
 ---
 
-# About this publication
+# About Tire and Rubber Intelligence
 
-The Tire and Rubber Weekly Intelligence Report is an independent, curated digest
-for readers who follow the global tire and rubber industry. It emphasizes concise
-summaries, links to supporting sources, and clear separation between reported
-facts and interpretation.
+Tire and Rubber Intelligence is an independent publication for readers following
+the global tire and rubber industry.
 
-Each report is intended to pass explicit human approval before publication.
-Material corrections should be documented and republished through the same review
-process.
+It has two formats:
 
-[Return to the report archive]({{ site.baseurl }}/)
+- **Weekly reports** identify material developments and explain the emerging
+  signal.
+- **Deep analysis** examines a decision question through claim-level evidence,
+  technical interpretation, limitations, and future indicators.
+
+Every article receives final human editorial approval before publication.
+Sources are linked publicly, while private research records, confidence notes,
+and evidence mappings remain outside this repository. Material corrections are
+reviewed and republished through the same controlled process.
+
+[Return to the publication home page]({{ site.baseurl }}/)
