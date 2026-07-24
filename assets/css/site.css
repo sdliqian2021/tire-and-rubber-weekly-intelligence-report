@@ -11,7 +11,7 @@
   --accent: #b45f2a;
   --accent-soft: #f3e2d2;
   --sage: #dfe9e3;
-  --shadow: 0 18px 48px rgba(21, 35, 49, 0.08);
+  --shadow: 0 10px 28px rgba(21, 35, 49, 0.06);
   --reading: 48rem;
   --shell: 70rem;
   --radius: 1.1rem;
@@ -28,9 +28,7 @@ html {
 body {
   margin: 0;
   color: var(--ink);
-  background:
-    radial-gradient(circle at 88% 8%, rgba(180, 95, 42, 0.10), transparent 24rem),
-    var(--canvas);
+  background: var(--canvas);
   font-family: Inter, ui-sans-serif, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
   font-size: 1rem;
   line-height: 1.7;
@@ -96,7 +94,7 @@ img {
 
 .nav-shell {
   display: flex;
-  min-height: 5rem;
+  min-height: 4.5rem;
   align-items: center;
   justify-content: space-between;
   gap: 2rem;
@@ -178,7 +176,7 @@ img {
 
 .content-shell {
   min-height: calc(100vh - 13rem);
-  padding-block: clamp(3rem, 7vw, 6.5rem);
+  padding-block: clamp(2.5rem, 5.5vw, 5rem);
 }
 
 .article-page .content-shell {
@@ -198,12 +196,12 @@ h3 {
 
 h1 {
   margin: 0 0 1.4rem;
-  font-size: clamp(2.5rem, 6.5vw, 5.25rem);
-  letter-spacing: -0.035em;
+  font-size: clamp(2.15rem, 4.7vw, 3.9rem);
+  letter-spacing: -0.025em;
 }
 
 .article-page h1 {
-  font-size: clamp(2.25rem, 5vw, 3.75rem);
+  font-size: clamp(2.1rem, 4.5vw, 3.4rem);
 }
 
 h2 {
@@ -237,47 +235,28 @@ ol {
 }
 
 .hero {
-  position: relative;
-  overflow: hidden;
-  padding: clamp(2rem, 5vw, 4.5rem);
+  padding: clamp(1.75rem, 4vw, 3.25rem);
   border: 1px solid rgba(21, 58, 86, 0.12);
   border-radius: calc(var(--radius) + 0.45rem);
-  background:
-    linear-gradient(135deg, rgba(255, 255, 255, 0.96), rgba(250, 246, 237, 0.92));
+  background: var(--surface);
   box-shadow: var(--shadow);
 }
 
-.hero::after {
-  position: absolute;
-  width: 14rem;
-  height: 14rem;
-  right: -6rem;
-  bottom: -7rem;
-  border: 2.2rem solid var(--accent-soft);
-  border-radius: 50%;
-  content: "";
-}
-
-.hero > * {
-  position: relative;
-  z-index: 1;
-}
-
 .hero h1 {
-  max-width: 12ch;
+  max-width: 19ch;
 }
 
 .hero-copy {
-  max-width: 43rem;
+  max-width: 45rem;
   color: var(--muted);
-  font-size: clamp(1.05rem, 2vw, 1.25rem);
+  font-size: clamp(1.02rem, 1.6vw, 1.15rem);
 }
 
 .button-row {
   display: flex;
   flex-wrap: wrap;
   gap: 0.85rem;
-  margin-top: 2rem;
+  margin-top: 1.5rem;
 }
 
 .button {
@@ -311,7 +290,7 @@ ol {
 }
 
 .content-section {
-  padding-top: clamp(3.5rem, 7vw, 6rem);
+  padding-top: clamp(3rem, 5.5vw, 4.75rem);
   scroll-margin-top: 6rem;
 }
 
