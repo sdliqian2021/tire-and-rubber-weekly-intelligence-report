@@ -11,6 +11,20 @@ This publication is integrated with
 navigation and styling while retaining a separate repository, URL, and private
 editorial workflow.
 
+## Publication structure
+
+- `index.md` presents the latest weekly report and deep analysis.
+- `reports/` contains publication-ready weekly reports and the date archive.
+- `deep-analysis/` contains approved long-form analyses and their archive.
+- `smile-curve.md`, `categories.md`, and `about.md` explain the framework,
+  support story discovery, and document the editorial methodology.
+- `data/stories.json` is the public machine-readable weekly story archive.
+
+Each weekly story in the structured archive has exactly one of the five fixed
+primary categories. Keep stable story IDs and ISO dates when adding a report.
+The category browser reads this file directly, so no separate index needs to be
+edited for filtering.
+
 The human begins the story and owns every editorial decision. Codex may provide
 proofreading, suggestions, evidence support, and local synchronization.
 Approved articles are transferred through an allowlisted, one-way sync. The

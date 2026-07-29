@@ -3,7 +3,11 @@ layout: default
 title: "How a 5G-Enabled Tire Factory Can Improve Tire Design Decisions"
 description: "Deep analysis for the tire and rubber industry, evidence reviewed through 2026-07-15."
 permalink: /deep-analysis/2026-07-15-5g-enabled-tire-factory-design-loop/
-nav: intelligence
+page_class: article-page
+content_type: deep_analysis
+nav: analysis
+publication_date: "2026-07-22"
+evidence_reviewed: "2026-07-15"
 related_url: https://sdliqian2021.github.io/posts/5g-factory-tire-design.html
 related_title: "The originating technical note"
 related_description: "Read the broader technical-blog discussion that first framed the relationship between connected tire factories and design workflows."
