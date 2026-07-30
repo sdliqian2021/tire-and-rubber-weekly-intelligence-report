@@ -1,41 +1,20 @@
 # Tire & Rubber Intelligence
 
-This public project repository contains only the weekly reports, deep analyses,
-and website framework approved for release.
+This public GitHub Pages repository contains Qian Li's human-reviewed tire and
+rubber industry notes.
 
 **Live site:**
 [sdliqian2021.github.io/tire-and-rubber-weekly-intelligence-report](https://sdliqian2021.github.io/tire-and-rubber-weekly-intelligence-report/)
 
-This publication is integrated with
-[Qian Li's technical blog](https://sdliqian2021.github.io/) through shared
-navigation and styling while retaining a separate repository, URL, and private
-editorial workflow.
+The site intentionally uses a simple blog format:
 
-## Publication structure
+- `reports/` contains weekly intelligence notes.
+- `deep-analysis/` contains longer technical and strategic analysis.
+- `data/stories.json` keeps the public machine-readable story archive.
 
-- `index.md` presents the latest weekly report and deep analysis.
-- `reports/` contains publication-ready weekly reports and the date archive.
-- `deep-analysis/` contains approved long-form analyses and their archive.
-- `smile-curve.md`, `categories.md`, and `about.md` explain the framework,
-  support story discovery, and document the editorial methodology.
-- `data/stories.json` is the public machine-readable weekly story archive.
+AI agents may help collect, organize, and check public information. The human
+author reviews the evidence, edits the writing, and decides what is published.
 
-Each weekly story in the structured archive has exactly one of the five fixed
-primary categories. Keep stable story IDs and ISO dates when adding a report.
-The category browser reads this file directly, so no separate index needs to be
-edited for filtering.
-
-The human begins the story and owns every editorial decision. Codex may provide
-proofreading, suggestions, evidence support, and local synchronization.
-Approved articles are transferred through an allowlisted, one-way sync. The
-human reviews the Git changes, commits, and pushes.
-
-## GitHub Pages
-
-GitHub Pages deploys automatically from the `main` branch and repository root.
-After an approved change is committed and pushed, wait for the
-`pages build and deployment` workflow to finish before checking the live site.
-The Jekyll configuration already includes the project-site base URL.
-
-Do not place drafts, research notes, source packages, credentials, approval
-records, or other private working files in this repository.
+GitHub Pages deploys from the `main` branch and repository root. Drafts,
+private research records, credentials, source captures, and approval records
+do not belong in this repository.

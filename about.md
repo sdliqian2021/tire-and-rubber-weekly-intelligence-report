@@ -1,114 +1,46 @@
 ---
 layout: default
-title: About & Methodology
-description: The scope, smile-curve framework, evidence standards, and human-led workflow behind Tire & Rubber Intelligence.
+title: About
+description: The editorial scope and human-led workflow behind Tire & Rubber Intelligence.
 nav: about
 ---
 
-<header class="page-intro">
-  <p class="eyebrow">About &amp; methodology</p>
-  <h1>Public evidence, organized for durable industry understanding.</h1>
-  <p class="page-lede">
-    Tire &amp; Rubber Intelligence is the specialized industry publication within
-    <a href="{{ site.primary_site_url }}/">Qian Li's technical blog</a>. It is for
-    readers following the global tire and rubber industry.
-  </p>
-</header>
+# About
 
-<section class="method-section" aria-labelledby="formats-title">
-  <div class="method-heading">
-    <p class="eyebrow">Publication formats</p>
-    <h2 id="formats-title">Two ways to read the evidence</h2>
-  </div>
-  <div class="method-copy">
-    <p>It has two formats:</p>
-    <ul>
-      <li><strong>Weekly reports</strong> identify material developments and explain the emerging signal.</li>
-      <li><strong>Deep analysis</strong> examines a decision question through claim-level evidence, technical interpretation, limitations, and future indicators.</li>
-    </ul>
-  </div>
-</section>
+Tire & Rubber Intelligence is the industry-notes section of
+[Qian Li's technical blog]({{ site.primary_site_url }}/).
 
-<section class="method-section" aria-labelledby="framework-method-title">
-  <div class="method-heading">
-    <p class="eyebrow">The framework</p>
-    <h2 id="framework-method-title">One traditional smile curve, five categories</h2>
-  </div>
-  <div class="method-copy">
-    <p>
-      Weekly stories are assigned exactly one primary category:
-      <strong>R&amp;D &amp; Product Development</strong>,
-      <strong>Materials &amp; Supply Chain</strong>,
-      <strong>Manufacturing</strong>,
-      <strong>Marketing &amp; Distribution</strong>, or
-      <strong>Sales &amp; Customer Services</strong>.
-    </p>
-    <p>
-      The curve is an organizing hypothesis about the traditional distribution
-      of value added. It is not a universal law, a company score, or an
-      investment ranking. Manufacturing's lower traditional position does not
-      make it unimportant: weak manufacturing can damage quality, cost, scale,
-      resilience, and the ability to commercialize R&amp;D.
-    </p>
-    <p><a class="text-link" href="{{ site.baseurl }}/smile-curve.html">Read the full framework <span aria-hidden="true">→</span></a></p>
-  </div>
-</section>
+I use AI agents to help find, organize, compare, and check public information.
+The final selection, interpretation, wording, and publication decision remain
+human-reviewed.
 
-<section class="method-section" aria-labelledby="evidence-title">
-  <div class="method-heading">
-    <p class="eyebrow">Evidence standard</p>
-    <h2 id="evidence-title">Original sources before volume</h2>
-  </div>
-  <div class="method-copy">
-    <p>
-      The publication prioritizes authoritative public records, direct
-      counterparties, company filings and technical publications, then credible
-      independent reporting. Reposts and search snippets are discovery leads,
-      not substitutes for original evidence.
-    </p>
-    <ul class="check-list">
-      <li>Publication, event, and effective dates are kept distinct.</li>
-      <li>Company performance or leadership claims remain attributed.</li>
-      <li>Duplicate reposts are treated as one evidence family.</li>
-      <li>Fewer strong stories are preferred to filling every category.</li>
-      <li>Facts are separated from interpretation and open questions.</li>
-    </ul>
-  </div>
-</section>
+## What I publish
 
-<section class="method-section" aria-labelledby="workflow-title">
-  <div class="method-heading">
-    <p class="eyebrow">Human-led editorial workflow</p>
-    <h2 id="workflow-title">The human owns the final judgment</h2>
-  </div>
-  <div class="method-copy">
-    <p>
-      The human begins with the idea and initial story direction. Codex may help
-      proofread, suggest improvements, locate and assess public evidence, surface
-      counter-evidence, and check links or claims. The human decides which suggestions
-      to accept, edits the story, and gives final editorial approval.
-    </p>
-    <p>
-      After approval, Codex may prepare and sync the public files locally. The human
-      reviews the Git changes and personally commits and pushes them for publication.
-    </p>
-    <p>
-      Sources are linked publicly, while private research records, confidence notes,
-      evidence mappings, source captures, and workflow files remain outside this
-      repository. Material corrections are reviewed through the same process.
-    </p>
-  </div>
-</section>
+- **Weekly intelligence** records material developments and why they may matter.
+- **Deep analysis** examines a technical or strategic question in more detail.
 
-<aside class="method-note" aria-labelledby="limitations-title">
-  <p class="eyebrow">Outside-in limitations</p>
-  <h2 id="limitations-title">What public visibility cannot prove</h2>
-  <p>
-    Story volume is not company strength. A quiet company may disclose less,
-    protect work as a trade secret, or operate in markets with different public
-    records. Conclusions are therefore outside-in assessments based only on
-    observable public evidence, and material uncertainty is stated where it matters.
-  </p>
-</aside>
+## How the notes are organized
 
-<p class="back-link"><a href="{{ site.baseurl }}/">Return to the publication home page</a></p>
+Weekly stories use one primary category:
+
+1. R&D & Product Development
+2. Materials & Supply Chain
+3. Manufacturing
+4. Marketing & Distribution
+5. Sales & Customer Services
+
+These categories follow the traditional smile curve. The curve is only an
+organizing framework; it is not a company score or an investment rule.
+Manufacturing may sit lower on the traditional curve, but it remains essential
+to quality, cost, scale, resilience, and the commercialization of R&D.
+
+## Evidence and limitations
+
+I prefer original public records, counterparties, company filings and technical
+publications, followed by credible independent reporting. Company claims remain
+attributed. Public visibility is incomplete, so story volume should not be read
+as company strength.
+
+Private research notes and source captures remain outside this public repository.
+
+[Return to the intelligence notes]({{ site.baseurl }}/)
