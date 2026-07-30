@@ -9,7 +9,6 @@ rubber industry notes.
 The site intentionally uses a simple blog format:
 
 - `reports/` contains weekly intelligence notes.
-- `deep-analysis/` contains longer technical and strategic analysis.
 - `data/stories.json` keeps the public machine-readable story archive.
 
 AI agents may help collect, organize, and check public information. The human

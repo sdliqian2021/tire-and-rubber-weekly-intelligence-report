@@ -10,7 +10,7 @@
     <link rel="stylesheet" href="{{ '/assets/css/site.css' | relative_url }}">
   </head>
   {% assign is_article = false %}
-  {% if page.page_class == "article-page" or page.url contains "/reports/" or page.url contains "/deep-analysis/" %}
+  {% if page.page_class == "article-page" or page.url contains "/reports/" %}
     {% assign is_article = true %}
   {% endif %}
   <body{% if is_article %} class="article-page"{% endif %}>

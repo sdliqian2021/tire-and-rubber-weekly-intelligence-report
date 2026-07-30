@@ -6,7 +6,6 @@ nav: intelligence
 ---
 
 {% assign weekly_reports = site.pages | where: "content_type", "weekly_report" | sort: "period_end" | reverse %}
-{% assign analyses = site.pages | where: "content_type", "deep_analysis" | sort: "publication_date" | reverse %}
 
 <header class="blog-intro">
   <h1>Tire &amp; Rubber Intelligence</h1>
@@ -18,8 +17,7 @@ nav: intelligence
   <div class="intro-notes">
     <p>
       <strong>How the notes are organized.</strong> Weekly intelligence records
-      material public signals and why they may matter. Deep analysis examines a
-      technical or strategic question in more detail.
+      material public signals, their source context, and why they may matter.
     </p>
     <p>
       Weekly stories use one primary category: R&amp;D &amp; Product Development,
@@ -49,18 +47,6 @@ nav: intelligence
           {{ report.period_start | date: "%B %-d" }}–{{ report.period_end | date: "%-d, %Y" }}
           · {{ report.story_count }} stories
         </p>
-      </article>
-    {% endfor %}
-  </div>
-</section>
-<section class="post-section" aria-labelledby="analysis-title">
-  <h2 id="analysis-title">Deep analysis</h2>
-  <div class="post-list">
-    {% for analysis in analyses %}
-      <article class="post-preview">
-        <h3><a href="{{ analysis.url | relative_url }}">{{ analysis.title }}</a></h3>
-        <p>{{ analysis.description }}</p>
-        <p class="post-meta">Published {{ analysis.publication_date | date: "%B %-d, %Y" }}</p>
       </article>
     {% endfor %}
   </div>
