@@ -21,8 +21,7 @@
         <a class="site-name" href="{{ site.primary_site_url }}/">Qian Li's Notes</a>
         <nav class="site-nav" aria-label="Primary navigation">
           <a href="{{ site.primary_site_url }}/#technical-essays">Technical thoughts</a>
-          <a href="{{ site.intelligence_url }}/"{% if site.site_section == "intelligence" and page.nav != "about" %} aria-current="page"{% endif %}>Intelligence</a>
-          <a href="{{ site.baseurl }}/about.html"{% if page.nav == "about" %} aria-current="page"{% endif %}>About</a>
+          <a href="{{ site.intelligence_url }}/"{% if site.site_section == "intelligence" %} aria-current="page"{% endif %}>Intelligence</a>
         </nav>
       </div>
     </header>

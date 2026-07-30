@@ -15,6 +15,27 @@ nav: intelligence
     tire and rubber industry. I review the evidence, edit the writing, and
     publish the notes that I want to keep.
   </p>
+  <div class="intro-notes">
+    <p>
+      <strong>How the notes are organized.</strong> Weekly intelligence records
+      material public signals and why they may matter. Deep analysis examines a
+      technical or strategic question in more detail.
+    </p>
+    <p>
+      Weekly stories use one primary category: R&amp;D &amp; Product Development,
+      Materials &amp; Supply Chain, Manufacturing, Marketing &amp; Distribution,
+      or Sales &amp; Customer Services. These categories follow the traditional
+      smile curve as an organizing framework, not as a company score or
+      investment rule. Manufacturing may sit lower on the traditional curve,
+      but it remains essential to quality, cost, scale, resilience, and turning
+      R&amp;D into products.
+    </p>
+    <p>
+      I prefer original public records and technical sources. Company claims
+      remain attributed, and public visibility is incomplete, so the number of
+      stories should not be read as a measure of company strength.
+    </p>
+  </div>
 </header>
 
 <section class="post-section" aria-labelledby="weekly-title">

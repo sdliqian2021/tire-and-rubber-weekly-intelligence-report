@@ -125,6 +125,21 @@ a:focus-visible {
   font-size: 1.08rem;
 }
 
+.intro-notes {
+  max-width: 42rem;
+  margin-top: 1.5rem;
+  padding-top: 1.25rem;
+  border-top: 1px solid var(--line);
+}
+
+.blog-intro .intro-notes p {
+  font-size: 0.96rem;
+}
+
+.intro-notes strong {
+  color: var(--text);
+}
+
 h1,
 h2,
 h3 {
