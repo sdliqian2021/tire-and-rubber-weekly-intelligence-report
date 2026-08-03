@@ -62,10 +62,20 @@ nav: intelligence
   <div class="post-list">
     {% for report in weekly_reports %}
       <article class="post-preview">
-        <h3><a href="{{ report.url | relative_url }}">{{ report.title }}</a></h3>
+        {% assign start_month = report.period_start | date: "%B" %}
+        {% assign end_month = report.period_end | date: "%B" %}
+        {% assign start_year = report.period_start | date: "%Y" %}
+        {% assign end_year = report.period_end | date: "%Y" %}
+        <h3><a href="{{ report.url | relative_url }}">{{ report.card_title | default: report.title }}</a></h3>
         <p>{{ report.description }}</p>
         <p class="post-meta">
-          {{ report.period_start | date: "%B %-d" }}–{{ report.period_end | date: "%-d, %Y" }}
+          {% if start_year != end_year %}
+            {{ report.period_start | date: "%B %-d, %Y" }}–{{ report.period_end | date: "%B %-d, %Y" }}
+          {% elsif start_month == end_month %}
+            {{ report.period_start | date: "%B %-d" }}–{{ report.period_end | date: "%-d, %Y" }}
+          {% else %}
+            {{ report.period_start | date: "%B %-d" }}–{{ report.period_end | date: "%B %-d, %Y" }}
+          {% endif %}
           · {{ report.story_count }} stories
         </p>
       </article>
