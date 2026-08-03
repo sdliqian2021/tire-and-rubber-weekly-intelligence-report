@@ -66,8 +66,7 @@ nav: intelligence
         {% assign end_month = report.period_end | date: "%B" %}
         {% assign start_year = report.period_start | date: "%Y" %}
         {% assign end_year = report.period_end | date: "%Y" %}
-        <h3><a href="{{ report.url | relative_url }}">{{ report.card_title | default: report.title }}</a></h3>
-        <p>{{ report.description }}</p>
+        <h3><a href="{{ report.url | relative_url }}">{{ report.title }}</a></h3>
         <p class="post-meta">
           {% if start_year != end_year %}
             {{ report.period_start | date: "%B %-d, %Y" }}–{{ report.period_end | date: "%B %-d, %Y" }}
