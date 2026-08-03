@@ -74,6 +74,51 @@
     "story_url": "reports/2026-06-29-to-2026-07-05.md/#south-korea-funds-a-five-year-push-to-raise-recycled-carbon-black-content-in-new-tires"
   },
   {
+    "story_id": "2026-06-29-chinese-and-thai-researchers-map-natural-rubbers-built-in-reinforcement-system",
+    "week_start": "2026-06-29",
+    "week_end": "2026-07-05",
+    "publication_date": "2026-07-01",
+    "event_date": null,
+    "effective_date": null,
+    "title": "Chinese and Thai researchers map natural rubber's built-in reinforcement system",
+    "primary_category": "R&D & Product Development",
+    "related_categories": [],
+    "tags": [],
+    "event_type": "other",
+    "project_stage": "not_assessed",
+    "companies": [
+      "CATAS Rubber Research Institute; Mahidol University"
+    ],
+    "counterparties": [],
+    "products_or_technologies": [],
+    "geographies": [],
+    "what_happened": "Researchers proposed a multiscale framework explaining how natural rubber's small non-rubber fraction, including proteins, phospholipids, lipids, carbohydrates, and metals, influences structure and performance from molecular interactions through bulk behavior.",
+    "intelligence_signal": "Natural-rubber research is shifting from treating non-rubber constituents as impurities toward engineering them as an intrinsic reinforcement system.",
+    "why_it_matters": "A better mechanistic model could improve control of stability, viscoelasticity, vulcanization, filler dispersion, and mechanical performance in tire compounds.",
+    "what_to_watch": null,
+    "sources": [
+      {
+        "publisher": "CATAS Rubber Research Institute; Industrial Crops and Products",
+        "title": null,
+        "publication_date": "2026-07-01",
+        "url": "https://www.catasrri.cn/contents/3629/218952.html",
+        "source_role": "primary",
+        "link_label": "CATAS Rubber Research Institute; Industrial Crops and Products"
+      },
+      {
+        "publisher": null,
+        "title": null,
+        "publication_date": null,
+        "url": "https://doi.org/10.1016/j.indcrop.2026.123342",
+        "source_role": "companion",
+        "link_label": "second source"
+      }
+    ],
+    "evidence_status": "source_reported",
+    "weekly_report_path": "reports/2026-06-29-to-2026-07-05.md",
+    "story_url": "reports/2026-06-29-to-2026-07-05.md/#chinese-and-thai-researchers-map-natural-rubbers-built-in-reinforcement-system"
+  },
+  {
     "story_id": "2026-06-29-sumitomo-rubber-packages-acquired-ai-into-manufacturing-and-failure-prediction-tools",
     "week_start": "2026-06-29",
     "week_end": "2026-07-05",
@@ -111,78 +156,123 @@
     "story_url": "reports/2026-06-29-to-2026-07-05.md/#sumitomo-rubber-packages-acquired-ai-into-manufacturing-and-failure-prediction-tools"
   },
   {
-    "story_id": "2026-06-29-dunlops-ice-pro-deliberately-trades-broad-balance-for-stronger-ice-performance",
-    "week_start": "2026-06-29",
-    "week_end": "2026-07-05",
-    "publication_date": "2026-07-01",
-    "event_date": null,
-    "effective_date": null,
-    "title": "Dunlop's ICE Pro deliberately trades broad balance for stronger ice performance",
-    "primary_category": "R&D & Product Development",
-    "related_categories": [],
-    "tags": [],
-    "event_type": "other",
-    "project_stage": "not_assessed",
-    "companies": [
-      "Sumitomo Rubber Industries"
-    ],
-    "counterparties": [],
-    "products_or_technologies": [],
-    "geographies": [],
-    "what_happened": "Sumitomo Rubber announced an August 2026 launch for the 99-size ICE Pro winter range. It attributes the design to a new water-absorbing compound, low-temperature additive, moisture-retaining polymer, tread, and profile, and reports 25% better ice braking and 9% better ice cornering than Winter Maxx 03.",
-    "intelligence_signal": "Product architecture is becoming more explicit about sacrificing some balanced performance to maximize a priority use case, here sustained adhesion on ice.",
-    "why_it_matters": "The launch tests whether customers will value specialized winter safety performance enough to accept the stated trade-off, while showing how compound aging is being addressed alongside new-tire grip.",
-    "what_to_watch": null,
-    "sources": [
-      {
-        "publisher": "Sumitomo Rubber Industries",
-        "title": null,
-        "publication_date": "2026-07-01",
-        "url": "https://www.srigroup.co.jp/newsrelease/2026/sri/2026_066.html",
-        "source_role": "primary",
-        "link_label": "Sumitomo Rubber Industries"
-      }
-    ],
-    "evidence_status": "source_reported",
-    "weekly_report_path": "reports/2026-06-29-to-2026-07-05.md",
-    "story_url": "reports/2026-06-29-to-2026-07-05.md/#dunlops-ice-pro-deliberately-trades-broad-balance-for-stronger-ice-performance"
-  },
-  {
-    "story_id": "2026-06-29-continental-launches-a-mixed-use-all-terrain-tire-with-reinforced-construction",
+    "story_id": "2026-06-29-china-tire-forum-links-virtual-sensing-new-materials-and-flexible-automation",
     "week_start": "2026-06-29",
     "week_end": "2026-07-05",
     "publication_date": "2026-07-03",
     "event_date": null,
     "effective_date": null,
-    "title": "Continental launches a mixed-use all-terrain tire with reinforced construction",
+    "title": "China tire forum links virtual sensing, new materials, and flexible automation",
     "primary_category": "R&D & Product Development",
     "related_categories": [],
     "tags": [],
     "event_type": "other",
     "project_stage": "not_assessed",
     "companies": [
-      "Continental"
+      "CRIA forum participants; ZC Rubber; DoubleStar; Chinese universities and suppliers"
     ],
     "counterparties": [],
     "products_or_technologies": [],
     "geographies": [],
-    "what_happened": "Continental introduced the CrossContact A/T² for SUVs, four-wheel-drive vehicles, EVs, and pickups. The tire combines increased tread depth and void ratio, reinforced sidewalls and off-shoulders, rigid blocks, self-cleaning elements, and a dedicated 4x4 compound; the initial range covers nine sizes from 15 to 17 inches.",
-    "intelligence_signal": "All-terrain development is converging on one casing and compound package intended to balance paved-road predictability with traction and damage resistance off road.",
-    "why_it_matters": "The design illustrates how manufacturers are extending mixed-use products to EV and light-truck applications while managing classic trade-offs among grip, durability, noise, and handling.",
+    "what_happened": "CRIA's organizer recap of its June 25 technology forum described software-only virtual tire sensing, data-mechanism hybrid estimation, low-hysteresis carbon black, liquid butyl rubber, partitioned curing, and flexible belt automation.",
+    "intelligence_signal": "China's tire-development stack is converging across materials, simulation, sensing, curing, and factory automation instead of optimizing each layer separately.",
+    "why_it_matters": "The combined approach can shorten development cycles and connect tire performance with manufacturing control, although most disclosed results remain presenter claims.",
     "what_to_watch": null,
     "sources": [
       {
-        "publisher": "Continental",
+        "publisher": "China Rubber Industry Association",
         "title": null,
         "publication_date": "2026-07-03",
-        "url": "https://www.continental.com/en/press/press-releases/20260703-crosscontact-at2",
+        "url": "https://www.cria.org.cn/a/2072868175523975170",
         "source_role": "primary",
-        "link_label": "Continental"
+        "link_label": "China Rubber Industry Association"
       }
     ],
     "evidence_status": "source_reported",
     "weekly_report_path": "reports/2026-06-29-to-2026-07-05.md",
-    "story_url": "reports/2026-06-29-to-2026-07-05.md/#continental-launches-a-mixed-use-all-terrain-tire-with-reinforced-construction"
+    "story_url": "reports/2026-06-29-to-2026-07-05.md/#china-tire-forum-links-virtual-sensing-new-materials-and-flexible-automation"
+  },
+  {
+    "story_id": "2026-06-29-aeolus-and-qingdao-university-of-science-and-technology-establish-a-tire-materials-research-partnership",
+    "week_start": "2026-06-29",
+    "week_end": "2026-07-05",
+    "publication_date": "2026-07-05",
+    "event_date": null,
+    "effective_date": null,
+    "title": "Aeolus and Qingdao University of Science and Technology establish a tire-materials research partnership",
+    "primary_category": "R&D & Product Development",
+    "related_categories": [],
+    "tags": [],
+    "event_type": "other",
+    "project_stage": "not_assessed",
+    "companies": [
+      "Aeolus Tyre; Qingdao University of Science and Technology; China National Tire & Rubber"
+    ],
+    "counterparties": [],
+    "products_or_technologies": [],
+    "geographies": [],
+    "what_happened": "Qingdao University of Science and Technology reported a July 3 strategic cooperation signing with Aeolus and China National Tire & Rubber covering university-industry research and transfer of tire-material and engineering results.",
+    "intelligence_signal": "Chinese tire makers are formalizing university links to move material research into industrial development programs.",
+    "why_it_matters": "The partnership can accelerate applied work and talent transfer, but value will depend on named projects, intellectual-property terms, and production adoption.",
+    "what_to_watch": null,
+    "sources": [
+      {
+        "publisher": "Qingdao University of Science and Technology",
+        "title": null,
+        "publication_date": "2026-07-05",
+        "url": "https://xinwen.qust.edu.cn/info/1002/58842.htm",
+        "source_role": "primary",
+        "link_label": "Qingdao University of Science and Technology"
+      }
+    ],
+    "evidence_status": "source_reported",
+    "weekly_report_path": "reports/2026-06-29-to-2026-07-05.md",
+    "story_url": "reports/2026-06-29-to-2026-07-05.md/#aeolus-and-qingdao-university-of-science-and-technology-establish-a-tire-materials-research-partnership"
+  },
+  {
+    "story_id": "2026-06-29-india-recommends-five-year-duties-on-a-tire-antioxidant-feedstock-from-china",
+    "week_start": "2026-06-29",
+    "week_end": "2026-07-05",
+    "publication_date": "2026-06-29",
+    "event_date": null,
+    "effective_date": null,
+    "title": "India recommends five-year duties on a tire-antioxidant feedstock from China",
+    "primary_category": "Materials & Supply Chain",
+    "related_categories": [],
+    "tags": [],
+    "event_type": "other",
+    "project_stage": "not_assessed",
+    "companies": [
+      "India Directorate General of Trade Remedies; Chinese PX-13 exporters"
+    ],
+    "counterparties": [],
+    "products_or_technologies": [],
+    "geographies": [],
+    "what_happened": "India's trade-remedy authority issued a final affirmative recommendation on PX-13 imports from China, the EU, South Korea, and Thailand, with proposed Chinese duties of USD 511 to USD 930 per tonne and named Sennics entities at the lower rate.",
+    "intelligence_signal": "Trade remedies for tire chemicals are becoming producer-specific, increasing the value of localized supply and traceable exporter economics.",
+    "why_it_matters": "If implemented, the measure would change landed cost and sourcing choices for a 6PPD-type tire antidegradant in India.",
+    "what_to_watch": null,
+    "sources": [
+      {
+        "publisher": "China Rubber Industry Association; India DGTR",
+        "title": null,
+        "publication_date": "2026-06-29",
+        "url": "https://www.cria.org.cn/a/2071850906442371074",
+        "source_role": "primary",
+        "link_label": "China Rubber Industry Association; India DGTR"
+      },
+      {
+        "publisher": null,
+        "title": null,
+        "publication_date": null,
+        "url": "https://dgtr.gov.in/sites/default/files/2026-06/FF%20NCV%20ENGLISH%20SIGNED.pdf",
+        "source_role": "companion",
+        "link_label": "second source"
+      }
+    ],
+    "evidence_status": "source_reported",
+    "weekly_report_path": "reports/2026-06-29-to-2026-07-05.md",
+    "story_url": "reports/2026-06-29-to-2026-07-05.md/#india-recommends-five-year-duties-on-a-tire-antioxidant-feedstock-from-china"
   },
   {
     "story_id": "2026-06-29-australias-mining-tire-rules-leave-almost-all-otr-casings-outside-recycling-loops",
@@ -275,41 +365,78 @@
     "story_url": "reports/2026-06-29-to-2026-07-05.md/#michelin-completes-tex-tech-acquisition-to-deepen-coated-textile-and-polymer-composite-reach"
   },
   {
-    "story_id": "2026-06-29-sumitomo-rubber-moves-to-absorb-its-logistics-subsidiary",
+    "story_id": "2026-06-29-zhongtian-signs-an-egypt-project-for-tire-steel-cord-and-bead-wire",
     "week_start": "2026-06-29",
     "week_end": "2026-07-05",
-    "publication_date": "2026-07-01",
+    "publication_date": "2026-07-02",
     "event_date": null,
     "effective_date": null,
-    "title": "Sumitomo Rubber moves to absorb its logistics subsidiary",
+    "title": "Zhongtian signs an Egypt project for tire steel cord and bead wire",
     "primary_category": "Materials & Supply Chain",
     "related_categories": [],
     "tags": [],
     "event_type": "other",
     "project_stage": "not_assessed",
     "companies": [
-      "Sumitomo Rubber Industries; SRI Logistics"
+      "Zhongtian Steel; Egypt TEDA zone"
     ],
     "counterparties": [],
     "products_or_technologies": [],
     "geographies": [],
-    "what_happened": "Sumitomo Rubber's board resolved to absorb wholly owned freight-forwarder SRI Logistics, subject to a scheduled July 2 agreement and January 1, 2027 effective date. The company says the move will consolidate group logistics, improve operating efficiency, speed decisions, and create an optimized framework.",
-    "intelligence_signal": "Tire manufacturers are bringing logistics governance closer to the operating company as volatility raises the value of faster network decisions and unified data.",
-    "why_it_matters": "The merger would internalize a subsidiary with JPY 3.98 billion of 2025 sales, but its real distribution benefit will depend on execution rather than the legal simplification alone.",
+    "what_happened": "A China Rubber report said Zhongtian signed a project in Egypt's Ain Sokhna TEDA zone for planned annual output of 120,000 tonnes of steel cord and 50,000 tonnes of bead wire, with stated investment of USD 300 million.",
+    "intelligence_signal": "Chinese tire-material suppliers are following tire makers overseas and building reinforcement capacity closer to Middle East, European, and African customers.",
+    "why_it_matters": "If the project advances beyond signing, it could localize two critical reinforcement inputs and reshape regional supply lead times.",
     "what_to_watch": null,
     "sources": [
       {
-        "publisher": "Sumitomo Rubber Industries stock-exchange filing",
+        "publisher": "China Rubber Industry Association",
         "title": null,
-        "publication_date": "2026-07-01",
-        "url": "https://www.srigroup.co.jp/english/newsrelease/2026/sri/dvql4p000011pxoy-att/2026_disclosure0701.pdf",
+        "publication_date": "2026-07-02",
+        "url": "https://www.cria.org.cn/a/2072580238622167042",
         "source_role": "primary",
-        "link_label": "Sumitomo Rubber Industries stock-exchange filing"
+        "link_label": "China Rubber Industry Association"
       }
     ],
     "evidence_status": "source_reported",
     "weekly_report_path": "reports/2026-06-29-to-2026-07-05.md",
-    "story_url": "reports/2026-06-29-to-2026-07-05.md/#sumitomo-rubber-moves-to-absorb-its-logistics-subsidiary"
+    "story_url": "reports/2026-06-29-to-2026-07-05.md/#zhongtian-signs-an-egypt-project-for-tire-steel-cord-and-bead-wire"
+  },
+  {
+    "story_id": "2026-06-29-orion-starts-tire-pyrolysis-oil-carbon-black-production-in-qingdao",
+    "week_start": "2026-06-29",
+    "week_end": "2026-07-05",
+    "publication_date": "2026-07-04",
+    "event_date": null,
+    "effective_date": null,
+    "title": "Orion starts tire-pyrolysis-oil carbon black production in Qingdao",
+    "primary_category": "Materials & Supply Chain",
+    "related_categories": [],
+    "tags": [],
+    "event_type": "other",
+    "project_stage": "not_assessed",
+    "companies": [
+      "Orion Engineered Carbons Qingdao"
+    ],
+    "counterparties": [],
+    "products_or_technologies": [],
+    "geographies": [],
+    "what_happened": "Orion said its ISCC PLUS-certified Qingdao plant began producing ECORAX Circular 200, 210, and 215 carbon blacks using tire-pyrolysis oil, with grades positioned for tires and other rubber goods.",
+    "intelligence_signal": "China is becoming a production node for mass-balance circular tire carbon black rather than only a consumer of imported sustainable grades.",
+    "why_it_matters": "Local production can reduce supply-chain distance for Chinese tire plants and provide a route for tire-pyrolysis oil back into new compounds.",
+    "what_to_watch": null,
+    "sources": [
+      {
+        "publisher": "CRIA Carbon Black Branch citing Orion",
+        "title": null,
+        "publication_date": "2026-07-04",
+        "url": "https://cncbt.cria.org.cn/a/2073220065080217602",
+        "source_role": "primary",
+        "link_label": "CRIA Carbon Black Branch citing Orion"
+      }
+    ],
+    "evidence_status": "source_reported",
+    "weekly_report_path": "reports/2026-06-29-to-2026-07-05.md",
+    "story_url": "reports/2026-06-29-to-2026-07-05.md/#orion-starts-tire-pyrolysis-oil-carbon-black-production-in-qingdao"
   },
   {
     "story_id": "2026-06-29-tolins-subsidiary-agrees-to-buy-reclaimed-rubber-machinery-for-backward-integration",
@@ -517,86 +644,41 @@
     "story_url": "reports/2026-06-29-to-2026-07-05.md/#apollo-tyres-closes-tire-production-at-its-enschede-plant"
   },
   {
-    "story_id": "2026-06-29-kumho-turns-four-light-truck-products-into-a-terrain-based-buying-ladder",
+    "story_id": "2026-06-29-triangle-takes-a-five-pattern-ev-tire-range-to-brazils-local-channel",
     "week_start": "2026-06-29",
     "week_end": "2026-07-05",
-    "publication_date": "2026-06-29",
+    "publication_date": "2026-07-01",
     "event_date": null,
     "effective_date": null,
-    "title": "Kumho turns four light-truck products into a terrain-based buying ladder",
+    "title": "Triangle takes a five-pattern EV-tire range to Brazil's local channel",
     "primary_category": "Marketing & Distribution",
     "related_categories": [],
     "tags": [],
     "event_type": "other",
     "project_stage": "not_assessed",
     "companies": [
-      "Kumho Tire U.S.A."
+      "Triangle Tyre"
     ],
     "counterparties": [],
     "products_or_technologies": [],
     "geographies": [],
-    "what_happened": "Kumho organized its U.S. Road Venture light-truck portfolio into four differentiated steps: HT for highway, AT52 for all-terrain, RT for rugged terrain, and MT71 for mud terrain. The release pairs each use case with warranties and performance cues; the HT carries 3PMSF and warranties of 75,000 miles for P-metric and 50,000 miles for LT-metric sizes.",
-    "intelligence_signal": "Tire makers are simplifying complex SUV and pickup portfolios into use-case ladders that make trade-offs more legible at the dealer and consumer decision point.",
-    "why_it_matters": "Clear portfolio architecture can reduce selection friction in the large U.S. light-truck market while giving dealers a coherent path from highway to severe off-road use.",
+    "what_happened": "Triangle presented five EV-oriented passenger-tire patterns at two Brazilian industry events and said the range was localized for Latin American roads and use preferences.",
+    "intelligence_signal": "Chinese tire makers are using region-specific EV assortments to build distributor pull in Latin America.",
+    "why_it_matters": "Brazil provides a practical test of whether EV positioning can translate into dealer education, replacement coverage, and stronger Chinese-brand acceptance.",
     "what_to_watch": null,
     "sources": [
       {
-        "publisher": "Kumho Tire U.S.A.; PR Newswire",
+        "publisher": "Triangle Tyre",
         "title": null,
-        "publication_date": "2026-06-29",
-        "url": "https://kumhotireusa.com/press-room/3247",
+        "publication_date": "2026-07-01",
+        "url": "https://www.triangle.com.cn/cn/index/pageview/catid/4/id/98.html",
         "source_role": "primary",
-        "link_label": "Kumho Tire U.S.A.; PR Newswire"
-      },
-      {
-        "publisher": null,
-        "title": null,
-        "publication_date": null,
-        "url": "https://www.prnewswire.com/news-releases/kumho-tire-simplifies-light-truck-tire-selection-with-road-venture-lineup-302812879.html",
-        "source_role": "companion",
-        "link_label": "second source"
+        "link_label": "Triangle Tyre"
       }
     ],
     "evidence_status": "source_reported",
     "weekly_report_path": "reports/2026-06-29-to-2026-07-05.md",
-    "story_url": "reports/2026-06-29-to-2026-07-05.md/#kumho-turns-four-light-truck-products-into-a-terrain-based-buying-ladder"
-  },
-  {
-    "story_id": "2026-06-29-dunlop-makes-a-heritage-mini-bike-tire-exclusive-to-its-official-online-store",
-    "week_start": "2026-06-29",
-    "week_end": "2026-07-05",
-    "publication_date": "2026-06-29",
-    "event_date": null,
-    "effective_date": null,
-    "title": "Dunlop makes a heritage mini-bike tire exclusive to its official online store",
-    "primary_category": "Marketing & Distribution",
-    "related_categories": [],
-    "tags": [],
-    "event_type": "other",
-    "project_stage": "not_assessed",
-    "companies": [
-      "Sumitomo Rubber Industries"
-    ],
-    "counterparties": [],
-    "products_or_technologies": [],
-    "geographies": [],
-    "what_happened": "Sumitomo Rubber said sales of a TT100 mini-bike tire would begin July 1 exclusively through Dunlop's official Japanese online tire store. The 3.50-8 46J front/rear product uses the historic T100 tread pattern and targets wheel-customization and tubeless-conversion users.",
-    "intelligence_signal": "Tire makers are using direct e-commerce exclusives to serve small enthusiast niches that may not justify broad dealer inventory.",
-    "why_it_matters": "The launch provides a low-volume test of direct assortment expansion, customer discovery, and heritage-brand monetization outside conventional replacement distribution.",
-    "what_to_watch": null,
-    "sources": [
-      {
-        "publisher": "Sumitomo Rubber Industries",
-        "title": null,
-        "publication_date": "2026-06-29",
-        "url": "https://www.srigroup.co.jp/newsrelease/2026/sri/2026_064.html",
-        "source_role": "primary",
-        "link_label": "Sumitomo Rubber Industries"
-      }
-    ],
-    "evidence_status": "source_reported",
-    "weekly_report_path": "reports/2026-06-29-to-2026-07-05.md",
-    "story_url": "reports/2026-06-29-to-2026-07-05.md/#dunlop-makes-a-heritage-mini-bike-tire-exclusive-to-its-official-online-store"
+    "story_url": "reports/2026-06-29-to-2026-07-05.md/#triangle-takes-a-five-pattern-ev-tire-range-to-brazils-local-channel"
   },
   {
     "story_id": "2026-06-29-michelin-adds-conversational-ai-to-fleet-operations-and-tire-maintenance-queries",
@@ -693,6 +775,43 @@
     "story_url": "reports/2026-06-29-to-2026-07-05.md/#overseas-factories-and-ev-oe-accounts-emerge-as-chinese-tire-makers-profit-levers"
   },
   {
+    "story_id": "2026-06-29-chinas-tire-sector-grows-sales-value-while-profit-pressure-persists-through-may",
+    "week_start": "2026-06-29",
+    "week_end": "2026-07-05",
+    "publication_date": "2026-06-30",
+    "event_date": null,
+    "effective_date": null,
+    "title": "China's tire sector grows sales value while profit pressure persists through May",
+    "primary_category": "Sales & Customer Services",
+    "related_categories": [],
+    "tags": [],
+    "event_type": "other",
+    "project_stage": "not_assessed",
+    "companies": [
+      "China Rubber Industry Association member companies"
+    ],
+    "counterparties": [],
+    "products_or_technologies": [],
+    "geographies": [],
+    "what_happened": "CRIA published January-May operating indicators for its reporting member companies, showing the sector's output, sales, export, and profit direction at the latest available monthly cutoff.",
+    "intelligence_signal": "China tire demand and production must be read through value, export exposure, and profitability together rather than through unit or revenue growth alone.",
+    "why_it_matters": "The association series provides a recurring early indicator for utilization and pricing pressure, while its member sample is not the entire Chinese industry.",
+    "what_to_watch": null,
+    "sources": [
+      {
+        "publisher": "China Rubber Industry Association",
+        "title": null,
+        "publication_date": "2026-06-30",
+        "url": "https://www.cria.org.cn/a/2076559153334161410",
+        "source_role": "primary",
+        "link_label": "China Rubber Industry Association"
+      }
+    ],
+    "evidence_status": "source_reported",
+    "weekly_report_path": "reports/2026-06-29-to-2026-07-05.md",
+    "story_url": "reports/2026-06-29-to-2026-07-05.md/#chinas-tire-sector-grows-sales-value-while-profit-pressure-persists-through-may"
+  },
+  {
     "story_id": "2026-06-29-goodyear-locks-in-elms-supply-through-2029-as-racing-tires-carry-up-to-66-sustainable-materials",
     "week_start": "2026-06-29",
     "week_end": "2026-07-05",
@@ -781,133 +900,6 @@
     "evidence_status": "source_reported",
     "weekly_report_path": "reports/2026-06-29-to-2026-07-05.md",
     "story_url": "reports/2026-06-29-to-2026-07-05.md/#michelin-flags-a-split-tire-market-as-premium-replacement-demand-offsets-oe-weakness"
-  },
-  {
-    "story_id": "2026-06-29-sumitomo-rubber-sets-a-6-average-increase-for-japan-replacement-tires",
-    "week_start": "2026-06-29",
-    "week_end": "2026-07-05",
-    "publication_date": "2026-06-29",
-    "event_date": null,
-    "effective_date": null,
-    "title": "Sumitomo Rubber sets a 6% average increase for Japan replacement tires",
-    "primary_category": "Sales & Customer Services",
-    "related_categories": [],
-    "tags": [],
-    "event_type": "other",
-    "project_stage": "not_assessed",
-    "companies": [
-      "Sumitomo Rubber Industries"
-    ],
-    "counterparties": [],
-    "products_or_technologies": [],
-    "geographies": [],
-    "what_happened": "Sumitomo Rubber announced an average 6% increase in distributor shipment prices from September 1 for domestic replacement-market Dunlop and Falken tires, tubes, and flaps. It cited continuing increases in raw materials, labor, logistics, and energy costs.",
-    "intelligence_signal": "Replacement-tire pricing is broadening from raw-material pass-through to recovery of labor, freight, and energy inflation.",
-    "why_it_matters": "The increase is a direct market signal for Japanese dealers and fleets and may test brand pricing power if consumer demand remains soft or competitors move differently.",
-    "what_to_watch": null,
-    "sources": [
-      {
-        "publisher": "Sumitomo Rubber Industries",
-        "title": null,
-        "publication_date": "2026-06-29",
-        "url": "https://www.srigroup.co.jp/newsrelease/2026/sri/2026_070.html",
-        "source_role": "primary",
-        "link_label": "Sumitomo Rubber Industries"
-      }
-    ],
-    "evidence_status": "source_reported",
-    "weekly_report_path": "reports/2026-06-29-to-2026-07-05.md",
-    "story_url": "reports/2026-06-29-to-2026-07-05.md/#sumitomo-rubber-sets-a-6-average-increase-for-japan-replacement-tires"
-  },
-  {
-    "story_id": "2026-06-29-bridgestone-wins-yamaha-yzf-r7-original-equipment-fitment-for-battlax-s23",
-    "week_start": "2026-06-29",
-    "week_end": "2026-07-05",
-    "publication_date": "2026-06-29",
-    "event_date": null,
-    "effective_date": null,
-    "title": "Bridgestone wins Yamaha YZF-R7 original-equipment fitment for BATTLAX S23",
-    "primary_category": "Sales & Customer Services",
-    "related_categories": [],
-    "tags": [],
-    "event_type": "other",
-    "project_stage": "not_assessed",
-    "companies": [
-      "Bridgestone; Yamaha Motor"
-    ],
-    "counterparties": [],
-    "products_or_technologies": [],
-    "geographies": [],
-    "what_happened": "Bridgestone announced that Yamaha selected BATTLAX HYPERSPORT S23 tires for the new YZF-R7: 120/70ZR17 front and 180/55ZR17 rear. Bridgestone attributes the fitment to optimized shoulder-groove ratio and block rigidity plus its Pulse Groove water-drainage pattern.",
-    "intelligence_signal": "Motorcycle OE programs are combining early vehicle-development collaboration with differentiated wet-drainage and handling technologies to secure premium platform access.",
-    "why_it_matters": "The win gives Bridgestone a visible validation point for BATTLAX technology and embeds the brand at new-vehicle sale, which can influence later replacement demand.",
-    "what_to_watch": null,
-    "sources": [
-      {
-        "publisher": "Bridgestone",
-        "title": null,
-        "publication_date": "2026-06-29",
-        "url": "https://www.bridgestone.com/corporate/news/2026062901.html",
-        "source_role": "primary",
-        "link_label": "Bridgestone"
-      },
-      {
-        "publisher": null,
-        "title": null,
-        "publication_date": null,
-        "url": "https://www.yamaha-motor.eu/gb/en/motorcycles/supersport/pdp/r7-2026",
-        "source_role": "companion",
-        "link_label": "second source"
-      }
-    ],
-    "evidence_status": "source_reported",
-    "weekly_report_path": "reports/2026-06-29-to-2026-07-05.md",
-    "story_url": "reports/2026-06-29-to-2026-07-05.md/#bridgestone-wins-yamaha-yzf-r7-original-equipment-fitment-for-battlax-s23"
-  },
-  {
-    "story_id": "2026-06-29-ustma-pairs-tire-maintenance-guidance-with-a-new-full-circle-public-platform",
-    "week_start": "2026-06-29",
-    "week_end": "2026-07-05",
-    "publication_date": "2026-06-29",
-    "event_date": null,
-    "effective_date": null,
-    "title": "USTMA pairs tire-maintenance guidance with a new Full Circle public platform",
-    "primary_category": "Sales & Customer Services",
-    "related_categories": [],
-    "tags": [],
-    "event_type": "other",
-    "project_stage": "not_assessed",
-    "companies": [
-      "U.S. Tire Manufacturers Association"
-    ],
-    "counterparties": [],
-    "products_or_technologies": [],
-    "geographies": [],
-    "what_happened": "USTMA opened National Tire Safety Week with a monthly and pre-trip Pressure, Alignment, Rotation, and Tread checklist and launched Full Circle, a public storytelling platform organized around safety, sustainability, innovation, economic impact, and advocacy. Eleven U.S. tire-maker members support the campaign.",
-    "intelligence_signal": "Industry aftercare communication is shifting from a one-week safety reminder toward an always-on platform linking maintenance with the tire lifecycle and industry value.",
-    "why_it_matters": "A shared message can reinforce inspection and maintenance behavior across brands and channels, though campaign reach and resulting consumer action will determine practical impact.",
-    "what_to_watch": null,
-    "sources": [
-      {
-        "publisher": "U.S. Tire Manufacturers Association",
-        "title": null,
-        "publication_date": "2026-06-29",
-        "url": "https://www.ustires.org/newsroom/ustma-kicks-national-tire-safety-week-june-29-july-4",
-        "source_role": "primary",
-        "link_label": "U.S. Tire Manufacturers Association"
-      },
-      {
-        "publisher": null,
-        "title": null,
-        "publication_date": null,
-        "url": "https://www.ustires.org/fullcircle",
-        "source_role": "companion",
-        "link_label": "second source"
-      }
-    ],
-    "evidence_status": "source_reported",
-    "weekly_report_path": "reports/2026-06-29-to-2026-07-05.md",
-    "story_url": "reports/2026-06-29-to-2026-07-05.md/#ustma-pairs-tire-maintenance-guidance-with-a-new-full-circle-public-platform"
   },
   {
     "story_id": "2026-07-06-bridgestone-moves-airfree-from-trials-into-a-regular-autonomous-transit-service",
@@ -1063,51 +1055,6 @@
     "story_url": "reports/2026-07-06-to-2026-07-12.md/#zc-rubber-and-hit-win-a-state-award-for-an-integrated-tire-technology-stack"
   },
   {
-    "story_id": "2026-07-06-michelin-adds-a-visual-inflation-status-feature-to-the-xha3-construction-tire",
-    "week_start": "2026-07-06",
-    "week_end": "2026-07-12",
-    "publication_date": "2026-07-07",
-    "event_date": null,
-    "effective_date": null,
-    "title": "Michelin adds a visual inflation-status feature to the XHA3 construction tire",
-    "primary_category": "R&D & Product Development",
-    "related_categories": [],
-    "tags": [],
-    "event_type": "other",
-    "project_stage": "not_assessed",
-    "companies": [
-      "Michelin"
-    ],
-    "counterparties": [],
-    "products_or_technologies": [],
-    "geographies": [],
-    "what_happened": "Michelin launched the multi-machine XHA3 construction tire for loaders, articulated dump trucks and graders. Its patent-pending Visual Pressure Control is an integrated sidewall indicator intended to show whether inflation may need adjustment without an electronic device.",
-    "intelligence_signal": "Tire-condition communication is expanding beyond connected sensors to passive, visually readable features designed around daily fleet inspection workflows.",
-    "why_it_matters": "A simple inflation cue could reduce inspection friction and make tire management accessible across mixed construction fleets, while one casing family covers E3, L3 and G3 applications.",
-    "what_to_watch": null,
-    "sources": [
-      {
-        "publisher": "Michelin",
-        "title": null,
-        "publication_date": "2026-07-07",
-        "url": "https://www.michelin.com/en/publications/products-and-services/michelin-xha3-tire-construction-equipment",
-        "source_role": "primary",
-        "link_label": "Michelin"
-      },
-      {
-        "publisher": null,
-        "title": null,
-        "publication_date": null,
-        "url": "https://www.michelin.com/publications/produits-et-services/michelin-xha3-pneu-engins-construction",
-        "source_role": "companion",
-        "link_label": "second source"
-      }
-    ],
-    "evidence_status": "source_reported",
-    "weekly_report_path": "reports/2026-07-06-to-2026-07-12.md",
-    "story_url": "reports/2026-07-06-to-2026-07-12.md/#michelin-adds-a-visual-inflation-status-feature-to-the-xha3-construction-tire"
-  },
-  {
     "story_id": "2026-07-06-toyo-patent-targets-lower-heat-generation-from-reclaimed-rubber-without-sacrificing-fracture-performance",
     "week_start": "2026-07-06",
     "week_end": "2026-07-12",
@@ -1211,41 +1158,123 @@
     "story_url": "reports/2026-07-06-to-2026-07-12.md/#triangle-tire-publishes-rfid-barcode-binding-and-rejection-patent-application"
   },
   {
-    "story_id": "2026-07-06-titan-launches-a-value-oriented-forestry-tire-with-steel-belt-protection",
+    "story_id": "2026-07-06-china-tire-forum-points-to-bio-materials-electric-curing-and-ai-assisted-rd",
     "week_start": "2026-07-06",
     "week_end": "2026-07-12",
-    "publication_date": "2026-07-07",
+    "publication_date": "2026-07-06",
     "event_date": null,
     "effective_date": null,
-    "title": "Titan launches a value-oriented forestry tire with steel-belt protection",
+    "title": "China tire forum points to bio-materials, electric curing, and AI-assisted R&D",
     "primary_category": "R&D & Product Development",
     "related_categories": [],
     "tags": [],
     "event_type": "other",
     "project_stage": "not_assessed",
     "companies": [
-      "Titan International"
+      "CRIA forum participants including Linglong, Aeolus, Double Coin, and suppliers"
     ],
     "counterparties": [],
     "products_or_technologies": [],
     "geographies": [],
-    "what_happened": "Titan launched the ForestEDGE line for skidders, feller bunchers and other forestry machinery. It uses a heavy-duty steel-belt package and robust compound; two sizes are open for orders and a third is planned for third-quarter delivery.",
-    "intelligence_signal": "Off-highway makers are segmenting specialty portfolios by combining application-specific protection with a lower-price alternative to established premium lines.",
-    "why_it_matters": "Forestry tires face rocks, stumps and debris, so a credible value tier can affect fleet operating cost and dealer mix if its field durability matches the company's positioning.",
+    "what_happened": "CRIA published technical disclosures from its Global Tire Technology Forum covering epoxidized natural rubber, itaconic-acid bio-rubber, renewable fillers, low-hysteresis carbon black, AI material simulation, laser wear scanning, and electric curing.",
+    "intelligence_signal": "Sustainability work is moving from isolated substitutions toward coordinated changes in compounds, curing, testing, and digital formulation.",
+    "why_it_matters": "A portfolio view shows which Chinese technologies may combine into lower-carbon tires, while individual performance claims still require independent validation.",
     "what_to_watch": null,
     "sources": [
       {
-        "publisher": "Titan International",
+        "publisher": "China Rubber Industry Association",
         "title": null,
-        "publication_date": "2026-07-07",
-        "url": "https://www.titan-intl.com/news-events/07072026_ForestEdge",
+        "publication_date": "2026-07-06",
+        "url": "https://www.cria.org.cn/a/2074024351431233538",
         "source_role": "primary",
-        "link_label": "Titan International"
+        "link_label": "China Rubber Industry Association"
       }
     ],
     "evidence_status": "source_reported",
     "weekly_report_path": "reports/2026-07-06-to-2026-07-12.md",
-    "story_url": "reports/2026-07-06-to-2026-07-12.md/#titan-launches-a-value-oriented-forestry-tire-with-steel-belt-protection"
+    "story_url": "reports/2026-07-06-to-2026-07-12.md/#china-tire-forum-points-to-bio-materials-electric-curing-and-ai-assisted-rd"
+  },
+  {
+    "story_id": "2026-07-06-maxxis-uses-independent-worn-tire-testing-to-support-premium-positioning-in-china",
+    "week_start": "2026-07-06",
+    "week_end": "2026-07-12",
+    "publication_date": "2026-07-07",
+    "event_date": null,
+    "effective_date": null,
+    "title": "Maxxis uses independent worn-tire testing to support premium positioning in China",
+    "primary_category": "R&D & Product Development",
+    "related_categories": [],
+    "tags": [],
+    "event_type": "other",
+    "project_stage": "not_assessed",
+    "companies": [
+      "Maxxis China; TÜV SÜD"
+    ],
+    "counterparties": [],
+    "products_or_technologies": [],
+    "geographies": [],
+    "what_happened": "Maxxis China said a 235/35 R19 Victra Sport 6 specification received TÜV SÜD's Premium Tire Mark after testing that included dry, wet, worn wet-grip, rolling-resistance, high-speed, and noise criteria.",
+    "intelligence_signal": "Premium tire claims in China are expanding from new-tire performance toward independently assessed lifecycle performance.",
+    "why_it_matters": "Worn-state validation can strengthen dealer confidence and export credibility as regulators and buyers pay more attention to performance throughout tread life.",
+    "what_to_watch": null,
+    "sources": [
+      {
+        "publisher": "Maxxis China; TÜV SÜD",
+        "title": null,
+        "publication_date": "2026-07-07",
+        "url": "https://www.maxxis.com.cn/news_detail.php?Key=148&cID=3",
+        "source_role": "primary",
+        "link_label": "Maxxis China; TÜV SÜD"
+      },
+      {
+        "publisher": null,
+        "title": null,
+        "publication_date": null,
+        "url": "https://www.tuvsud.com/zh-tw/resource/gcn-en-pressrelease/2026/jul/maxxis-vs6-tire",
+        "source_role": "companion",
+        "link_label": "second source"
+      }
+    ],
+    "evidence_status": "source_reported",
+    "weekly_report_path": "reports/2026-07-06-to-2026-07-12.md",
+    "story_url": "reports/2026-07-06-to-2026-07-12.md/#maxxis-uses-independent-worn-tire-testing-to-support-premium-positioning-in-china"
+  },
+  {
+    "story_id": "2026-07-06-linglongs-midyear-rd-review-centers-its-move-from-scale-to-higher-value-technology",
+    "week_start": "2026-07-06",
+    "week_end": "2026-07-12",
+    "publication_date": "2026-07-10",
+    "event_date": null,
+    "effective_date": null,
+    "title": "Linglong's midyear R&D review centers its move from scale to higher-value technology",
+    "primary_category": "R&D & Product Development",
+    "related_categories": [],
+    "tags": [],
+    "event_type": "other",
+    "project_stage": "not_assessed",
+    "companies": [
+      "Linglong Tire"
+    ],
+    "counterparties": [],
+    "products_or_technologies": [],
+    "geographies": [],
+    "what_happened": "Linglong's July 9 research review summarized first-half technical programs and framed the company's development path as a shift from scale catch-up toward higher-end products and technology-led competition.",
+    "intelligence_signal": "Chinese tire makers are making R&D portfolio governance and commercialization discipline more explicit as they target premium segments.",
+    "why_it_matters": "The meeting signals management priority, but the commercial test will be named platforms, validated performance, patents, and revenue from the reviewed programs.",
+    "what_to_watch": null,
+    "sources": [
+      {
+        "publisher": "Linglong official disclosure preserved by 10jqka",
+        "title": null,
+        "publication_date": "2026-07-10",
+        "url": "https://stock.10jqka.com.cn/20260710/c678081034.shtml",
+        "source_role": "primary",
+        "link_label": "Linglong official disclosure preserved by 10jqka"
+      }
+    ],
+    "evidence_status": "source_reported",
+    "weekly_report_path": "reports/2026-07-06-to-2026-07-12.md",
+    "story_url": "reports/2026-07-06-to-2026-07-12.md/#linglongs-midyear-rd-review-centers-its-move-from-scale-to-higher-value-technology"
   },
   {
     "story_id": "2026-07-06-michelin-and-axens-prepare-global-licensing-of-bio-based-5-hmf-chemistry",
@@ -1400,6 +1429,43 @@
     "evidence_status": "confirmed",
     "weekly_report_path": "reports/2026-07-06-to-2026-07-12.md",
     "story_url": "reports/2026-07-06-to-2026-07-12.md/#chinese-pa66-reinforcement-reaches-industrial-scale-aviation-tire-application"
+  },
+  {
+    "story_id": "2026-07-06-chinese-tire-export-orders-weaken-under-trade-and-freight-pressure",
+    "week_start": "2026-07-06",
+    "week_end": "2026-07-12",
+    "publication_date": "2026-07-07",
+    "event_date": null,
+    "effective_date": null,
+    "title": "Chinese tire export orders weaken under trade and freight pressure",
+    "primary_category": "Materials & Supply Chain",
+    "related_categories": [],
+    "tags": [],
+    "event_type": "other",
+    "project_stage": "not_assessed",
+    "companies": [
+      "Chinese PCR and TBR producers"
+    ],
+    "counterparties": [],
+    "products_or_technologies": [],
+    "geographies": [],
+    "what_happened": "Longzhong's surveyed producers reported weaker export-order direction for both semi-steel and all-steel tires amid trade barriers, freight costs, and soft domestic demand.",
+    "intelligence_signal": "Export friction is translating into production restraint and attempts to redirect Chinese tire sales toward alternative markets.",
+    "why_it_matters": "The direction affects utilization and near-term demand for rubber, carbon black, chemicals, reinforcement, and logistics, even though the visible survey lacks a complete sampling method.",
+    "what_to_watch": null,
+    "sources": [
+      {
+        "publisher": "Longzhong Information",
+        "title": null,
+        "publication_date": "2026-07-07",
+        "url": "https://www.oilchem.net/26-0707-11-afbbd8def131d482.html",
+        "source_role": "primary",
+        "link_label": "Longzhong Information"
+      }
+    ],
+    "evidence_status": "source_reported",
+    "weekly_report_path": "reports/2026-07-06-to-2026-07-12.md",
+    "story_url": "reports/2026-07-06-to-2026-07-12.md/#chinese-tire-export-orders-weaken-under-trade-and-freight-pressure"
   },
   {
     "story_id": "2026-07-06-enviro-draws-fresh-equity-financing-while-reorganizing-its-tire-recycling-business",
@@ -1597,51 +1663,6 @@
     "evidence_status": "source_reported",
     "weekly_report_path": "reports/2026-07-06-to-2026-07-12.md",
     "story_url": "reports/2026-07-06-to-2026-07-12.md/#continental-turns-a-roadshow-into-a-multi-year-european-fleet-channel"
-  },
-  {
-    "story_id": "2026-07-06-avon-broadens-three-motorcycle-lines-with-11-fitment-additions",
-    "week_start": "2026-07-06",
-    "week_end": "2026-07-12",
-    "publication_date": "2026-07-08",
-    "event_date": null,
-    "effective_date": null,
-    "title": "Avon broadens three motorcycle lines with 11 fitment additions",
-    "primary_category": "Marketing & Distribution",
-    "related_categories": [],
-    "tags": [],
-    "event_type": "other",
-    "project_stage": "not_assessed",
-    "companies": [
-      "Avon Tyres / Goodyear"
-    ],
-    "counterparties": [],
-    "products_or_technologies": [],
-    "geographies": [],
-    "what_happened": "Avon released 11 tires across Cobra Chrome, Spirit ST and 3D Supersport, comprising seven new sizes and four existing sizes optimized for broader motorcycle fitment.",
-    "intelligence_signal": "The range extension combines new dimensions with load, speed-rating and construction changes to cover cruisers, older sport bikes and small- to medium-displacement models from emerging brands.",
-    "why_it_matters": "Broader fitment coverage expands replacement-market reach without requiring a separate product family for every motorcycle segment and gives dealers more addressable applications under established lines.",
-    "what_to_watch": null,
-    "sources": [
-      {
-        "publisher": "Goodyear EMEA newsroom",
-        "title": null,
-        "publication_date": "2026-07-08",
-        "url": "https://news.goodyear.eu/avon-tyres-broadens-market-coverage-with-expansion-of-three-of-its-most-popular-tire-lines",
-        "source_role": "primary",
-        "link_label": "Goodyear EMEA newsroom"
-      },
-      {
-        "publisher": null,
-        "title": null,
-        "publication_date": null,
-        "url": "https://www.tyrepress.com/2026/07/avon-tyres-expands-3-motorcycle-lines",
-        "source_role": "companion",
-        "link_label": "second source"
-      }
-    ],
-    "evidence_status": "source_reported",
-    "weekly_report_path": "reports/2026-07-06-to-2026-07-12.md",
-    "story_url": "reports/2026-07-06-to-2026-07-12.md/#avon-broadens-three-motorcycle-lines-with-11-fitment-additions"
   },
   {
     "story_id": "2026-07-06-zc-rubber-oe-distribution",
@@ -1876,258 +1897,86 @@
     "story_url": "reports/2026-07-06-to-2026-07-12.md/#pirelli-maps-its-renewed-p-zero-range-across-more-than-300-premium-homologations"
   },
   {
-    "story_id": "2026-07-06-dobbs-adds-two-bowman-stores-as-us-tire-service-consolidation-continues",
-    "week_start": "2026-07-06",
-    "week_end": "2026-07-12",
-    "publication_date": "2026-07-08",
-    "event_date": null,
-    "effective_date": null,
-    "title": "Dobbs adds two Bowman stores as US tire-service consolidation continues",
-    "primary_category": "Sales & Customer Services",
-    "related_categories": [],
-    "tags": [],
-    "event_type": "other",
-    "project_stage": "not_assessed",
-    "companies": [
-      "Dobbs Tire & Auto Centers and Bowman Tire & Repair Centers"
-    ],
-    "counterparties": [],
-    "products_or_technologies": [],
-    "geographies": [],
-    "what_happened": "Private-equity-backed Dobbs acquired two Bowman Tire & Repair Center locations in Columbus, taking the group above 155 locations in eight states and to 47 stores in Ohio.",
-    "intelligence_signal": "The transaction adds local density through acquisition of a family-owned tire and repair operator alongside Dobbs' recent greenfield and redeveloped-site expansion.",
-    "why_it_matters": "Regional density can improve purchasing, marketing, training and service coverage while showing how small independent tire businesses are being assembled into larger multi-state platforms.",
-    "what_to_watch": null,
-    "sources": [
-      {
-        "publisher": "Dobbs Tire & Auto Centers; Modern Tire Dealer",
-        "title": null,
-        "publication_date": "2026-07-08",
-        "url": "https://www.gotodobbs.com/about-dobbs",
-        "source_role": "primary",
-        "link_label": "Dobbs Tire & Auto Centers; Modern Tire Dealer"
-      },
-      {
-        "publisher": null,
-        "title": null,
-        "publication_date": null,
-        "url": "https://www.moderntiredealer.com/retail/news/55389342/dobbs-tire-expands-in-ohio",
-        "source_role": "companion",
-        "link_label": "second source"
-      }
-    ],
-    "evidence_status": "source_reported",
-    "weekly_report_path": "reports/2026-07-06-to-2026-07-12.md",
-    "story_url": "reports/2026-07-06-to-2026-07-12.md/#dobbs-adds-two-bowman-stores-as-us-tire-service-consolidation-continues"
-  },
-  {
-    "story_id": "2026-07-13-bridgestones-w909-combines-a-lower-heat-casing-with-two-retread-winter-service",
-    "week_start": "2026-07-13",
-    "week_end": "2026-07-19",
-    "publication_date": "2026-07-13",
-    "event_date": null,
-    "effective_date": null,
-    "title": "Bridgestone's W909 combines a lower-heat casing with two-retread winter service",
-    "primary_category": "R&D & Product Development",
-    "related_categories": [],
-    "tags": [],
-    "event_type": "other",
-    "project_stage": "not_assessed",
-    "companies": [
-      "Bridgestone"
-    ],
-    "counterparties": [],
-    "products_or_technologies": [],
-    "geographies": [],
-    "what_happened": "Bridgestone announced the W909 truck-and-bus studless winter tire for a September 1 launch in 12 sizes. It is the company's first truck-and-bus winter tire using its Low Thermal Case and the first in that range designed to support two retreads across a broad customer base.",
-    "intelligence_signal": "Commercial winter-tire design is linking casing heat control, new foamed rubber, wear-resistant patterning, and multiple retread lives rather than optimizing ice performance alone.",
-    "why_it_matters": "Longer casing life and less irregular wear could reduce fleet downtime, replacement cost, and material demand if the published test gains carry into varied customer operations.",
-    "what_to_watch": null,
-    "sources": [
-      {
-        "publisher": "Bridgestone Japan",
-        "title": null,
-        "publication_date": "2026-07-13",
-        "url": "https://www.bridgestone.co.jp/corporate/news/2026071301.html",
-        "source_role": "primary",
-        "link_label": "Bridgestone Japan"
-      }
-    ],
-    "evidence_status": "source_reported",
-    "weekly_report_path": "reports/2026-07-13-to-2026-07-19.md",
-    "story_url": "reports/2026-07-13-to-2026-07-19.md/#bridgestones-w909-combines-a-lower-heat-casing-with-two-retread-winter-service"
-  },
-  {
-    "story_id": "2026-07-13-continental-adds-a-long-haul-drive-retread-built-around-fuel-and-wear-efficiency",
-    "week_start": "2026-07-13",
-    "week_end": "2026-07-19",
-    "publication_date": "2026-07-13",
-    "event_date": null,
-    "effective_date": null,
-    "title": "Continental adds a long-haul drive retread built around fuel and wear efficiency",
-    "primary_category": "R&D & Product Development",
-    "related_categories": [],
-    "tags": [],
-    "event_type": "other",
-    "project_stage": "not_assessed",
-    "companies": [
-      "Continental Tires"
-    ],
-    "counterparties": [],
-    "products_or_technologies": [],
-    "geographies": [],
-    "what_happened": "Continental introduced the ContiTread HDL 5 EP long-haul drive-axle retread with a five-rib tread, an optimized footprint and V-shaped grooves, a new compound, and three-dimensional sipes. The company lists three tread widths and a 21/32-inch tread depth for the North American market.",
-    "intelligence_signal": "Retread product development is increasingly combining casing reuse with application-specific tread geometry and compound tuning aimed at fleet fuel and wear economics.",
-    "why_it_matters": "A stronger long-haul retread offer can extend casing value and lower fleet tire cost, although its claimed efficiency and durability advantages still need independent field data.",
-    "what_to_watch": null,
-    "sources": [
-      {
-        "publisher": "Continental Tires",
-        "title": null,
-        "publication_date": "2026-07-13",
-        "url": "https://www.continental-tires.com/us/en/about-us/newsroom/truck-and-bus/contitread-hdl-5-ep",
-        "source_role": "primary",
-        "link_label": "Continental Tires"
-      },
-      {
-        "publisher": null,
-        "title": null,
-        "publication_date": null,
-        "url": "https://www.continental-tires.com/us/en/products/truck/retreads/contitread-hdl-5-ep",
-        "source_role": "companion",
-        "link_label": "second source"
-      }
-    ],
-    "evidence_status": "source_reported",
-    "weekly_report_path": "reports/2026-07-13-to-2026-07-19.md",
-    "story_url": "reports/2026-07-13-to-2026-07-19.md/#continental-adds-a-long-haul-drive-retread-built-around-fuel-and-wear-efficiency"
-  },
-  {
-    "story_id": "2026-07-13-ikon-schedules-its-first-in-house-uhp-platform-for-a-2027-launch",
-    "week_start": "2026-07-13",
-    "week_end": "2026-07-19",
-    "publication_date": "2026-07-15",
-    "event_date": null,
-    "effective_date": null,
-    "title": "Ikon schedules its first in-house UHP platform for a 2027 launch",
-    "primary_category": "R&D & Product Development",
-    "related_categories": [],
-    "tags": [],
-    "event_type": "other",
-    "project_stage": "not_assessed",
-    "companies": [
-      "Ikon Tyres"
-    ],
-    "counterparties": [],
-    "products_or_technologies": [],
-    "geographies": [],
-    "what_happened": "Ikon Tyres presented Autograph Ultra 5, its first premium ultra-high-performance summer tire developed in-house, with consumer sales planned for 2027. The company describes a 54-size platform using a revised textile-cord layout, a low-permeability inner liner, and modified rubber compounds and additives.",
-    "intelligence_signal": "A regional manufacturer is moving from inherited product assets toward a proprietary, export-oriented UHP platform with its own architecture and compounding choices.",
-    "why_it_matters": "The program could increase competition in performance tires across Russia, Belarus, Kazakhstan, and later export markets, but certification and independent testing remain gating steps.",
-    "what_to_watch": null,
-    "sources": [
-      {
-        "publisher": "Ikon Tyres; Tyrepress",
-        "title": null,
-        "publication_date": "2026-07-15",
-        "url": "https://www.ikontyres.ru/o-kompanii/publikatsii/press-relizy/2026/productRelease/ikon-tyres-predstavila-pervuyu-premialnuyu-uhp-shinu-sobstvennoy-razrabotki",
-        "source_role": "primary",
-        "link_label": "Ikon Tyres; Tyrepress"
-      },
-      {
-        "publisher": null,
-        "title": null,
-        "publication_date": null,
-        "url": "https://www.tyrepress.com/2026/07/ikon-enters-uhp-segment",
-        "source_role": "companion",
-        "link_label": "second source"
-      }
-    ],
-    "evidence_status": "source_reported",
-    "weekly_report_path": "reports/2026-07-13-to-2026-07-19.md",
-    "story_url": "reports/2026-07-13-to-2026-07-19.md/#ikon-schedules-its-first-in-house-uhp-platform-for-a-2027-launch"
-  },
-  {
-    "story_id": "2026-07-13-michelin-patent-pairs-a-highly-saturated-diene-elastomer-with-azosilane-coupled-silica",
+    "story_id": "2026-07-13-backbone-rigid-functionalization-makes-natural-rubber-stronger-and-mechanically-deconstructable",
     "week_start": "2026-07-13",
     "week_end": "2026-07-19",
     "publication_date": "2026-07-16",
     "event_date": null,
     "effective_date": null,
-    "title": "Michelin patent pairs a highly saturated diene elastomer with azosilane-coupled silica",
+    "title": "Backbone-rigid functionalization makes natural rubber stronger and mechanically deconstructable",
     "primary_category": "R&D & Product Development",
     "related_categories": [],
     "tags": [],
     "event_type": "other",
     "project_stage": "not_assessed",
     "companies": [
-      "Michelin"
+      "Shanghai Jiao Tong University"
     ],
     "counterparties": [],
     "products_or_technologies": [],
     "geographies": [],
-    "what_happened": "The USPTO published a Michelin patent application for a rubber composition combining a highly saturated ethylene and 1,3-diene copolymer, a silica reinforcing filler, an azosilane coupling agent, and a vulcanization system for tire applications. Michelin's examples report higher stiffness together with reduced hysteresis for the tested formulations.",
-    "intelligence_signal": "Elastomer architecture and the filler-coupling package are being co-designed to pursue stiffness and energy-loss improvements rather than optimizing either component alone.",
-    "why_it_matters": "If the laboratory balance survives processing, durability, and scale-up, it could support lower-loss tread compounds without surrendering stiffness, but a patent publication does not establish product adoption.",
+    "what_happened": "Researchers reported a catalyst- and additive-free photochemical route that introduces rigid bicyclic cyclobutane units into natural rubber, with rapid functionalization and a tested formulation showing large strength and toughness gains plus force-triggered deconstruction.",
+    "intelligence_signal": "Polymer design is combining high performance with programmed end-of-life behavior directly in the natural-rubber backbone.",
+    "why_it_matters": "The chemistry points toward elastomers tunable across processing and service behavior while retaining a route to mechanical deconstruction.",
     "what_to_watch": null,
     "sources": [
       {
-        "publisher": "United States Patent and Trademark Office; Justia Patents",
+        "publisher": "Shanghai Jiao Tong University; Angewandte Chemie",
         "title": null,
         "publication_date": "2026-07-16",
-        "url": "https://image-ppubs.uspto.gov/dirsearch-public/print/downloadPdf/20260200268",
+        "url": "https://news.sjtu.edu.cn/jdzh/20260716/224704.html",
         "source_role": "primary",
-        "link_label": "United States Patent and Trademark Office; Justia Patents"
+        "link_label": "Shanghai Jiao Tong University; Angewandte Chemie"
       },
       {
         "publisher": null,
         "title": null,
         "publication_date": null,
-        "url": "https://patents.justia.com/patent/20260200268",
+        "url": "https://onlinelibrary.wiley.com/doi/10.1002/anie.1326350",
         "source_role": "companion",
         "link_label": "second source"
       }
     ],
     "evidence_status": "source_reported",
     "weekly_report_path": "reports/2026-07-13-to-2026-07-19.md",
-    "story_url": "reports/2026-07-13-to-2026-07-19.md/#michelin-patent-pairs-a-highly-saturated-diene-elastomer-with-azosilane-coupled-silica"
+    "story_url": "reports/2026-07-13-to-2026-07-19.md/#backbone-rigid-functionalization-makes-natural-rubber-stronger-and-mechanically-deconstructable"
   },
   {
-    "story_id": "2026-07-13-thailands-tire-association-joins-tips-global-research-network",
+    "story_id": "2026-07-13-jining-black-cat-plans-a-50000-tonne-carbon-black-feedstock-recycling-upgrade",
     "week_start": "2026-07-13",
     "week_end": "2026-07-19",
     "publication_date": "2026-07-14",
     "event_date": null,
     "effective_date": null,
-    "title": "Thailand's tire association joins TIP's global research network",
-    "primary_category": "R&D & Product Development",
+    "title": "Jining Black Cat plans a 50,000-tonne carbon-black feedstock recycling upgrade",
+    "primary_category": "Materials & Supply Chain",
     "related_categories": [],
     "tags": [],
     "event_type": "other",
     "project_stage": "not_assessed",
     "companies": [
-      "Tire Industry Project; Thailand Automotive Tyre Manufacturers Association"
+      "Jiangxi Black Cat; Jining Black Cat"
     ],
     "counterparties": [],
     "products_or_technologies": [],
     "geographies": [],
-    "what_happened": "The Tire Industry Project admitted the Thailand Automotive Tyre Manufacturers Association as its ninth affiliate member, extending the research and sustainability platform into a major Southeast Asian tire-producing market.",
-    "intelligence_signal": "Industry research on end-of-life tires, circularity, raw materials, and environmental performance is being federated through national associations as well as individual manufacturers.",
-    "why_it_matters": "Thailand's participation can improve the geographic reach and local relevance of joint research, although membership alone does not guarantee new standards or implementation.",
+    "what_happened": "Jiangxi Black Cat disclosed a planned CNY 49.96 million Jining project to process 50,000 tonnes per year of carbon-based material for use as feedstock in its existing carbon-black lines.",
+    "intelligence_signal": "Chinese carbon-black producers are investing in internal feedstock recovery to reduce raw-material exposure and raise circular input use.",
+    "why_it_matters": "The project could improve resilience for tire-grade carbon-black supply, but its yield, emissions, product-grade allocation, and economics require follow-up after construction.",
     "what_to_watch": null,
     "sources": [
       {
-        "publisher": "Tire Industry Project",
+        "publisher": "China Rubber Industry Association citing company announcement",
         "title": null,
         "publication_date": "2026-07-14",
-        "url": "https://tireindustryproject.org/news/tire-industry-project-welcomes-thailand-automotive-tyre-manufacturers-association-as-ninth-affiliate-member",
+        "url": "https://www.cria.org.cn/a/2076897104027029506",
         "source_role": "primary",
-        "link_label": "Tire Industry Project"
+        "link_label": "China Rubber Industry Association citing company announcement"
       }
     ],
     "evidence_status": "source_reported",
     "weekly_report_path": "reports/2026-07-13-to-2026-07-19.md",
-    "story_url": "reports/2026-07-13-to-2026-07-19.md/#thailands-tire-association-joins-tips-global-research-network"
+    "story_url": "reports/2026-07-13-to-2026-07-19.md/#jining-black-cat-plans-a-50000-tonne-carbon-black-feedstock-recycling-upgrade"
   },
   {
     "story_id": "2026-07-13-genan-agrees-to-sell-houston-as-liberty-consolidates-its-gulf-coast-position",
@@ -2175,51 +2024,6 @@
     "story_url": "reports/2026-07-13-to-2026-07-19.md/#genan-agrees-to-sell-houston-as-liberty-consolidates-its-gulf-coast-position"
   },
   {
-    "story_id": "2026-07-13-pirelli-patent-application-details-functionalized-lignin-compounds-for-vehicle-tires",
-    "week_start": "2026-07-13",
-    "week_end": "2026-07-19",
-    "publication_date": "2026-07-16",
-    "event_date": null,
-    "effective_date": null,
-    "title": "Pirelli patent application details functionalized-lignin compounds for vehicle tires",
-    "primary_category": "Materials & Supply Chain",
-    "related_categories": [],
-    "tags": [],
-    "event_type": "other",
-    "project_stage": "not_assessed",
-    "companies": [
-      "Pirelli Tyre S.p.A."
-    ],
-    "counterparties": [],
-    "products_or_technologies": [],
-    "geographies": [],
-    "what_happened": "The USPTO published Pirelli application US20260201168A1 covering tires and vulcanizable compounds that use a diene-rubber/functionalized-lignin predispersion, reinforcing filler, and vulcanizing agent. The application also claims a mechanochemical route for functionalizing lignin.",
-    "intelligence_signal": "Tire-material R&D is adapting renewable lignin through chemical functionalization and controlled predispersion so it can participate more effectively in rubber compounds.",
-    "why_it_matters": "The application targets lower hysteresis and improved mechanical properties while substituting a renewable biopolymer for part of conventional reinforcing inputs, but these are patent-disclosure claims rather than evidence of commercial deployment.",
-    "what_to_watch": null,
-    "sources": [
-      {
-        "publisher": "U.S. Patent and Trademark Office; Justia Patents",
-        "title": null,
-        "publication_date": "2026-07-16",
-        "url": "https://image-ppubs.uspto.gov/dirsearch-public/print/downloadPdf/20260201168",
-        "source_role": "primary",
-        "link_label": "U.S. Patent and Trademark Office; Justia Patents"
-      },
-      {
-        "publisher": null,
-        "title": null,
-        "publication_date": null,
-        "url": "https://patents.justia.com/patent/20260201168",
-        "source_role": "companion",
-        "link_label": "second source"
-      }
-    ],
-    "evidence_status": "source_reported",
-    "weekly_report_path": "reports/2026-07-13-to-2026-07-19.md",
-    "story_url": "reports/2026-07-13-to-2026-07-19.md/#pirelli-patent-application-details-functionalized-lignin-compounds-for-vehicle-tires"
-  },
-  {
     "story_id": "2026-07-13-us-commerce-advances-a-preliminary-review-of-china-pvlt-tire-duties",
     "week_start": "2026-07-13",
     "week_end": "2026-07-19",
@@ -2265,6 +2069,43 @@
     "story_url": "reports/2026-07-13-to-2026-07-19.md/#us-commerce-advances-a-preliminary-review-of-china-pvlt-tire-duties"
   },
   {
+    "story_id": "2026-07-13-chinas-july-reference-table-shows-why-tire-chemical-prices-require-grade-level-sourcing",
+    "week_start": "2026-07-13",
+    "week_end": "2026-07-19",
+    "publication_date": "2026-07-14",
+    "event_date": null,
+    "effective_date": null,
+    "title": "China's July reference table shows why tire-chemical prices require grade-level sourcing",
+    "primary_category": "Materials & Supply Chain",
+    "related_categories": [],
+    "tags": [],
+    "event_type": "other",
+    "project_stage": "not_assessed",
+    "companies": [
+      "China Rubber Industry Association"
+    ],
+    "counterparties": [],
+    "products_or_technologies": [],
+    "geographies": [],
+    "what_happened": "CRIA published its July regional reference table for rubber-industry raw materials, displaying separately quoted city and grade observations for sulfur, insoluble sulfur, BR, SBR, and other tire inputs.",
+    "intelligence_signal": "Chinese procurement benchmarks are becoming more granular, but regional and specification differences prevent a single national price from representing compound cost.",
+    "why_it_matters": "Buyers can use the table as a sourcing checklist only when grade, supplier, location, delivery basis, and date match; unsupported cross-row spreads are not reported here.",
+    "what_to_watch": null,
+    "sources": [
+      {
+        "publisher": "China Rubber Industry Association",
+        "title": null,
+        "publication_date": "2026-07-14",
+        "url": "https://cria.org.cn/a/2076944137060454402",
+        "source_role": "primary",
+        "link_label": "China Rubber Industry Association"
+      }
+    ],
+    "evidence_status": "source_reported",
+    "weekly_report_path": "reports/2026-07-13-to-2026-07-19.md",
+    "story_url": "reports/2026-07-13-to-2026-07-19.md/#chinas-july-reference-table-shows-why-tire-chemical-prices-require-grade-level-sourcing"
+  },
+  {
     "story_id": "2026-07-13-hankook-turns-spent-curing-bladders-into-a-designed-secondary-material-stream",
     "week_start": "2026-07-13",
     "week_end": "2026-07-19",
@@ -2302,49 +2143,41 @@
     "story_url": "reports/2026-07-13-to-2026-07-19.md/#hankook-turns-spent-curing-bladders-into-a-designed-secondary-material-stream"
   },
   {
-    "story_id": "2026-07-13-coats-packages-compact-115-volt-balancing-into-a-right-sized-service-bay-platform",
+    "story_id": "2026-07-13-us-commerce-delays-its-preliminary-china-cbs-countervailing-decision",
     "week_start": "2026-07-13",
     "week_end": "2026-07-19",
-    "publication_date": "2026-07-13",
+    "publication_date": "2026-07-15",
     "event_date": null,
     "effective_date": null,
-    "title": "Coats packages compact 115-volt balancing into a right-sized service-bay platform",
+    "title": "U.S. Commerce delays its preliminary China CBS countervailing decision",
     "primary_category": "Materials & Supply Chain",
     "related_categories": [],
     "tags": [],
     "event_type": "other",
     "project_stage": "not_assessed",
     "companies": [
-      "Coats Company"
+      "U.S. Department of Commerce; Chinese CBS exporters"
     ],
     "counterparties": [],
     "products_or_technologies": [],
     "geographies": [],
-    "what_happened": "Coats expanded its RC Series with RC 450 and RC 550 compact wheel balancers designed to pair with its tire changers and operate on 115-volt power. The two models provide different levels of dimensional data entry and are specified for common passenger and light-truck applications.",
-    "intelligence_signal": "Equipment suppliers are segmenting shop hardware around footprint, electrical infrastructure, and workflow fit instead of assuming every service bay needs a full-size premium machine.",
-    "why_it_matters": "Lower installation barriers could help dealers add seasonal balancing capacity or modernize smaller bays, though the productivity and payback claims require field evidence.",
+    "what_happened": "The U.S. Commerce Department moved the preliminary countervailing-duty determination for rubber accelerator CBS from July 31 to October 5, extending uncertainty for Chinese suppliers and U.S. tire-material buyers.",
+    "intelligence_signal": "Trade-remedy timing itself is becoming a supply-chain variable for tire chemicals, delaying visibility on deposits and landed costs.",
+    "why_it_matters": "Buyers and exporters gain more preparation time but face a longer period of pricing, inventory, and sourcing uncertainty.",
     "what_to_watch": null,
     "sources": [
       {
-        "publisher": "Coats Company",
+        "publisher": "China Rubber Industry Association citing U.S. Commerce",
         "title": null,
-        "publication_date": "2026-07-13",
-        "url": "https://coatscompany.com/press/coats-expands-rc-series-with-new-wheel-balancer-line",
+        "publication_date": "2026-07-15",
+        "url": "https://cria.org.cn/a/2077266483226972161",
         "source_role": "primary",
-        "link_label": "Coats Company"
-      },
-      {
-        "publisher": null,
-        "title": null,
-        "publication_date": null,
-        "url": "https://coatscompany.com/rc-series-balancers",
-        "source_role": "companion",
-        "link_label": "second source"
+        "link_label": "China Rubber Industry Association citing U.S. Commerce"
       }
     ],
     "evidence_status": "source_reported",
     "weekly_report_path": "reports/2026-07-13-to-2026-07-19.md",
-    "story_url": "reports/2026-07-13-to-2026-07-19.md/#coats-packages-compact-115-volt-balancing-into-a-right-sized-service-bay-platform"
+    "story_url": "reports/2026-07-13-to-2026-07-19.md/#us-commerce-delays-its-preliminary-china-cbs-countervailing-decision"
   },
   {
     "story_id": "2026-07-13-china-rubber-air-emission-draft",
@@ -2450,49 +2283,49 @@
     "story_url": "reports/2026-07-13-to-2026-07-19.md/#ceat-approves-inr-1205-billion-for-two-wheeler-tire-capacity-expansion"
   },
   {
-    "story_id": "2026-07-13-vmi-patent-couples-tire-building-drum-and-separator-motion-to-improve-splice-consistency",
+    "story_id": "2026-07-13-rizhao-clears-haomais-green-tire-curing-equipment-project-at-the-eia-stage",
     "week_start": "2026-07-13",
     "week_end": "2026-07-19",
     "publication_date": "2026-07-16",
     "event_date": null,
     "effective_date": null,
-    "title": "VMI patent couples tire-building drum and separator motion to improve splice consistency",
+    "title": "Rizhao clears Haomai's green tire-curing equipment project at the EIA stage",
     "primary_category": "Manufacturing",
     "related_categories": [],
     "tags": [],
     "event_type": "other",
     "project_stage": "not_assessed",
     "companies": [
-      "VMI Holland B.V."
+      "Haomai Machinery Technology (Rizhao)"
     ],
     "counterparties": [],
     "products_or_technologies": [],
     "geographies": [],
-    "what_happened": "USPTO application US20260200192A1 describes tire-building equipment that repositions the drum working surface to align the leading and trailing ends of an uncured tire component with the splicer track while allowing the separator body to follow that correction motion.",
-    "intelligence_signal": "The design introduces coordinated motion compensation during green-tire building: drum position, the separator and optionally splicer-wheel speed respond to end-position deviation instead of treating the splice geometry as fixed.",
-    "why_it_matters": "More consistent butt splices could reduce a source of green-tire build variation and improve automated process control, although the filing provides no production-line validation, defect-rate reduction or cycle-time result.",
+    "what_happened": "Public reporting said Rizhao Development Zone approved the environmental assessment for Haomai's high-end tire green-curing equipment and key-parts industrialization project, with a full-project target of 20,000 mold-shell units and 6,000 key components annually.",
+    "intelligence_signal": "Chinese tire-equipment suppliers are pairing curing-efficiency upgrades with dedicated industrial-scale component capacity.",
+    "why_it_matters": "The project could strengthen domestic curing-equipment supply, but commercial effect depends on construction, installation, qualification, and customer demand after permitting.",
     "what_to_watch": null,
     "sources": [
       {
-        "publisher": "United States Patent and Trademark Office",
+        "publisher": "Sina Finance; China Natural Rubber Association",
         "title": null,
         "publication_date": "2026-07-16",
-        "url": "https://image-ppubs.uspto.gov/dirsearch-public/print/downloadPdf/20260200192",
+        "url": "https://finance.sina.com.cn/wm/2026-07-16/doc-inihzmmw1423833.shtml",
         "source_role": "primary",
-        "link_label": "United States Patent and Trademark Office"
+        "link_label": "Sina Finance; China Natural Rubber Association"
       },
       {
         "publisher": null,
         "title": null,
         "publication_date": null,
-        "url": "https://patents.justia.com/patent/20260200192",
+        "url": "https://www.cnraw.org.cn/index.php/article/jingyanjiaoliu/20938.html",
         "source_role": "companion",
         "link_label": "second source"
       }
     ],
     "evidence_status": "source_reported",
     "weekly_report_path": "reports/2026-07-13-to-2026-07-19.md",
-    "story_url": "reports/2026-07-13-to-2026-07-19.md/#vmi-patent-couples-tire-building-drum-and-separator-motion-to-improve-splice-consistency"
+    "story_url": "reports/2026-07-13-to-2026-07-19.md/#rizhao-clears-haomais-green-tire-curing-equipment-project-at-the-eia-stage"
   },
   {
     "story_id": "2026-07-13-us-tire-output-rises-into-june-while-synthetic-rubber-output-stays-flat",
@@ -2730,6 +2563,51 @@
     "story_url": "reports/2026-07-13-to-2026-07-19.md/#currency-swings-overwhelm-linglongs-first-half-operating-improvement"
   },
   {
+    "story_id": "2026-07-13-general-science-forecasts-a-sharp-first-half-profit-increase-as-overseas-capacity-ramps",
+    "week_start": "2026-07-13",
+    "week_end": "2026-07-19",
+    "publication_date": "2026-07-14",
+    "event_date": null,
+    "effective_date": null,
+    "title": "General Science forecasts a sharp first-half profit increase as overseas capacity ramps",
+    "primary_category": "Sales & Customer Services",
+    "related_categories": [],
+    "tags": [],
+    "event_type": "other",
+    "project_stage": "not_assessed",
+    "companies": [
+      "Jiangsu General Science Technology"
+    ],
+    "counterparties": [],
+    "products_or_technologies": [],
+    "geographies": [],
+    "what_happened": "General Science forecast first-half attributable net profit of CNY 138 million to CNY 178 million, up about 115% to 177%, while continuing to emphasize its China, Thailand, and Cambodia production network.",
+    "intelligence_signal": "Chinese tire earnings are increasingly tied to utilization and market access at overseas plants rather than domestic export volume alone.",
+    "why_it_matters": "The forecast offers an early profitability signal, but the full report must separate volume, price, mix, tariffs, foreign exchange, and one-time effects.",
+    "what_to_watch": null,
+    "sources": [
+      {
+        "publisher": "Shanghai Stock Exchange filing",
+        "title": null,
+        "publication_date": "2026-07-14",
+        "url": "https://static.sse.com.cn/disclosure/listedinfo/announcement/c/new/2026-07-14/601500_20260714_ZP19.pdf",
+        "source_role": "primary",
+        "link_label": "Shanghai Stock Exchange filing"
+      },
+      {
+        "publisher": null,
+        "title": null,
+        "publication_date": null,
+        "url": "https://www.cs.com.cn/ssgs/01/2026/07/13/detail_2026071310024070.html",
+        "source_role": "companion",
+        "link_label": "second source"
+      }
+    ],
+    "evidence_status": "source_reported",
+    "weekly_report_path": "reports/2026-07-13-to-2026-07-19.md",
+    "story_url": "reports/2026-07-13-to-2026-07-19.md/#general-science-forecasts-a-sharp-first-half-profit-increase-as-overseas-capacity-ramps"
+  },
+  {
     "story_id": "2026-07-13-goodyear-adds-66-winter-tire-fitments-mostly-for-19-inch-and-larger-wheels",
     "week_start": "2026-07-13",
     "week_end": "2026-07-19",
@@ -2812,6 +2690,43 @@
     "story_url": "reports/2026-07-13-to-2026-07-19.md/#japans-tire-demand-revision-pairs-a-stronger-first-half-with-a-sharp-second-half-slowdown"
   },
   {
+    "story_id": "2026-07-13-doublestars-preliminary-first-half-result-highlights-kumho-integration-as-the-earnings-lever",
+    "week_start": "2026-07-13",
+    "week_end": "2026-07-19",
+    "publication_date": "2026-07-16",
+    "event_date": null,
+    "effective_date": null,
+    "title": "DoubleStar's preliminary first-half result highlights Kumho integration as the earnings lever",
+    "primary_category": "Sales & Customer Services",
+    "related_categories": [],
+    "tags": [],
+    "event_type": "other",
+    "project_stage": "not_assessed",
+    "companies": [
+      "Qingdao DoubleStar; Kumho Tire"
+    ],
+    "counterparties": [],
+    "products_or_technologies": [],
+    "geographies": [],
+    "what_happened": "DoubleStar's preliminary disclosure said first-half profit improved after its Kumho transaction, with the companies combining procurement, logistics, compounds, product lines, factories, and OE relationships.",
+    "intelligence_signal": "A Chinese tire group's value creation is shifting from ownership of an overseas brand toward operational integration across the global network.",
+    "why_it_matters": "The integration may broaden product and customer reach, but preliminary company claims should be checked against the full interim report and segment cash generation.",
+    "what_to_watch": null,
+    "sources": [
+      {
+        "publisher": "China Rubber Industry Association citing DoubleStar announcement",
+        "title": null,
+        "publication_date": "2026-07-16",
+        "url": "https://www.cria.org.cn/a/2077986596049752065",
+        "source_role": "primary",
+        "link_label": "China Rubber Industry Association citing DoubleStar announcement"
+      }
+    ],
+    "evidence_status": "source_reported",
+    "weekly_report_path": "reports/2026-07-13-to-2026-07-19.md",
+    "story_url": "reports/2026-07-13-to-2026-07-19.md/#doublestars-preliminary-first-half-result-highlights-kumho-integration-as-the-earnings-lever"
+  },
+  {
     "story_id": "2026-07-13-volume-pricing-and-lower-factory-costs-lift-nokians-profitability",
     "week_start": "2026-07-13",
     "week_end": "2026-07-19",
@@ -2847,6 +2762,43 @@
     "evidence_status": "source_reported",
     "weekly_report_path": "reports/2026-07-13-to-2026-07-19.md",
     "story_url": "reports/2026-07-13-to-2026-07-19.md/#volume-pricing-and-lower-factory-costs-lift-nokians-profitability"
+  },
+  {
+    "story_id": "2026-07-13-chinas-tire-exports-continue-growing-in-volume-through-june",
+    "week_start": "2026-07-13",
+    "week_end": "2026-07-19",
+    "publication_date": "2026-07-19",
+    "event_date": null,
+    "effective_date": null,
+    "title": "China's tire exports continue growing in volume through June",
+    "primary_category": "Sales & Customer Services",
+    "related_categories": [],
+    "tags": [],
+    "event_type": "other",
+    "project_stage": "not_assessed",
+    "companies": [
+      "Chinese tire exporters"
+    ],
+    "counterparties": [],
+    "products_or_technologies": [],
+    "geographies": [],
+    "what_happened": "A trade-data report citing China Customs said first-half rubber-tire exports reached 4.94 million tonnes, up 4.9% year on year, with export value of CNY 82.6 billion.",
+    "intelligence_signal": "Export tonnage is still growing even as price, product mix, trade remedies, and overseas localization complicate the value story.",
+    "why_it_matters": "External demand remains central to Chinese utilization, but tonnage alone cannot establish margin, unit, or mix improvement.",
+    "what_to_watch": null,
+    "sources": [
+      {
+        "publisher": "QinRex via Sina Finance",
+        "title": null,
+        "publication_date": "2026-07-19",
+        "url": "https://finance.sina.com.cn/money/future/wemedia/2026-07-19/doc-iniikhxa4922175.shtml",
+        "source_role": "primary",
+        "link_label": "QinRex via Sina Finance"
+      }
+    ],
+    "evidence_status": "source_reported",
+    "weekly_report_path": "reports/2026-07-13-to-2026-07-19.md",
+    "story_url": "reports/2026-07-13-to-2026-07-19.md/#chinas-tire-exports-continue-growing-in-volume-through-june"
   },
   {
     "story_id": "2026-07-20-techking-breton-autonomous-mine-data",
@@ -2990,88 +2942,6 @@
     "story_url": "reports/2026-07-20-to-2026-07-26.md/#bridgestone-launches-potenza-sport-evo-in-thailand-with-ev-ready-construction"
   },
   {
-    "story_id": "2026-07-20-titan-adds-an-american-made-utv-tire-for-heavier-off-road-vehicles",
-    "week_start": "2026-07-20",
-    "week_end": "2026-07-26",
-    "publication_date": "2026-07-20",
-    "event_date": null,
-    "effective_date": null,
-    "title": "Titan adds an American-made UTV tire for heavier off-road vehicles",
-    "primary_category": "R&D & Product Development",
-    "related_categories": [],
-    "tags": [],
-    "event_type": "other",
-    "project_stage": "not_assessed",
-    "companies": [
-      "Titan International; ITP"
-    ],
-    "counterparties": [],
-    "products_or_technologies": [],
-    "geographies": [],
-    "what_happened": "Titan introduced the ITP Kinetic radial UTV tire in five sizes through US dealers. The Clinton, Tennessee-made tire uses an open tread, selected-block siping, dimpled elements, an eight-ply radial carcass, reinforced sidewalls, and a rim guard.",
-    "intelligence_signal": "Specialty-tire development is responding to larger and heavier UTVs with multi-terrain designs that combine traction features with sidewall and wheel protection.",
-    "why_it_matters": "The launch broadens Titan's specialty-tire range and illustrates how application-specific casing and tread engineering can support domestic manufacturing and dealer differentiation.",
-    "what_to_watch": null,
-    "sources": [
-      {
-        "publisher": "Titan International",
-        "title": null,
-        "publication_date": "2026-07-20",
-        "url": "https://www.titan-intl.com/news-events/07202026_ITP_Kinetic",
-        "source_role": "primary",
-        "link_label": "Titan International"
-      }
-    ],
-    "evidence_status": "source_reported",
-    "weekly_report_path": "reports/2026-07-20-to-2026-07-26.md",
-    "story_url": "reports/2026-07-20-to-2026-07-26.md/#titan-adds-an-american-made-utv-tire-for-heavier-off-road-vehicles"
-  },
-  {
-    "story_id": "2026-07-20-apollo-completes-its-european-van-range-with-the-altrust-winter",
-    "week_start": "2026-07-20",
-    "week_end": "2026-07-26",
-    "publication_date": "2026-07-23",
-    "event_date": null,
-    "effective_date": null,
-    "title": "Apollo completes its European van range with the Altrust Winter",
-    "primary_category": "R&D & Product Development",
-    "related_categories": [],
-    "tags": [],
-    "event_type": "other",
-    "project_stage": "not_assessed",
-    "companies": [
-      "Apollo Tyres"
-    ],
-    "counterparties": [],
-    "products_or_technologies": [],
-    "geographies": [],
-    "what_happened": "Apollo launched the Europe-developed Altrust Winter van tire in 15 sizes from 15 to 17 inches, completing a range that also includes summer and all-season products. Trade reporting lists EU-label wet grip A and external noise B at 72 dB.",
-    "intelligence_signal": "Commercial-van tire portfolios are being segmented by season while retaining fleet priorities such as mileage, load duty, wet braking, and operating noise.",
-    "why_it_matters": "The product targets European replacement fleets and demonstrates how an Indian-headquartered maker is localizing product development for regional regulation and use conditions.",
-    "what_to_watch": null,
-    "sources": [
-      {
-        "publisher": "Neue Reifenzeitung; Tyre Trends",
-        "title": null,
-        "publication_date": "2026-07-23",
-        "url": "https://reifenpresse.de/2026/07/23/hohe-laufleistung-fuer-apollos-neuen-altrust-winter-versprochen",
-        "source_role": "primary",
-        "link_label": "Neue Reifenzeitung; Tyre Trends"
-      },
-      {
-        "publisher": null,
-        "title": null,
-        "publication_date": null,
-        "url": "https://tyre-trends.com/news/apollo-tyres-rolls-out-high-grip-winter-van-tyre-with-top-wet-rating",
-        "source_role": "companion",
-        "link_label": "second source"
-      }
-    ],
-    "evidence_status": "source_reported",
-    "weekly_report_path": "reports/2026-07-20-to-2026-07-26.md",
-    "story_url": "reports/2026-07-20-to-2026-07-26.md/#apollo-completes-its-european-van-range-with-the-altrust-winter"
-  },
-  {
     "story_id": "2026-07-20-pirelli-pyrum-basf-and-synthos-assemble-a-european-tire-to-tire-material-loop",
     "week_start": "2026-07-20",
     "week_end": "2026-07-26",
@@ -3168,6 +3038,43 @@
     "story_url": "reports/2026-07-20-to-2026-07-26.md/#longxing-moves-tire-pyrolysis-oil-carbon-black-into-european-batch-supply"
   },
   {
+    "story_id": "2026-07-20-binhua-approves-a-phased-70000-tonne-halobutyl-rubber-project-in-shandong",
+    "week_start": "2026-07-20",
+    "week_end": "2026-07-26",
+    "publication_date": "2026-07-20",
+    "event_date": null,
+    "effective_date": null,
+    "title": "Binhua approves a phased 70,000-tonne halobutyl-rubber project in Shandong",
+    "primary_category": "Materials & Supply Chain",
+    "related_categories": [],
+    "tags": [],
+    "event_type": "other",
+    "project_stage": "not_assessed",
+    "companies": [
+      "Binhua Group; Shandong Binhua New Material"
+    ],
+    "counterparties": [],
+    "products_or_technologies": [],
+    "geographies": [],
+    "what_happened": "Binhua disclosed a planned CNY 1.82 billion, two-phase project in Binzhou for 70,000 tonnes per year of chlorobutyl and bromobutyl rubber, with the first phase scheduled to start construction in 2027.",
+    "intelligence_signal": "Shandong's tire cluster is adding domestic high-barrier elastomer capacity and integrating it with local C4 feedstock and planned green power.",
+    "why_it_matters": "The project could reduce import exposure for tire innerliner materials, but it remains an investment plan rather than built or qualified capacity.",
+    "what_to_watch": null,
+    "sources": [
+      {
+        "publisher": "China Rubber Industry Association citing Binhua announcement",
+        "title": null,
+        "publication_date": "2026-07-20",
+        "url": "https://www.cria.org.cn/a/2079112967698354177",
+        "source_role": "primary",
+        "link_label": "China Rubber Industry Association citing Binhua announcement"
+      }
+    ],
+    "evidence_status": "source_reported",
+    "weekly_report_path": "reports/2026-07-20-to-2026-07-26.md",
+    "story_url": "reports/2026-07-20-to-2026-07-26.md/#binhua-approves-a-phased-70000-tonne-halobutyl-rubber-project-in-shandong"
+  },
+  {
     "story_id": "2026-07-20-german-rubber-producers-report-better-availability-but-no-raw-material-cost-relief",
     "week_start": "2026-07-20",
     "week_end": "2026-07-26",
@@ -3258,41 +3165,41 @@
     "story_url": "reports/2026-07-20-to-2026-07-26.md/#michelin-resicare-appoints-imcd-to-distribute-french-made-bio-based-5-hmf"
   },
   {
-    "story_id": "2026-07-20-continental-earns-ecovadis-gold-after-moving-into-the-tire-manufacturing-peer-category",
+    "story_id": "2026-07-20-quanzhou-moves-a-cny-600-million-high-performance-rubber-project-toward-eia-approval",
     "week_start": "2026-07-20",
     "week_end": "2026-07-26",
-    "publication_date": "2026-07-22",
+    "publication_date": "2026-07-23",
     "event_date": null,
     "effective_date": null,
-    "title": "Continental earns EcoVadis gold after moving into the tire-manufacturing peer category",
+    "title": "Quanzhou moves a CNY 600 million high-performance rubber project toward EIA approval",
     "primary_category": "Materials & Supply Chain",
     "related_categories": [],
     "tags": [],
     "event_type": "other",
     "project_stage": "not_assessed",
     "companies": [
-      "Continental Tires; EcoVadis"
+      "Fujian Zhongke Ruisheng New Material"
     ],
     "counterparties": [],
     "products_or_technologies": [],
     "geographies": [],
-    "what_happened": "Continental reported an EcoVadis score of 84 out of 100 and a gold medal, placing it in the top five percent of assessed companies worldwide. This was its first assessment in the manufacture-of-rubber-tires-and-tubes category rather than automotive parts and accessories.",
-    "intelligence_signal": "Supplier qualification is increasingly incorporating structured environmental, labor, ethics, and sustainable-procurement assessments specific to tire manufacturing.",
-    "why_it_matters": "The result can support customer and procurement credibility, while the category change provides a more relevant comparison set for future improvement and supplier scrutiny.",
+    "what_happened": "Quanzhou's ecology authority published a proposed EIA approval for a first-phase project with two lines and planned annual output of 2,000 tonnes of RS-01 high-performance rubber.",
+    "intelligence_signal": "Chinese specialty-elastomer investment is targeting smaller, higher-value capacity rather than only commodity-scale synthetic rubber.",
+    "why_it_matters": "The project may broaden domestic tire-material options, but the public summary does not establish the exact chemistry, tire qualification, economics, or production date.",
     "what_to_watch": null,
     "sources": [
       {
-        "publisher": "Continental",
+        "publisher": "China Rubber Industry Association citing Quanzhou EIA notice",
         "title": null,
-        "publication_date": "2026-07-22",
-        "url": "https://www.continental.com/en/press/press-releases/ecovadis-sustainability-rating",
+        "publication_date": "2026-07-23",
+        "url": "https://www.cria.org.cn/a/2080173411678654466",
         "source_role": "primary",
-        "link_label": "Continental"
+        "link_label": "China Rubber Industry Association citing Quanzhou EIA notice"
       }
     ],
     "evidence_status": "source_reported",
     "weekly_report_path": "reports/2026-07-20-to-2026-07-26.md",
-    "story_url": "reports/2026-07-20-to-2026-07-26.md/#continental-earns-ecovadis-gold-after-moving-into-the-tire-manufacturing-peer-category"
+    "story_url": "reports/2026-07-20-to-2026-07-26.md/#quanzhou-moves-a-cny-600-million-high-performance-rubber-project-toward-eia-approval"
   },
   {
     "story_id": "2026-07-20-goodyear-files-plan-to-close-fayetteville-and-remove-1750-jobs",
@@ -3340,6 +3247,43 @@
     "story_url": "reports/2026-07-20-to-2026-07-26.md/#goodyear-files-plan-to-close-fayetteville-and-remove-1750-jobs"
   },
   {
+    "story_id": "2026-07-20-weifang-jinyuan-proposes-electric-curing-in-a-600000-unit-otr-tire-retrofit",
+    "week_start": "2026-07-20",
+    "week_end": "2026-07-26",
+    "publication_date": "2026-07-22",
+    "event_date": null,
+    "effective_date": null,
+    "title": "Weifang Jinyuan proposes electric curing in a 600,000-unit OTR tire retrofit",
+    "primary_category": "Manufacturing",
+    "related_categories": [],
+    "tags": [],
+    "event_type": "other",
+    "project_stage": "not_assessed",
+    "companies": [
+      "Weifang Jinyuan Rubber & Plastic"
+    ],
+    "counterparties": [],
+    "products_or_technologies": [],
+    "geographies": [],
+    "what_happened": "An EIA pre-filing disclosure described a CNY 110 million retrofit that would replace two mixers and shift curing from steam to electric heating while keeping annual OTR tire capacity at 600,000 units.",
+    "intelligence_signal": "Chinese tire-plant decarbonization is moving toward electrified curing and equipment replacement without requiring headline capacity expansion.",
+    "why_it_matters": "The project tests whether existing plants can reduce process-energy emissions and improve control while holding output constant.",
+    "what_to_watch": null,
+    "sources": [
+      {
+        "publisher": "China Rubber Industry Association citing EIA disclosure",
+        "title": null,
+        "publication_date": "2026-07-22",
+        "url": "https://www.cria.org.cn/a/2079834278716346369",
+        "source_role": "primary",
+        "link_label": "China Rubber Industry Association citing EIA disclosure"
+      }
+    ],
+    "evidence_status": "source_reported",
+    "weekly_report_path": "reports/2026-07-20-to-2026-07-26.md",
+    "story_url": "reports/2026-07-20-to-2026-07-26.md/#weifang-jinyuan-proposes-electric-curing-in-a-600000-unit-otr-tire-retrofit"
+  },
+  {
     "story_id": "2026-07-20-ceats-annual-report-shifts-attention-to-camso-integration-and-global-off-highway-execution",
     "week_start": "2026-07-20",
     "week_end": "2026-07-26",
@@ -3375,51 +3319,6 @@
     "evidence_status": "source_reported",
     "weekly_report_path": "reports/2026-07-20-to-2026-07-26.md",
     "story_url": "reports/2026-07-20-to-2026-07-26.md/#ceats-annual-report-shifts-attention-to-camso-integration-and-global-off-highway-execution"
-  },
-  {
-    "story_id": "2026-07-20-kenda-opens-an-ohio-specialty-wheel-plant-and-raises-daily-output-by-50",
-    "week_start": "2026-07-20",
-    "week_end": "2026-07-26",
-    "publication_date": "2026-07-23",
-    "event_date": null,
-    "effective_date": null,
-    "title": "Kenda opens an Ohio specialty-wheel plant and raises daily output by 50%",
-    "primary_category": "Manufacturing",
-    "related_categories": [],
-    "tags": [],
-    "event_type": "other",
-    "project_stage": "not_assessed",
-    "companies": [
-      "Kenda Rubber Industrial; Martin Wheel"
-    ],
-    "counterparties": [],
-    "products_or_technologies": [],
-    "geographies": [],
-    "what_happened": "Kenda subsidiary Martin Wheel officially opened a 193,000-square-foot manufacturing, assembly, warehousing, and office facility in Brimfield Township, Ohio. The consolidated plant is producing about 6,000 wheels per day versus roughly 4,000 previously and mounting about 8,000 tire-and-wheel assemblies daily; assembly is operating at about 60% of potential capacity.",
-    "intelligence_signal": "Specialty-tire supply is localizing through integrated wheel production and tire-wheel assembly rather than relying only on imported finished assemblies and fragmented facilities.",
-    "why_it_matters": "The operating plant expands North American capacity for lawn and garden, golf-car, trailer, utility-equipment, and other specialty applications while leaving room for further customer and configuration growth.",
-    "what_to_watch": null,
-    "sources": [
-      {
-        "publisher": "Modern Tire Dealer; Kenda Tire",
-        "title": null,
-        "publication_date": "2026-07-23",
-        "url": "https://www.moderntiredealer.com/suppliers/news/55393315/kenda-martin-wheel-opens-new-ohio-manufacturing-facility",
-        "source_role": "primary",
-        "link_label": "Modern Tire Dealer; Kenda Tire"
-      },
-      {
-        "publisher": null,
-        "title": null,
-        "publication_date": null,
-        "url": "https://www.kendatire.com/en-us/news/general-corporate-news/martin-wheel-groundbreaking",
-        "source_role": "companion",
-        "link_label": "second source"
-      }
-    ],
-    "evidence_status": "source_reported",
-    "weekly_report_path": "reports/2026-07-20-to-2026-07-26.md",
-    "story_url": "reports/2026-07-20-to-2026-07-26.md/#kenda-opens-an-ohio-specialty-wheel-plant-and-raises-daily-output-by-50"
   },
   {
     "story_id": "2026-07-20-prinx-kedah-site-execution",
@@ -3483,49 +3382,86 @@
     "story_url": "reports/2026-07-20-to-2026-07-26.md/#prinx-turns-its-kedah-factory-plan-toward-site-works-and-local-supply-chain-execution"
   },
   {
-    "story_id": "2026-07-20-russias-june-tire-output-rebounds-month-on-month-but-remains-down-year-to-date",
+    "story_id": "2026-07-20-yuanxing-opens-building-tenders-for-its-first-overseas-tire-factory-in-indonesia",
     "week_start": "2026-07-20",
     "week_end": "2026-07-26",
-    "publication_date": "2026-07-22",
+    "publication_date": "2026-07-23",
     "event_date": null,
     "effective_date": null,
-    "title": "Russia's June tire output rebounds month on month but remains down year to date",
+    "title": "Yuanxing opens building tenders for its first overseas tire factory in Indonesia",
     "primary_category": "Manufacturing",
     "related_categories": [],
     "tags": [],
     "event_type": "other",
     "project_stage": "not_assessed",
     "companies": [
-      "Russian tire manufacturers"
+      "Sichuan Yuanxing Rubber"
     ],
     "counterparties": [],
     "products_or_technologies": [],
     "geographies": [],
-    "what_happened": "Rosstat reported production of 3.5 million new tires, casings, and inner tubes in June 2026, up 18.9 percent year on year and 22.6 percent from May. First-half output was 19.7 million units, 10.3 percent below the same period of 2025.",
-    "intelligence_signal": "National production data show a sharp monthly recovery alongside a weaker cumulative manufacturing base.",
-    "why_it_matters": "The mixed comparison warns against reading one month's rebound as a full recovery and gives suppliers and competitors a more grounded view of Russian capacity utilization and demand conditions.",
+    "what_happened": "Public reporting said Yuanxing opened building-work tenders for a phased tire-factory project at the Batang Integrated Industrial Estate in Central Java, which would become its first overseas tire factory.",
+    "intelligence_signal": "Mid-sized Chinese two-wheel tire manufacturers are joining the overseas-capacity wave through Indonesian industrial estates and phased procurement.",
+    "why_it_matters": "Tendering is an early execution signal that could shorten delivery to Southeast Asian customers, but it does not establish construction award or production.",
     "what_to_watch": null,
     "sources": [
       {
-        "publisher": "Rosstat; Tyrepress",
+        "publisher": "Tire Business via Sina Finance",
         "title": null,
-        "publication_date": "2026-07-22",
-        "url": "https://rosstat.gov.ru/storage/mediabank/110_22-07-2026.html",
+        "publication_date": "2026-07-23",
+        "url": "https://finance.sina.com.cn/wm/2026-07-23/doc-iniiufve8311240.shtml",
         "source_role": "primary",
-        "link_label": "Rosstat; Tyrepress"
+        "link_label": "Tire Business via Sina Finance"
+      }
+    ],
+    "evidence_status": "source_reported",
+    "weekly_report_path": "reports/2026-07-20-to-2026-07-26.md",
+    "story_url": "reports/2026-07-20-to-2026-07-26.md/#yuanxing-opens-building-tenders-for-its-first-overseas-tire-factory-in-indonesia"
+  },
+  {
+    "story_id": "2026-07-20-cria-translates-chinas-draft-rubber-emission-standard-into-plant-level-compliance-priorities",
+    "week_start": "2026-07-20",
+    "week_end": "2026-07-26",
+    "publication_date": "2026-07-24",
+    "event_date": null,
+    "effective_date": null,
+    "title": "CRIA translates China's draft rubber-emission standard into plant-level compliance priorities",
+    "primary_category": "Manufacturing",
+    "related_categories": [],
+    "tags": [],
+    "event_type": "other",
+    "project_stage": "not_assessed",
+    "companies": [
+      "China Rubber Industry Association; Chinese tire and rubber plants"
+    ],
+    "counterparties": [],
+    "products_or_technologies": [],
+    "geographies": [],
+    "what_happened": "CRIA's in-window technical interpretation detailed proposed controls covering tire manufacturing, including new carbon-disulfide and combustion limits, tighter particulate limits, plant-level fugitive VOC monitoring, and added collection requirements for cooling, warehouses, and wastewater treatment.",
+    "intelligence_signal": "China's environmental rulemaking is shifting from a general consultation signal toward specific plant-wide monitoring and capture obligations.",
+    "why_it_matters": "The interpretation gives tire plants a concrete checklist for capital planning and comments, while the underlying standard remains a draft that may change.",
+    "what_to_watch": null,
+    "sources": [
+      {
+        "publisher": "China Rubber Industry Association",
+        "title": null,
+        "publication_date": "2026-07-24",
+        "url": "https://www.cria.org.cn/a/2080550719434362881",
+        "source_role": "primary",
+        "link_label": "China Rubber Industry Association"
       },
       {
-        "publisher": null,
-        "title": null,
-        "publication_date": null,
-        "url": "https://www.tyrepress.com/2026/07/russias-tyre-production-rises-in-june",
-        "source_role": "companion",
+        "publisher": "China Ministry of Ecology and Environment",
+        "title": "Request for comments on the Rubber Products Industry Air Pollutant Emission Standard",
+        "publication_date": "2026-07-13",
+        "url": "https://www.mee.gov.cn/xxgk2018/xxgk/xxgk06/202607/t20260713_1161579.html",
+        "source_role": "authoritative",
         "link_label": "second source"
       }
     ],
     "evidence_status": "source_reported",
     "weekly_report_path": "reports/2026-07-20-to-2026-07-26.md",
-    "story_url": "reports/2026-07-20-to-2026-07-26.md/#russias-june-tire-output-rebounds-month-on-month-but-remains-down-year-to-date"
+    "story_url": "reports/2026-07-20-to-2026-07-26.md/#cria-translates-chinas-draft-rubber-emission-standard-into-plant-level-compliance-priorities"
   },
   {
     "story_id": "2026-07-20-germany-fines-maxxis-and-wholesalers-eur-119-million-over-resale-price-restrictions",
