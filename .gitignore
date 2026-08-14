@@ -4,4 +4,5 @@ _site/
 .jekyll-cache/
 .sass-cache/
 *.log
-
+__pycache__/
+*.py[cod]

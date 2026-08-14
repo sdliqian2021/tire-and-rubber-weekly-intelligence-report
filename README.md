@@ -19,3 +19,28 @@ current version is copied here, committed, and published.
 GitHub Pages deploys from the `main` branch and repository root. Drafts,
 private research records, credentials, source captures, and approval records
 do not belong in this repository.
+
+## Preview both public sites locally before publishing
+
+From PowerShell in this repository, run:
+
+```powershell
+powershell -ExecutionPolicy Bypass -File .\tools\start_preview.ps1
+```
+
+The relative command works only after PowerShell has been changed into this
+repository. Alternatively, open the repository's `tools` folder in File
+Explorer and double-click `start_preview.cmd`.
+
+The command opens the Technical Thoughts home page and also serves the
+Intelligence project:
+
+```text
+Technical Thoughts: http://127.0.0.1:4000/
+Intelligence:       http://127.0.0.1:4000/tire-and-rubber-weekly-intelligence-report/
+```
+
+Keep the PowerShell window open. After changing a homepage, report, layout, or
+CSS file in either public repository, save it and refresh the browser. Navigation
+between the two sites remains local. Press `Ctrl+C` when finished. This preview
+does not commit, push, deploy, or modify the public story index.

@@ -224,6 +224,151 @@ ol {
   font-size: 1.04rem;
 }
 
+.report-category-nav {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.55rem;
+  margin: 1.5rem 0 2.75rem;
+  padding: 1rem;
+  border: 1px solid var(--line);
+  border-radius: 0.75rem;
+  background: #f8fafb;
+}
+
+.report-category-nav__label {
+  flex-basis: 100%;
+  margin-bottom: 0.15rem;
+  color: var(--muted);
+  font-size: 0.76rem;
+  font-weight: 700;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+}
+
+.category-chip,
+.story-category,
+.story-origin {
+  display: inline-flex;
+  align-items: center;
+  border-radius: 999px;
+  font-weight: 700;
+  line-height: 1.2;
+}
+
+.category-chip {
+  padding: 0.5rem 0.75rem;
+  border: 1px solid var(--category-border);
+  color: var(--category-text);
+  background: var(--category-bg);
+  font-size: 0.78rem;
+}
+
+.category-chip:hover {
+  color: var(--category-text);
+  background: var(--category-bg-hover);
+  text-decoration: none;
+}
+
+.category-chip--rd,
+.story-category--rd,
+.category-anchor--rd + h2 {
+  --category-text: #5944a4;
+  --category-border: #c9c0ef;
+  --category-bg: #f0edff;
+  --category-bg-hover: #e6e0ff;
+}
+
+.category-chip--materials,
+.story-category--materials,
+.category-anchor--materials + h2 {
+  --category-text: #087067;
+  --category-border: #9fd5cf;
+  --category-bg: #e8f7f4;
+  --category-bg-hover: #d8f1ed;
+}
+
+.category-chip--manufacturing,
+.story-category--manufacturing,
+.category-anchor--manufacturing + h2 {
+  --category-text: #954710;
+  --category-border: #efbf98;
+  --category-bg: #fff1e5;
+  --category-bg-hover: #ffe6d2;
+}
+
+.category-chip--marketing,
+.story-category--marketing,
+.category-anchor--marketing + h2 {
+  --category-text: #155e91;
+  --category-border: #acd1e9;
+  --category-bg: #e9f4fb;
+  --category-bg-hover: #dceef9;
+}
+
+.category-chip--services,
+.story-category--services,
+.category-anchor--services + h2 {
+  --category-text: #426d2f;
+  --category-border: #bad5aa;
+  --category-bg: #eef7e9;
+  --category-bg-hover: #e2f0da;
+}
+
+.category-anchor {
+  display: block;
+  height: 0;
+  scroll-margin-top: 1rem;
+  visibility: hidden;
+}
+
+.article-page .main-content .category-anchor + h2 {
+  margin-top: 3.75rem;
+  padding: 0.75rem 1rem;
+  border-left: 0.38rem solid var(--category-text);
+  border-radius: 0 0.4rem 0.4rem 0;
+  color: var(--category-text);
+  background: var(--category-bg);
+}
+
+.story-labels {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.45rem;
+  margin: 0 0 0.7rem;
+}
+
+.article-page .main-content .story-labels {
+  font-size: 0.76rem;
+}
+
+.story-category {
+  padding: 0.38rem 0.65rem;
+  border: 1px solid var(--category-border);
+  color: var(--category-text);
+  background: var(--category-bg);
+}
+
+.story-origin {
+  padding: 0.38rem 0.65rem 0.38rem 0.42rem;
+  border: 1px solid #e5aaa6;
+  color: #8f2c27;
+  background: #fff0ef;
+}
+
+.story-origin--china::before {
+  content: "CN";
+  display: inline-grid;
+  width: 1.45rem;
+  height: 1.45rem;
+  margin-right: 0.38rem;
+  place-items: center;
+  border-radius: 50%;
+  color: #fff;
+  background: #b9322b;
+  font-size: 0.58rem;
+  letter-spacing: 0.02em;
+}
+
 blockquote {
   margin: 1.75rem 0;
   padding-left: 1.1rem;
@@ -293,13 +438,22 @@ hr {
 
 .site-footer {
   border-top: 1px solid var(--line);
+  padding-block: 1.5rem;
 }
 
 .site-footer p {
   margin: 0;
-  padding-block: 1.5rem;
   color: var(--muted);
   font-size: 0.8rem;
+}
+
+.site-footer p + p {
+  margin-top: 0.75rem;
+}
+
+.site-footer .site-scope-note {
+  max-width: 72ch;
+  font-size: 0.85rem;
 }
 
 @media (max-width: 600px) {
@@ -321,6 +475,22 @@ hr {
 
   .blog-intro {
     margin-bottom: 2.75rem;
+  }
+
+  .report-category-nav {
+    margin-bottom: 2.25rem;
+    padding: 0.85rem;
+  }
+
+  .category-chip {
+    flex: 1 1 calc(50% - 0.55rem);
+    justify-content: center;
+    text-align: center;
+  }
+
+  .article-page .main-content .category-anchor + h2 {
+    margin-top: 3rem;
+    font-size: 1.35rem;
   }
 }
 
