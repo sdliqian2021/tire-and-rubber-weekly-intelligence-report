@@ -22,15 +22,16 @@ do not belong in this repository.
 
 ## Preview both public sites locally before publishing
 
-From PowerShell in this repository, run:
+From PowerShell or Command Prompt in this repository, run:
 
 ```powershell
-powershell -ExecutionPolicy Bypass -File .\tools\start_preview.ps1
+.\preview.cmd
 ```
 
-The relative command works only after PowerShell has been changed into this
-repository. Alternatively, open the repository's `tools` folder in File
-Explorer and double-click `start_preview.cmd`.
+The relative command works after the shell has been changed into this
+repository. Alternatively, double-click `preview.cmd` in File Explorer. The
+launcher finds an installed Python 3 even when `python` is not on PATH and, if
+port 4000 is occupied, selects the first available port through 4010.
 
 The command opens the Technical Thoughts home page and also serves the
 Intelligence project:

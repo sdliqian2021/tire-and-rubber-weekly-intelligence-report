@@ -247,12 +247,13 @@ ol {
 
 .category-chip,
 .story-category,
-.story-origin {
+.story-origin,
+.story-evidence,
+.story-signal {
   display: inline-flex;
   align-items: center;
   border-radius: 999px;
-  font-weight: 700;
-  line-height: 1.2;
+  line-height: 1;
 }
 
 .category-chip {
@@ -333,23 +334,28 @@ ol {
 .story-labels {
   display: flex;
   flex-wrap: wrap;
-  gap: 0.45rem;
-  margin: 0 0 0.7rem;
+  align-items: center;
+  gap: 0.4rem;
+  margin: 0.15rem 0 0.85rem;
 }
 
-.article-page .main-content .story-labels {
-  font-size: 0.76rem;
+.article-page .main-content .story-labels > span {
+  min-height: 1.9rem;
+  padding: 0.34rem 0.68rem;
+  font-size: 0.74rem;
+  font-weight: 700;
+  letter-spacing: 0.005em;
+  white-space: nowrap;
 }
 
 .story-category {
-  padding: 0.38rem 0.65rem;
   border: 1px solid var(--category-border);
   color: var(--category-text);
   background: var(--category-bg);
 }
 
 .story-origin {
-  padding: 0.38rem 0.65rem 0.38rem 0.42rem;
+  padding-left: 0.38rem !important;
   border: 1px solid #e5aaa6;
   color: #8f2c27;
   background: #fff0ef;
@@ -358,15 +364,48 @@ ol {
 .story-origin--china::before {
   content: "CN";
   display: inline-grid;
-  width: 1.45rem;
-  height: 1.45rem;
-  margin-right: 0.38rem;
+  width: 1.28rem;
+  height: 1.28rem;
+  margin-right: 0.4rem;
   place-items: center;
   border-radius: 50%;
   color: #fff;
   background: #b9322b;
-  font-size: 0.58rem;
+  font-size: 0.54rem;
   letter-spacing: 0.02em;
+}
+
+.story-evidence {
+  border: 1px solid #dfc36b;
+  color: #714b00;
+  background: #fff7dc;
+}
+
+.story-evidence--context::before {
+  content: "";
+  width: 0.42rem;
+  height: 0.42rem;
+  margin-right: 0.42rem;
+  border-radius: 50%;
+  background: #b77700;
+}
+
+.story-signal {
+  border: 1px solid #cbd2d9;
+  color: #4d5964;
+  background: #f4f6f8;
+}
+
+.story-signal--repeat {
+  border-color: #c9c0e1;
+  color: #59477b;
+  background: #f3f0fa;
+}
+
+.story-signal--post-cutoff {
+  border-color: #b7c9d7;
+  color: #345b73;
+  background: #eef5f8;
 }
 
 blockquote {
