@@ -13511,5 +13511,1031 @@
     "post_cutoff_context": false,
     "weekly_report_path": "reports/2026-06-01-to-2026-06-07.md",
     "story_url": "reports/2026-06-01-to-2026-06-07.md/#yokohama-takes-the-land-cruiser-fj-fitment-for-asia-the-middle-east-latin-america-and-africa-but-not-japan"
+  },
+  {
+    "story_id": "2026-08-24-radical-and-hankook-qualify-the-lighter-ventus-r54-for-a-january-2027-rollout",
+    "week_start": "2026-08-24",
+    "week_end": "2026-08-30",
+    "publication_date": "2026-08-24",
+    "event_date": null,
+    "effective_date": null,
+    "title": "Radical and Hankook qualify the lighter Ventus R54 for a January 2027 rollout",
+    "primary_category": "R&D & Product Development",
+    "related_categories": [],
+    "tags": [],
+    "event_type": "other",
+    "project_stage": "not_assessed",
+    "companies": [
+      "Hankook Tire; Radical Motorsport"
+    ],
+    "counterparties": [],
+    "products_or_technologies": [],
+    "geographies": [],
+    "what_happened": "Radical Motorsport said the Hankook Ventus Race R54 will replace the current tire across its racing ecosystem from January 2027 after joint development and track testing. The partners report a reduction of roughly 4 kg per set.",
+    "intelligence_signal": "",
+    "why_it_matters": "The item has a customer, a completed development programme, quantified weight change, and a dated fleet-wide rollout. Performance claims remain partner-reported until comparative test data are published.",
+    "what_to_watch": null,
+    "sources": [
+      {
+        "publisher": "Radical Motorsport",
+        "title": null,
+        "publication_date": "2026-08-24",
+        "url": "https://radicalmotorsport.com/news/radical-and-hankook-introduce-new-ventus-r54-tyre",
+        "source_role": "primary",
+        "link_label": "Radical Motorsport"
+      }
+    ],
+    "evidence_status": "source_reported",
+    "evidence_note": null,
+    "post_cutoff_context": false,
+    "weekly_report_path": "reports/2026-08-24-to-2026-08-30.md",
+    "story_url": "reports/2026-08-24-to-2026-08-30.md/#radical-and-hankook-qualify-the-lighter-ventus-r54-for-a-january-2027-rollout"
+  },
+  {
+    "story_id": "2026-08-24-hoosier-launches-the-ece-r117-approved-trackattack-pro-across-45-sizes",
+    "week_start": "2026-08-24",
+    "week_end": "2026-08-30",
+    "publication_date": "2026-08-25",
+    "event_date": null,
+    "effective_date": null,
+    "title": "Hoosier launches the ECE R117-approved TrackAttack Pro across 45 sizes",
+    "primary_category": "R&D & Product Development",
+    "related_categories": [],
+    "tags": [],
+    "event_type": "other",
+    "project_stage": "not_assessed",
+    "companies": [
+      "Hoosier Racing Tire"
+    ],
+    "counterparties": [],
+    "products_or_technologies": [],
+    "geographies": [],
+    "what_happened": "Hoosier launched the road-legal TrackAttack Pro extreme-performance summer tire, stating ECE R117 approval and a 45-size range for 15- to 21-inch wheels. It positions one tire for road travel and circuit use.",
+    "intelligence_signal": "",
+    "why_it_matters": "The breadth of the homologated range turns motorsport positioning into a replacement-market offer rather than a limited demonstration. No comparative wet, wear, or lap-time test is published with the launch.",
+    "what_to_watch": null,
+    "sources": [
+      {
+        "publisher": "Tire Technology International",
+        "title": null,
+        "publication_date": "2026-08-25",
+        "url": "https://www.tiretechnologyinternational.com/news/new-tires-news/hoosier-launches-road-legal-trackattack-pro-tire-with-motorsport-dna.html",
+        "source_role": "primary",
+        "link_label": "Tire Technology International"
+      },
+      {
+        "publisher": null,
+        "title": null,
+        "publication_date": null,
+        "url": "https://www.trackattackpro.com/",
+        "source_role": "companion",
+        "link_label": "second source"
+      }
+    ],
+    "evidence_status": "source_reported",
+    "evidence_note": null,
+    "post_cutoff_context": false,
+    "weekly_report_path": "reports/2026-08-24-to-2026-08-30.md",
+    "story_url": "reports/2026-08-24-to-2026-08-30.md/#hoosier-launches-the-ece-r117-approved-trackattack-pro-across-45-sizes"
+  },
+  {
+    "story_id": "2026-08-24-yokohama-puts-a-retrieval-augmented-ai-system-into-full-scale-tire-development-operation",
+    "week_start": "2026-08-24",
+    "week_end": "2026-08-30",
+    "publication_date": "2026-08-28",
+    "event_date": null,
+    "effective_date": null,
+    "title": "Yokohama puts a retrieval-augmented AI system into full-scale tire-development operation",
+    "primary_category": "R&D & Product Development",
+    "related_categories": [],
+    "tags": [],
+    "event_type": "other",
+    "project_stage": "not_assessed",
+    "companies": [
+      "Yokohama Rubber"
+    ],
+    "counterparties": [],
+    "products_or_technologies": [],
+    "geographies": [],
+    "what_happened": "Yokohama Rubber developed and began full-scale operation of a proprietary generative-AI system that retrieves internal technical documents and answers developer questions. An agent iterates planning, retrieval, and evaluation, while links to original documents let engineers inspect the basis for responses.",
+    "intelligence_signal": "The industrial value is not generic chat: the system constrains answers to internal domain evidence and exposes source links for engineering review.",
+    "why_it_matters": "This is deployment evidence inside a tire-development workflow and addresses a practical bottleneck in reusing regulatory, procedure, test, and case-study knowledge. The company provides no time saving, error rate, adoption count, or baseline.",
+    "what_to_watch": null,
+    "sources": [
+      {
+        "publisher": "Tire Technology International",
+        "title": null,
+        "publication_date": "2026-08-28",
+        "url": "https://www.tiretechnologyinternational.com/news/research-development/ai-system-supports-faster-tire-development-at-yokohama-rubber.html",
+        "source_role": "primary",
+        "link_label": "Tire Technology International"
+      }
+    ],
+    "evidence_status": "source_reported",
+    "evidence_note": null,
+    "post_cutoff_context": false,
+    "weekly_report_path": "reports/2026-08-24-to-2026-08-30.md",
+    "story_url": "reports/2026-08-24-to-2026-08-30.md/#yokohama-puts-a-retrieval-augmented-ai-system-into-full-scale-tire-development-operation"
+  },
+  {
+    "story_id": "2026-08-24-tolins-subsidiary-terra-rubber-starts-construction-of-a-reclaim-rubber-facility-in-kerala",
+    "week_start": "2026-08-24",
+    "week_end": "2026-08-30",
+    "publication_date": "2026-08-24",
+    "event_date": null,
+    "effective_date": null,
+    "title": "Tolins subsidiary Terra Rubber starts construction of a reclaim-rubber facility in Kerala",
+    "primary_category": "Materials & Supply Chain",
+    "related_categories": [],
+    "tags": [],
+    "event_type": "other",
+    "project_stage": "not_assessed",
+    "companies": [
+      "Tolins Tyres; Terra Rubber"
+    ],
+    "counterparties": [],
+    "products_or_technologies": [],
+    "geographies": [],
+    "what_happened": "An issuer press release says Tolins Tyres subsidiary Terra Rubber broke ground on a reclaim-rubber manufacturing facility in Palakkad, Kerala, intended to convert scrap tires and rubber waste into reclaimed rubber for circular use and extended-producer-responsibility needs.",
+    "intelligence_signal": "",
+    "why_it_matters": "The project is a physical construction-stage signal from an Indian tire maker outside the active registry and could add regional reclaim capacity. Capacity, commissioning schedule, process yield, customers, and economics were not disclosed in the accessible release.",
+    "what_to_watch": null,
+    "sources": [
+      {
+        "publisher": "Tolins Tyres issuer press release via Bazaarwatch",
+        "title": null,
+        "publication_date": "2026-08-24",
+        "url": "https://bazaarwatch.com/announcement/87191/tolins-tyres-limited-press-release",
+        "source_role": "primary",
+        "link_label": "Tolins Tyres issuer press release via Bazaarwatch"
+      }
+    ],
+    "evidence_status": "source_reported",
+    "evidence_note": null,
+    "post_cutoff_context": false,
+    "weekly_report_path": "reports/2026-08-24-to-2026-08-30.md",
+    "story_url": "reports/2026-08-24-to-2026-08-30.md/#tolins-subsidiary-terra-rubber-starts-construction-of-a-reclaim-rubber-facility-in-kerala"
+  },
+  {
+    "story_id": "2026-08-24-continentals-zevra-concept-reaches-43-recycled-and-renewable-content",
+    "week_start": "2026-08-24",
+    "week_end": "2026-08-30",
+    "publication_date": "2026-08-25",
+    "event_date": null,
+    "effective_date": null,
+    "title": "Continental's ZEvRA concept reaches 43% recycled and renewable content",
+    "primary_category": "Materials & Supply Chain",
+    "related_categories": [],
+    "tags": [],
+    "event_type": "other",
+    "project_stage": "not_assessed",
+    "companies": [
+      "Continental; ZEvRA consortium"
+    ],
+    "counterparties": [],
+    "products_or_technologies": [],
+    "geographies": [],
+    "what_happened": "Continental presented a ZEvRA research tire containing 43% recycled and renewable materials, developed within the EU-backed zero-emission vehicle project. The company frames it as a demonstrator and identifies further validation before series application.",
+    "intelligence_signal": "",
+    "why_it_matters": "The demonstrator is a materially higher-content formulation signal, but the concept stage keeps durability, consistency, cost, and scaled supply open. It is progress in integration, not evidence of commercial-volume adoption.",
+    "what_to_watch": null,
+    "sources": [
+      {
+        "publisher": "Continental",
+        "title": null,
+        "publication_date": "2026-08-25",
+        "url": "https://www.continental.com/en/press/press-releases/eu-project-zevra",
+        "source_role": "primary",
+        "link_label": "Continental"
+      }
+    ],
+    "evidence_status": "source_reported",
+    "evidence_note": null,
+    "post_cutoff_context": false,
+    "weekly_report_path": "reports/2026-08-24-to-2026-08-30.md",
+    "story_url": "reports/2026-08-24-to-2026-08-30.md/#continentals-zevra-concept-reaches-43-recycled-and-renewable-content"
+  },
+  {
+    "story_id": "2026-08-24-triangle-reports-a-103-year-on-year-rise-in-second-quarter-raw-material-purchase-prices-as-tire-selling-prices-fall",
+    "week_start": "2026-08-24",
+    "week_end": "2026-08-30",
+    "publication_date": "2026-08-27",
+    "event_date": null,
+    "effective_date": null,
+    "title": "Triangle reports a 10.3% year-on-year rise in second-quarter raw-material purchase prices as tire selling prices fall",
+    "primary_category": "Materials & Supply Chain",
+    "related_categories": [],
+    "tags": [],
+    "event_type": "other",
+    "project_stage": "not_assessed",
+    "companies": [
+      "Triangle Tyre"
+    ],
+    "counterparties": [],
+    "products_or_technologies": [],
+    "geographies": [
+      "china"
+    ],
+    "what_happened": "Triangle's half-year filing says average tire selling prices in the second quarter fell 4.09% year over year and 0.42% quarter over quarter, while average raw-material purchase prices rose 10.31% year over year and 13.36% quarter over quarter.",
+    "intelligence_signal": "",
+    "why_it_matters": "The same-company comparison is direct evidence of the cost-price squeeze facing a major Shandong producer. It is more diagnostic than general claims about higher rubber costs because it places input and output prices on the same reporting basis.",
+    "what_to_watch": null,
+    "sources": [
+      {
+        "publisher": "Triangle Tyre 2026 half-year report",
+        "title": null,
+        "publication_date": "2026-08-27",
+        "url": "http://static.sse.com.cn/disclosure/listedinfo/announcement/c/new/2026-08-27/601163_20260827_IG4N.pdf",
+        "source_role": "primary",
+        "link_label": "Triangle Tyre 2026 half-year report"
+      }
+    ],
+    "evidence_status": "source_reported",
+    "evidence_note": null,
+    "post_cutoff_context": false,
+    "weekly_report_path": "reports/2026-08-24-to-2026-08-30.md",
+    "story_url": "reports/2026-08-24-to-2026-08-30.md/#triangle-reports-a-103-year-on-year-rise-in-second-quarter-raw-material-purchase-prices-as-tire-selling-prices-fall"
+  },
+  {
+    "story_id": "2026-08-24-linglongs-first-half-revenue-rises-78-while-attributable-profit-falls-881",
+    "week_start": "2026-08-24",
+    "week_end": "2026-08-30",
+    "publication_date": "2026-08-28",
+    "event_date": null,
+    "effective_date": null,
+    "title": "Linglong's first-half revenue rises 7.8% while attributable profit falls 88.1%",
+    "primary_category": "Materials & Supply Chain",
+    "related_categories": [],
+    "tags": [],
+    "event_type": "other",
+    "project_stage": "not_assessed",
+    "companies": [
+      "Linglong Tire"
+    ],
+    "counterparties": [],
+    "products_or_technologies": [],
+    "geographies": [
+      "china"
+    ],
+    "what_happened": "Linglong reported first-half revenue of RMB12.733 billion, up 7.80%, attributable profit of RMB101.44 million, down 88.13%, and operating cash flow of RMB1.316 billion, up 3,088.64%. The filing also identifies EUR227.7 million of borrowings as foreign-exchange exposure and says the group uses forwards and swaps to manage currency risk.",
+    "intelligence_signal": "",
+    "why_it_matters": "Rising sales did not translate into profit, making foreign exchange and input-cost exposure a more important competitive variable than volume alone. The cash-flow recovery helps liquidity but does not explain away the margin compression.",
+    "what_to_watch": null,
+    "sources": [
+      {
+        "publisher": "Linglong Tire 2026 half-year report",
+        "title": null,
+        "publication_date": "2026-08-28",
+        "url": "https://money.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?id=12549122&stockid=601966",
+        "source_role": "primary",
+        "link_label": "Linglong Tire 2026 half-year report"
+      },
+      {
+        "publisher": null,
+        "title": null,
+        "publication_date": null,
+        "url": "https://www.linglong.cn/investor/finance.html",
+        "source_role": "companion",
+        "link_label": "second source"
+      }
+    ],
+    "evidence_status": "source_reported",
+    "evidence_note": null,
+    "post_cutoff_context": false,
+    "weekly_report_path": "reports/2026-08-24-to-2026-08-30.md",
+    "story_url": "reports/2026-08-24-to-2026-08-30.md/#linglongs-first-half-revenue-rises-78-while-attributable-profit-falls-881"
+  },
+  {
+    "story_id": "2026-08-24-probabilistic-lca-finds-rubber-binder-climate-results-can-reverse-with-the-allocation-method",
+    "week_start": "2026-08-24",
+    "week_end": "2026-08-30",
+    "publication_date": "2026-08-30",
+    "event_date": null,
+    "effective_date": null,
+    "title": "Probabilistic LCA finds rubber-binder climate results can reverse with the allocation method",
+    "primary_category": "Materials & Supply Chain",
+    "related_categories": [],
+    "tags": [],
+    "event_type": "other",
+    "project_stage": "not_assessed",
+    "companies": [
+      "Nanjing Institute of Technology research team"
+    ],
+    "counterparties": [],
+    "products_or_technologies": [],
+    "geographies": [
+      "china"
+    ],
+    "what_happened": "A peer-reviewed study modelled cradle-to-gate greenhouse-gas impact for one metric ton of binder across eight alternatives and three end-of-life allocation approaches using 10,000-iteration Monte Carlo simulation. Under cut-off allocation, mean impact fell from 496 kg CO2e/t for the control to 446-471 kg CO2e/t, and the 30% crumb-rubber/15% bio-oil option had a 98.8% probability of outperforming the control; clinker-fuel system expansion reversed the result.",
+    "intelligence_signal": "Allocation choice, not only formulation, can determine whether a tire-derived material appears climate-positive, so procurement claims need sensitivity analysis rather than one carbon number.",
+    "why_it_matters": "The paper provides quantified uncertainty instead of a single deterministic footprint and exposes a decision risk for tire-rubber circularity claims: the conclusion changes when displaced end-of-life uses are credited differently.",
+    "what_to_watch": null,
+    "sources": [
+      {
+        "publisher": "Polymers (MDPI)",
+        "title": null,
+        "publication_date": "2026-08-30",
+        "url": "https://www.mdpi.com/2073-4360/18/17/2107",
+        "source_role": "primary",
+        "link_label": "Polymers (MDPI)"
+      },
+      {
+        "publisher": null,
+        "title": null,
+        "publication_date": null,
+        "url": "https://doi.org/10.3390/polym18172107",
+        "source_role": "companion",
+        "link_label": "second source"
+      }
+    ],
+    "evidence_status": "source_reported",
+    "evidence_note": null,
+    "post_cutoff_context": false,
+    "weekly_report_path": "reports/2026-08-24-to-2026-08-30.md",
+    "story_url": "reports/2026-08-24-to-2026-08-30.md/#probabilistic-lca-finds-rubber-binder-climate-results-can-reverse-with-the-allocation-method"
+  },
+  {
+    "story_id": "2026-08-24-sentury-closes-its-12-million-tire-morocco-project-while-its-aviation-tire-programme-remains-below-plan",
+    "week_start": "2026-08-24",
+    "week_end": "2026-08-30",
+    "publication_date": "2026-08-25",
+    "event_date": null,
+    "effective_date": null,
+    "title": "Sentury closes its 12-million-tire Morocco project while its aviation-tire programme remains below plan",
+    "primary_category": "Manufacturing",
+    "related_categories": [],
+    "tags": [],
+    "event_type": "other",
+    "project_stage": "not_assessed",
+    "companies": [
+      "Qingdao Sentury Tire"
+    ],
+    "counterparties": [],
+    "products_or_technologies": [],
+    "geographies": [
+      "china"
+    ],
+    "what_happened": "Sentury's half-year disclosure says the Morocco project designed for 12 million tires a year completed implementation and closed its fundraising account in May-June 2026. The separate 80,000-unit aviation-tire project, including 50,000 retreads, has been implemented but remains below expected benefits while supplier-list qualification and joint development continue.",
+    "intelligence_signal": "",
+    "why_it_matters": "The filing distinguishes physical project completion from commercial performance. Morocco has crossed a construction milestone, while aviation tires still need customer qualification and volume evidence before the investment can be treated as commercially mature.",
+    "what_to_watch": null,
+    "sources": [
+      {
+        "publisher": "Qingdao Sentury Tire half-year fundraising report",
+        "title": null,
+        "publication_date": "2026-08-25",
+        "url": "https://static.cninfo.com.cn/finalpage/2026-08-25/1225498274.PDF",
+        "source_role": "primary",
+        "link_label": "Qingdao Sentury Tire half-year fundraising report"
+      },
+      {
+        "publisher": null,
+        "title": null,
+        "publication_date": null,
+        "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?id=12527533&stockid=002984",
+        "source_role": "companion",
+        "link_label": "second source"
+      }
+    ],
+    "evidence_status": "source_reported",
+    "evidence_note": null,
+    "post_cutoff_context": false,
+    "weekly_report_path": "reports/2026-08-24-to-2026-08-30.md",
+    "story_url": "reports/2026-08-24-to-2026-08-30.md/#sentury-closes-its-12-million-tire-morocco-project-while-its-aviation-tire-programme-remains-below-plan"
+  },
+  {
+    "story_id": "2026-08-24-fate-workers-escalate-a-dismissal-and-pay-dispute-into-a-buenos-aires-march",
+    "week_start": "2026-08-24",
+    "week_end": "2026-08-30",
+    "publication_date": "2026-08-26",
+    "event_date": null,
+    "effective_date": null,
+    "title": "FATE workers escalate a dismissal and pay dispute into a Buenos Aires march",
+    "primary_category": "Manufacturing",
+    "related_categories": [],
+    "tags": [],
+    "event_type": "other",
+    "project_stage": "not_assessed",
+    "companies": [
+      "FATE S.A.I.C.I."
+    ],
+    "counterparties": [],
+    "products_or_technologies": [],
+    "geographies": [],
+    "what_happened": "Página/12 reported that FATE workers and supporters marched to Plaza de Mayo and held a public event over dismissals, wages, and concern about the tire factory's continuity. The plant had not been reported closed in the article.",
+    "intelligence_signal": "",
+    "why_it_matters": "The dispute is an operating-continuity and labor-cost signal at an active Argentine manufacturer. Claims from workers and the union need to remain attributed until the company or an official proceeding supplies a competing record.",
+    "what_to_watch": null,
+    "sources": [
+      {
+        "publisher": "Página/12",
+        "title": null,
+        "publication_date": "2026-08-26",
+        "url": "https://www.pagina12.com.ar/2026/08/26/los-trabajadores-de-fate-se-movilizaron-hasta-plaza-de-mayo-y-realizaron-un-festival-contra-los-despidos-en-la-fabrica",
+        "source_role": "primary",
+        "link_label": "Página/12"
+      }
+    ],
+    "evidence_status": "source_reported",
+    "evidence_note": null,
+    "post_cutoff_context": false,
+    "weekly_report_path": "reports/2026-08-24-to-2026-08-30.md",
+    "story_url": "reports/2026-08-24-to-2026-08-30.md/#fate-workers-escalate-a-dismissal-and-pay-dispute-into-a-buenos-aires-march"
+  },
+  {
+    "story_id": "2026-08-24-nexen-signs-a-roughly-4-mw-direct-renewable-power-agreement-for-its-yangsan-plant",
+    "week_start": "2026-08-24",
+    "week_end": "2026-08-30",
+    "publication_date": "2026-08-27",
+    "event_date": null,
+    "effective_date": null,
+    "title": "Nexen signs a roughly 4 MW direct renewable-power agreement for its Yangsan plant",
+    "primary_category": "Manufacturing",
+    "related_categories": [],
+    "tags": [],
+    "event_type": "other",
+    "project_stage": "not_assessed",
+    "companies": [
+      "Nexen Tire"
+    ],
+    "counterparties": [],
+    "products_or_technologies": [],
+    "geographies": [],
+    "what_happened": "Nexen said it signed a direct power-purchase agreement covering roughly 4 MW of onshore wind and solar generation for its Yangsan plant and is expanding self-generation at Yangsan and Changnyeong.",
+    "intelligence_signal": "",
+    "why_it_matters": "A direct PPA is a contracted change in factory electricity sourcing, stronger than a general renewable-energy target. The release does not state annual generation, renewable share, price, or avoided emissions.",
+    "what_to_watch": null,
+    "sources": [
+      {
+        "publisher": "Nexen Tire",
+        "title": null,
+        "publication_date": "2026-08-27",
+        "url": "https://www.nexentire.com/uk/media/news/1282138_2221.php",
+        "source_role": "primary",
+        "link_label": "Nexen Tire"
+      }
+    ],
+    "evidence_status": "source_reported",
+    "evidence_note": null,
+    "post_cutoff_context": false,
+    "weekly_report_path": "reports/2026-08-24-to-2026-08-30.md",
+    "story_url": "reports/2026-08-24-to-2026-08-30.md/#nexen-signs-a-roughly-4-mw-direct-renewable-power-agreement-for-its-yangsan-plant"
+  },
+  {
+    "story_id": "2026-08-24-general-science-reports-an-external-line-side-pilot-for-ai-visual-inspection",
+    "week_start": "2026-08-24",
+    "week_end": "2026-08-30",
+    "publication_date": "2026-08-29",
+    "event_date": null,
+    "effective_date": null,
+    "title": "General Science reports an external line-side pilot for AI visual inspection",
+    "primary_category": "Manufacturing",
+    "related_categories": [],
+    "tags": [],
+    "event_type": "other",
+    "project_stage": "not_assessed",
+    "companies": [
+      "Jiangsu General Science Technology"
+    ],
+    "counterparties": [],
+    "products_or_technologies": [],
+    "geographies": [
+      "china"
+    ],
+    "what_happened": "General Science's half-year report says it completed full-chain AI integration and moved an AI visual-inspection application into an external line-side pilot. It also reported revenue of RMB4.448 billion, up 11.20%, attributable profit of RMB138.1 million, up 114.84%, and operating cash flow of RMB840.9 million.",
+    "intelligence_signal": "Industrial AI evidence is moving from internal demonstrations toward external line-side trials, but quantified defect-detection performance remains the missing proof layer.",
+    "why_it_matters": "A line-side pilot is stronger evidence than an award or lab demo because it puts the system beside a production process. The disclosure still omits the customer, defect classes, false-reject rate, throughput, and baseline, so it does not establish production-scale value.",
+    "what_to_watch": null,
+    "sources": [
+      {
+        "publisher": "General Science 2026 half-year report",
+        "title": null,
+        "publication_date": "2026-08-29",
+        "url": "https://money.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?id=12558004&stockid=601500",
+        "source_role": "primary",
+        "link_label": "General Science 2026 half-year report"
+      }
+    ],
+    "evidence_status": "source_reported",
+    "evidence_note": null,
+    "post_cutoff_context": false,
+    "weekly_report_path": "reports/2026-08-24-to-2026-08-30.md",
+    "story_url": "reports/2026-08-24-to-2026-08-30.md/#general-science-reports-an-external-line-side-pilot-for-ai-visual-inspection"
+  },
+  {
+    "story_id": "2026-08-24-guizhou-tyres-vietnam-output-rises-398-while-phase-iii-debugging-weighs-on-subsidiary-profit",
+    "week_start": "2026-08-24",
+    "week_end": "2026-08-30",
+    "publication_date": "2026-08-30",
+    "event_date": null,
+    "effective_date": null,
+    "title": "Guizhou Tyre's Vietnam output rises 39.8% while Phase III debugging weighs on subsidiary profit",
+    "primary_category": "Manufacturing",
+    "related_categories": [],
+    "tags": [],
+    "event_type": "other",
+    "project_stage": "not_assessed",
+    "companies": [
+      "Guizhou Tyre"
+    ],
+    "counterparties": [],
+    "products_or_technologies": [],
+    "geographies": [
+      "china"
+    ],
+    "what_happened": "Guizhou Tyre reported first-half production of 5.420 million tires, up 17.87%, sales of 5.070 million, up 9.59%, revenue of RMB5.739 billion, up 10.51%, and attributable profit of RMB358.5 million, up 44.23%. Vietnam production rose 39.76% and sales 20.76%, but the subsidiary's profit fell 32.25% as Phase III equipment and products were debugged, assets transferred, passenger-tire R&D continued, and foreign exchange moved against it.",
+    "intelligence_signal": "",
+    "why_it_matters": "The Vietnam plant is clearly ramping, but the disclosure shows why output growth is not the same as a mature overseas operation: commissioning, product development, depreciation, and currency effects can depress profit during the transition.",
+    "what_to_watch": null,
+    "sources": [
+      {
+        "publisher": "Guizhou Tyre 2026 half-year report",
+        "title": null,
+        "publication_date": "2026-08-30",
+        "url": "https://money.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?id=12571274&stockid=000589",
+        "source_role": "primary",
+        "link_label": "Guizhou Tyre 2026 half-year report"
+      }
+    ],
+    "evidence_status": "source_reported",
+    "evidence_note": null,
+    "post_cutoff_context": false,
+    "weekly_report_path": "reports/2026-08-24-to-2026-08-30.md",
+    "story_url": "reports/2026-08-24-to-2026-08-30.md/#guizhou-tyres-vietnam-output-rises-398-while-phase-iii-debugging-weighs-on-subsidiary-profit"
+  },
+  {
+    "story_id": "2026-08-24-sailun-and-bosch-car-service-open-a-joint-retail-service-outlet-in-indonesias-pik-2",
+    "week_start": "2026-08-24",
+    "week_end": "2026-08-30",
+    "publication_date": "2026-08-28",
+    "event_date": null,
+    "effective_date": null,
+    "title": "Sailun and Bosch Car Service open a joint retail-service outlet in Indonesia's PIK 2",
+    "primary_category": "Marketing & Distribution",
+    "related_categories": [],
+    "tags": [],
+    "event_type": "other",
+    "project_stage": "not_assessed",
+    "companies": [
+      "Sailun Tire; Bosch Car Service; XMotors"
+    ],
+    "counterparties": [],
+    "products_or_technologies": [],
+    "geographies": [
+      "china"
+    ],
+    "what_happened": "The Tyreman reported that Sailun Tire, XMotors as Bosch Car Service's Indonesian master-licence partner, and local partners opened a co-branded store in the PIK 2 development. The outlet combines tire retail with vehicle-service capability in one customer-facing channel.",
+    "intelligence_signal": "",
+    "why_it_matters": "The store puts a Chinese tire brand inside a recognized automotive-service format rather than relying only on a tire distributor. It is a concrete route-to-market experiment, although one outlet does not yet establish scale or sales productivity.",
+    "what_to_watch": null,
+    "sources": [
+      {
+        "publisher": "The Tyreman",
+        "title": null,
+        "publication_date": "2026-08-28",
+        "url": "https://www.tyremanmagazine.com/category/premium",
+        "source_role": "primary",
+        "link_label": "The Tyreman"
+      }
+    ],
+    "evidence_status": "source_reported",
+    "evidence_note": null,
+    "post_cutoff_context": false,
+    "weekly_report_path": "reports/2026-08-24-to-2026-08-30.md",
+    "story_url": "reports/2026-08-24-to-2026-08-30.md/#sailun-and-bosch-car-service-open-a-joint-retail-service-outlet-in-indonesias-pik-2"
+  },
+  {
+    "story_id": "2026-08-24-context-california-closes-the-docket-after-approving-replacement-tire-efficiency-rules",
+    "week_start": "2026-08-24",
+    "week_end": "2026-08-30",
+    "publication_date": "2026-08-26",
+    "event_date": null,
+    "effective_date": null,
+    "title": "Context: California closes the docket after approving replacement-tire efficiency rules",
+    "primary_category": "Marketing & Distribution",
+    "related_categories": [],
+    "tags": [],
+    "event_type": "other",
+    "project_stage": "not_assessed",
+    "companies": [
+      "California Energy Commission"
+    ],
+    "counterparties": [],
+    "products_or_technologies": [],
+    "geographies": [],
+    "what_happened": "The California Energy Commission docket posted a closure memorandum during the reporting week after the Commission approved the replacement-tire efficiency programme on August 17.",
+    "intelligence_signal": "",
+    "why_it_matters": "The rule will shape market-access and product-data requirements, but the substantive approval predates the week; the closure memo is administrative chronology rather than a new rule stage.",
+    "what_to_watch": null,
+    "sources": [
+      {
+        "publisher": "California Energy Commission",
+        "title": null,
+        "publication_date": "2026-08-26",
+        "url": "https://efiling.energy.ca.gov/Lists/DocketLog.aspx?docketnumber=24-TIRE-01",
+        "source_role": "primary",
+        "link_label": "California Energy Commission"
+      },
+      {
+        "publisher": null,
+        "title": null,
+        "publication_date": null,
+        "url": "https://www.energy.ca.gov/proceeding/replacement-tire-efficiency-program-proceeding",
+        "source_role": "companion",
+        "link_label": "second source"
+      }
+    ],
+    "evidence_status": "context_limited",
+    "evidence_note": "The Aug. 26 docket-close memo follows an Aug. 17 approval outside the window; retained for regulatory continuity and excluded from the core count.",
+    "post_cutoff_context": false,
+    "weekly_report_path": "reports/2026-08-24-to-2026-08-30.md",
+    "story_url": "reports/2026-08-24-to-2026-08-30.md/#context-california-closes-the-docket-after-approving-replacement-tire-efficiency-rules"
+  },
+  {
+    "story_id": "2026-08-24-context-linglong-is-the-first-chinese-full-member-of-the-global-data-service-organization",
+    "week_start": "2026-08-24",
+    "week_end": "2026-08-30",
+    "publication_date": "2026-08-24",
+    "event_date": null,
+    "effective_date": null,
+    "title": "Context: Linglong is the first Chinese full member of the Global Data Service Organization",
+    "primary_category": "Marketing & Distribution",
+    "related_categories": [],
+    "tags": [],
+    "event_type": "other",
+    "project_stage": "not_assessed",
+    "companies": [
+      "Linglong Tire; GDSO"
+    ],
+    "counterparties": [],
+    "products_or_technologies": [],
+    "geographies": [
+      "china"
+    ],
+    "what_happened": "A weekly trade-media item restated Linglong's entry as GDSO's fourteenth member and first Chinese tire-maker full member. Earlier dated coverage places the underlying announcement on August 13, outside this reporting window.",
+    "intelligence_signal": "",
+    "why_it_matters": "Membership could connect a Chinese manufacturer's tire data to shared digital-identification infrastructure, but the week produced no implementation detail or new stage beyond the earlier membership announcement.",
+    "what_to_watch": null,
+    "sources": [
+      {
+        "publisher": "The Tyreman",
+        "title": null,
+        "publication_date": "2026-08-24",
+        "url": "https://www.tyremanmagazine.com/",
+        "source_role": "primary",
+        "link_label": "The Tyreman"
+      },
+      {
+        "publisher": null,
+        "title": null,
+        "publication_date": null,
+        "url": "https://www.tyrenews.co.uk/news/linglong-becomes-first-chinese-tyre-maker-to-join-gdso",
+        "source_role": "companion",
+        "link_label": "second source"
+      }
+    ],
+    "evidence_status": "context_limited",
+    "evidence_note": "The Aug. 24 item repeats an Aug. 13 membership event, so it is retained as visible context and excluded from the core floor and China-share calculation.",
+    "post_cutoff_context": false,
+    "weekly_report_path": "reports/2026-08-24-to-2026-08-30.md",
+    "story_url": "reports/2026-08-24-to-2026-08-30.md/#context-linglong-is-the-first-chinese-full-member-of-the-global-data-service-organization"
+  },
+  {
+    "story_id": "2026-08-24-context-triangle-begins-a-two-year-brentford-fc-partnership-with-sts-as-delivery-partner",
+    "week_start": "2026-08-24",
+    "week_end": "2026-08-30",
+    "publication_date": "2026-08-26",
+    "event_date": null,
+    "effective_date": null,
+    "title": "Context: Triangle begins a two-year Brentford FC partnership with STS as delivery partner",
+    "primary_category": "Marketing & Distribution",
+    "related_categories": [],
+    "tags": [],
+    "event_type": "other",
+    "project_stage": "not_assessed",
+    "companies": [
+      "Triangle Tyre; Brentford FC; Stapleton's Tyre Services"
+    ],
+    "counterparties": [],
+    "products_or_technologies": [],
+    "geographies": [
+      "china"
+    ],
+    "what_happened": "A trade-media recap described Triangle as Brentford FC's inaugural official tire partner under a two-year agreement, with UK distributor STS supporting local activation. Brentford and Triangle's own pages date the underlying agreement to August 19.",
+    "intelligence_signal": "",
+    "why_it_matters": "The distributor-linked partnership is relevant to European positioning, but the weekly mention does not create a new contract stage or provide tire-sales evidence.",
+    "what_to_watch": null,
+    "sources": [
+      {
+        "publisher": "Brentford FC",
+        "title": null,
+        "publication_date": "2026-08-26",
+        "url": "https://www.brentfordfc.com/en/news/article/club-news-brentford-football-club-triangle-tyre-official-tyre-partner",
+        "source_role": "primary",
+        "link_label": "Brentford FC"
+      },
+      {
+        "publisher": null,
+        "title": null,
+        "publication_date": null,
+        "url": "https://en.triangle.com.cn/Cn/Index/listView/catid/11.html",
+        "source_role": "companion",
+        "link_label": "second source"
+      }
+    ],
+    "evidence_status": "context_limited",
+    "evidence_note": "The accessible Aug. 26 recap concerns an Aug. 19 agreement outside the window; it is context, not a new weekly core signal.",
+    "post_cutoff_context": false,
+    "weekly_report_path": "reports/2026-08-24-to-2026-08-30.md",
+    "story_url": "reports/2026-08-24-to-2026-08-30.md/#context-triangle-begins-a-two-year-brentford-fc-partnership-with-sts-as-delivery-partner"
+  },
+  {
+    "story_id": "2026-08-24-michelin-remains-the-exclusive-fia-wec-hypercar-tire-supplier-through-2032",
+    "week_start": "2026-08-24",
+    "week_end": "2026-08-30",
+    "publication_date": "2026-08-25",
+    "event_date": null,
+    "effective_date": null,
+    "title": "Michelin remains the exclusive FIA WEC Hypercar tire supplier through 2032",
+    "primary_category": "Sales & Customer Services",
+    "related_categories": [],
+    "tags": [],
+    "event_type": "other",
+    "project_stage": "not_assessed",
+    "companies": [
+      "Michelin; FIA World Endurance Championship"
+    ],
+    "counterparties": [],
+    "products_or_technologies": [],
+    "geographies": [],
+    "what_happened": "Michelin said its exclusive tire-supply role for the FIA World Endurance Championship Hypercar category has been extended through the 2032 season.",
+    "intelligence_signal": "",
+    "why_it_matters": "A six-season horizon gives Michelin a durable customer and test platform across multiple manufacturers. The commercial terms and development obligations remain undisclosed.",
+    "what_to_watch": null,
+    "sources": [
+      {
+        "publisher": "Michelin",
+        "title": null,
+        "publication_date": "2026-08-25",
+        "url": "https://www.michelin.com/en/publications/group/michelin-confirmed-as-exclusive-tire-supplier-for-the-hypercar-category-of-the-fia-wec-through-2032",
+        "source_role": "primary",
+        "link_label": "Michelin"
+      }
+    ],
+    "evidence_status": "source_reported",
+    "evidence_note": null,
+    "post_cutoff_context": false,
+    "weekly_report_path": "reports/2026-08-24-to-2026-08-30.md",
+    "story_url": "reports/2026-08-24-to-2026-08-30.md/#michelin-remains-the-exclusive-fia-wec-hypercar-tire-supplier-through-2032"
+  },
+  {
+    "story_id": "2026-08-24-volkswagen-selects-continentals-ecocontact-7-for-the-electric-id-polo",
+    "week_start": "2026-08-24",
+    "week_end": "2026-08-30",
+    "publication_date": "2026-08-26",
+    "event_date": null,
+    "effective_date": null,
+    "title": "Volkswagen selects Continental's EcoContact 7 for the electric ID. Polo",
+    "primary_category": "Sales & Customer Services",
+    "related_categories": [],
+    "tags": [],
+    "event_type": "other",
+    "project_stage": "not_assessed",
+    "companies": [
+      "Continental; Volkswagen"
+    ],
+    "counterparties": [],
+    "products_or_technologies": [],
+    "geographies": [],
+    "what_happened": "Continental said Volkswagen approved 17- and 18-inch EcoContact 7 sizes as original equipment for the ID. Polo and recommends AllSeasonContact 2 and WinterContact TS 870 P products for seasonal replacement.",
+    "intelligence_signal": "",
+    "why_it_matters": "The fitment links a high-volume electric platform to a defined summer and replacement portfolio, giving stronger customer evidence than a product launch without an automaker selection.",
+    "what_to_watch": null,
+    "sources": [
+      {
+        "publisher": "Continental",
+        "title": null,
+        "publication_date": "2026-08-26",
+        "url": "https://www.continental.com/en/press/press-releases/volkswagen-id-polo",
+        "source_role": "primary",
+        "link_label": "Continental"
+      }
+    ],
+    "evidence_status": "source_reported",
+    "evidence_note": null,
+    "post_cutoff_context": false,
+    "weekly_report_path": "reports/2026-08-24-to-2026-08-30.md",
+    "story_url": "reports/2026-08-24-to-2026-08-30.md/#volkswagen-selects-continentals-ecocontact-7-for-the-electric-id-polo"
+  },
+  {
+    "story_id": "2026-08-24-haians-mining-tire-management-service-grows-262-and-reaches-nearly-one-third-of-revenue",
+    "week_start": "2026-08-24",
+    "week_end": "2026-08-30",
+    "publication_date": "2026-08-27",
+    "event_date": null,
+    "effective_date": null,
+    "title": "Haian's mining-tire management service grows 26.2% and reaches nearly one-third of revenue",
+    "primary_category": "Sales & Customer Services",
+    "related_categories": [],
+    "tags": [],
+    "event_type": "other",
+    "project_stage": "not_assessed",
+    "companies": [
+      "Haian Rubber Group"
+    ],
+    "counterparties": [],
+    "products_or_technologies": [],
+    "geographies": [
+      "china"
+    ],
+    "what_happened": "Haian reported RMB343 million of mining-tire management-service revenue in the first half, up 26.23% and equal to 30.75% of total revenue. The company added 24 customers and said exports represented more than 60% of revenue.",
+    "intelligence_signal": "",
+    "why_it_matters": "A service line approaching one-third of revenue is evidence that lifecycle management is becoming a material business model rather than an add-on to tire sales. New customers and export concentration also make the model testable in operating results.",
+    "what_to_watch": null,
+    "sources": [
+      {
+        "publisher": "Haian Rubber Group 2026 half-year report",
+        "title": null,
+        "publication_date": "2026-08-27",
+        "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?id=12548895&stockid=001233",
+        "source_role": "primary",
+        "link_label": "Haian Rubber Group 2026 half-year report"
+      }
+    ],
+    "evidence_status": "source_reported",
+    "evidence_note": null,
+    "post_cutoff_context": false,
+    "weekly_report_path": "reports/2026-08-24-to-2026-08-30.md",
+    "story_url": "reports/2026-08-24-to-2026-08-30.md/#haians-mining-tire-management-service-grows-262-and-reaches-nearly-one-third-of-revenue"
+  },
+  {
+    "story_id": "2026-08-24-techkings-mining-tire-revenue-rises-305-as-it-establishes-a-japanese-technology-subsidiary",
+    "week_start": "2026-08-24",
+    "week_end": "2026-08-30",
+    "publication_date": "2026-08-27",
+    "event_date": null,
+    "effective_date": null,
+    "title": "Techking's mining-tire revenue rises 30.5% as it establishes a Japanese technology subsidiary",
+    "primary_category": "Sales & Customer Services",
+    "related_categories": [],
+    "tags": [],
+    "event_type": "other",
+    "project_stage": "not_assessed",
+    "companies": [
+      "Techking Tires"
+    ],
+    "counterparties": [],
+    "products_or_technologies": [],
+    "geographies": [
+      "china"
+    ],
+    "what_happened": "Techking reported first-half revenue of RMB1.577 billion, up 27.04%, and attributable profit of RMB101 million, up 15.94%. Mining-tire revenue reached RMB1.068 billion, up 30.50%, with an 18.17% gross margin, and the company established a Japanese technology subsidiary.",
+    "intelligence_signal": "",
+    "why_it_matters": "Mining tires are the company's dominant growth engine, while the Japanese subsidiary signals an attempt to place technical capability closer to global customers and talent. Profit growing slower than revenue keeps execution and margin under scrutiny.",
+    "what_to_watch": null,
+    "sources": [
+      {
+        "publisher": "Techking Tires 2026 half-year report",
+        "title": null,
+        "publication_date": "2026-08-27",
+        "url": "https://money.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?id=12546855&stockid=920020",
+        "source_role": "primary",
+        "link_label": "Techking Tires 2026 half-year report"
+      }
+    ],
+    "evidence_status": "source_reported",
+    "evidence_note": null,
+    "post_cutoff_context": false,
+    "weekly_report_path": "reports/2026-08-24-to-2026-08-30.md",
+    "story_url": "reports/2026-08-24-to-2026-08-30.md/#techkings-mining-tire-revenue-rises-305-as-it-establishes-a-japanese-technology-subsidiary"
+  },
+  {
+    "story_id": "2026-08-24-prometeons-kocaeli-developed-rally-tires-become-oe-on-mm-technologys-evo5-truck",
+    "week_start": "2026-08-24",
+    "week_end": "2026-08-30",
+    "publication_date": "2026-08-28",
+    "event_date": null,
+    "effective_date": null,
+    "title": "Prometeon's Kocaeli-developed rally tires become OE on MM Technology's EVO5 truck",
+    "primary_category": "Sales & Customer Services",
+    "related_categories": [],
+    "tags": [],
+    "event_type": "other",
+    "project_stage": "not_assessed",
+    "companies": [
+      "Prometeon Tyre Group; MM Technology"
+    ],
+    "counterparties": [],
+    "products_or_technologies": [],
+    "geographies": [],
+    "what_happened": "Anadolu Agency reported that Prometeon's next-generation rally tires, developed at its Kocaeli R&D centre, were selected as original equipment for MM Technology's new EVO5 rally truck associated with Dakar champion Martin Macik.",
+    "intelligence_signal": "",
+    "why_it_matters": "A named vehicle fitment provides customer validation for a Turkish-developed specialist tire. The public account does not provide compound, durability, or comparative performance data.",
+    "what_to_watch": null,
+    "sources": [
+      {
+        "publisher": "Anadolu Agency",
+        "title": null,
+        "publication_date": "2026-08-28",
+        "url": "https://www.aa.com.tr/tr/isdunyasi/sirketler/prometeon-lastikleri-dakar-sampiyonu-martin-macikin-yeni-ralli-kamyonuna-guc-veriyor/704135",
+        "source_role": "primary",
+        "link_label": "Anadolu Agency"
+      }
+    ],
+    "evidence_status": "source_reported",
+    "evidence_note": null,
+    "post_cutoff_context": false,
+    "weekly_report_path": "reports/2026-08-24-to-2026-08-30.md",
+    "story_url": "reports/2026-08-24-to-2026-08-30.md/#prometeons-kocaeli-developed-rally-tires-become-oe-on-mm-technologys-evo5-truck"
+  },
+  {
+    "story_id": "2026-08-24-aeolus-grows-domestic-oe-and-overseas-revenue-in-the-first-half",
+    "week_start": "2026-08-24",
+    "week_end": "2026-08-30",
+    "publication_date": "2026-08-30",
+    "event_date": null,
+    "effective_date": null,
+    "title": "Aeolus grows domestic OE and overseas revenue in the first half",
+    "primary_category": "Sales & Customer Services",
+    "related_categories": [],
+    "tags": [],
+    "event_type": "other",
+    "project_stage": "not_assessed",
+    "companies": [
+      "Aeolus Tyre"
+    ],
+    "counterparties": [],
+    "products_or_technologies": [],
+    "geographies": [
+      "china"
+    ],
+    "what_happened": "Aeolus reported first-half revenue growth of 8.02% and attributable profit growth of 3.3%. The company said domestic original-equipment revenue rose 5.44%, overseas revenue rose 12.58%, and it expanded non-road tire business.",
+    "intelligence_signal": "",
+    "why_it_matters": "The channel split supplies customer-side evidence that growth was not confined to one market. Overseas sales outpaced domestic OE, while profit grew much more slowly than revenue, leaving mix and margin as the next questions.",
+    "what_to_watch": null,
+    "sources": [
+      {
+        "publisher": "Aeolus Tyre 2026 half-year report",
+        "title": null,
+        "publication_date": "2026-08-30",
+        "url": "https://money.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?id=12568761&stockid=600469",
+        "source_role": "primary",
+        "link_label": "Aeolus Tyre 2026 half-year report"
+      }
+    ],
+    "evidence_status": "source_reported",
+    "evidence_note": null,
+    "post_cutoff_context": false,
+    "weekly_report_path": "reports/2026-08-24-to-2026-08-30.md",
+    "story_url": "reports/2026-08-24-to-2026-08-30.md/#aeolus-grows-domestic-oe-and-overseas-revenue-in-the-first-half"
+  },
+  {
+    "story_id": "2026-08-24-sailun-reports-first-half-revenue-of-rmb200-billion-and-profit-of-rmb216-billion",
+    "week_start": "2026-08-24",
+    "week_end": "2026-08-30",
+    "publication_date": "2026-08-30",
+    "event_date": null,
+    "effective_date": null,
+    "title": "Sailun reports first-half revenue of RMB20.0 billion and profit of RMB2.16 billion",
+    "primary_category": "Sales & Customer Services",
+    "related_categories": [],
+    "tags": [],
+    "event_type": "other",
+    "project_stage": "not_assessed",
+    "companies": [
+      "Sailun Group"
+    ],
+    "counterparties": [],
+    "products_or_technologies": [],
+    "geographies": [
+      "china"
+    ],
+    "what_happened": "A same-day account of Sailun's half-year results reports revenue of RMB20.03 billion, up 13.9%, attributable profit of RMB2.16 billion, up 18.0%, and operating cash flow of RMB1.033 billion, up 16.9%. Second-quarter revenue reached RMB10.57 billion and attributable profit RMB1.103 billion.",
+    "intelligence_signal": "",
+    "why_it_matters": "Sailun's growth provides a counterpoint to the profit compression reported by several peers, suggesting that global capacity and product mix are producing materially different outcomes across Chinese manufacturers.",
+    "what_to_watch": null,
+    "sources": [
+      {
+        "publisher": "Sina Finance / 财中社",
+        "title": null,
+        "publication_date": "2026-08-30",
+        "url": "https://finance.sina.com.cn/stock/zqgd/2026-08-30/doc-iniqauvp8213334.shtml",
+        "source_role": "primary",
+        "link_label": "Sina Finance / 财中社"
+      },
+      {
+        "publisher": null,
+        "title": null,
+        "publication_date": null,
+        "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?id=12574008&stockid=601058",
+        "source_role": "companion",
+        "link_label": "second source"
+      }
+    ],
+    "evidence_status": "source_reported",
+    "evidence_note": null,
+    "post_cutoff_context": false,
+    "weekly_report_path": "reports/2026-08-24-to-2026-08-30.md",
+    "story_url": "reports/2026-08-24-to-2026-08-30.md/#sailun-reports-first-half-revenue-of-rmb200-billion-and-profit-of-rmb216-billion"
   }
 ]
