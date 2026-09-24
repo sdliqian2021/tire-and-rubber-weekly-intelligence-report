@@ -10,50 +10,7 @@ nav: intelligence
 <header class="blog-intro">
   <h1>Tire &amp; Rubber Intelligence</h1>
   <div class="intro-notes">
-    <p>
-      I came across an article,
-      <a href="https://asiatimes.com/2025/12/how-us-manufacturing-was-gutted-with-a-smile/">“How US Manufacturing Was Gutted with a Smile”</a>,
-      which argues that the “Smile Curve” encouraged Western companies to retain
-      high-margin activities—R&amp;D, design, branding, and marketing—while
-      outsourcing supposedly low-value manufacturing. Although this approach
-      maximized shareholder returns, it confused profitability with technical
-      difficulty and strategic importance. This triggered my interest in examining
-      how tire companies are performing in these areas and whether this discussion
-      also applies to the tire industry.
-    </p>
-    <p>
-      Therefore, I decided to build an app—with the help of AI—to collect and
-      organize publicly available information from the internet and investigate
-      these questions. For the tire industry, I use the smile curve as a practical
-      framework consisting of five areas: R&amp;D &amp; Product Development,
-      Materials &amp; Supply Chain, Manufacturing, Marketing &amp; Distribution,
-      and Sales &amp; Customer Services. Activities at the two ends are
-      traditionally associated with higher value added, while manufacturing
-      occupies the lower center.
-    </p>
-    <p>
-      My source strategy is to prioritize original and source-side
-      evidence—including government records, company filings, permits, patents,
-      technical research, test data, and statements from companies, customers,
-      suppliers, and partners—and then use independent analysis and credible media
-      for corroboration.
-    </p>
-    <p>
-      As someone with a technical background, I place particular emphasis on new
-      trends, models, materials, and technologies. This includes emerging market
-      and manufacturing shifts, innovative business and service models, advanced
-      and circular tire materials, and technological developments in tire design,
-      AI, automation, sensors, smart tires, testing, and digital manufacturing.
-    </p>
-    <p>
-      In addition, I place a special focus on the Chinese tire industry—not only
-      because I am Chinese and my home province, Shandong, is home to hundreds of
-      tire companies, but also because many Chinese tire companies are especially
-      concentrated at the lower center of the curve: manufacturing. This makes
-      China a particularly interesting case for studying whether manufacturing is
-      truly “low value” or whether the smile curve overlooks its technical
-      difficulty and strategic importance.
-    </p>
+    <p>Weekly public-source intelligence on the global tire and rubber industry, collected with AI assistance and reviewed by a human. Each report is organized around a smile-curve framework of five areas—R&amp;D &amp; Product Development, Materials &amp; Supply Chain, Manufacturing, Marketing &amp; Distribution, and Sales &amp; Customer Services—with a special focus on the Chinese tire industry. Read more about the motivation, framework, and source strategy on the <a href="{{ site.intelligence_url }}/about.html">About page</a>.</p>
   </div>
 </header>
 
