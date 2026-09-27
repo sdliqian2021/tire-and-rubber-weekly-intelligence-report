@@ -18626,5 +18626,2967 @@
     "post_cutoff_context": false,
     "weekly_report_path": "reports/2026-09-07-to-2026-09-13.md",
     "story_url": "reports/2026-09-07-to-2026-09-13.md/#prometeon-upgrades-pro-management-fleet-tire-portal"
+  },
+  {
+    "story_id": "2026-05-04-dunlop-launches-sport-maxx-rs-performance-tire-in-china",
+    "week_start": "2026-05-04",
+    "week_end": "2026-05-10",
+    "publication_date": "2026-05-06",
+    "event_date": null,
+    "effective_date": null,
+    "title": "Dunlop launches SPORT MAXX RS performance tire in China",
+    "primary_category": "R&D & Product Development",
+    "related_categories": [],
+    "tags": [],
+    "event_type": "other",
+    "project_stage": "not_assessed",
+    "companies": [
+      "Sumitomo Rubber Industries / Dunlop"
+    ],
+    "counterparties": [],
+    "products_or_technologies": [],
+    "geographies": [
+      "china"
+    ],
+    "what_happened": "Dunlop introduced SPORT MAXX RS to the Chinese market, positioning it for high-performance road use with a tread, compound and structural package aimed at steering response and grip.",
+    "intelligence_signal": "International brands continue to localize high-performance product portfolios for China's premium replacement market.",
+    "why_it_matters": "A market launch is stronger than a preview, but published performance claims still require independent comparative tests.",
+    "what_to_watch": null,
+    "sources": [
+      {
+        "publisher": "TireChina",
+        "title": null,
+        "publication_date": "2026-05-06",
+        "url": "https://www.tirechina.net/832430.html",
+        "source_role": "primary",
+        "link_label": "TireChina"
+      }
+    ],
+    "evidence_status": "source_reported",
+    "evidence_note": null,
+    "post_cutoff_context": false,
+    "weekly_report_path": "reports/2026-05-04-to-2026-05-10.md",
+    "story_url": "reports/2026-05-04-to-2026-05-10.md/#dunlop-launches-sport-maxx-rs-performance-tire-in-china"
+  },
+  {
+    "story_id": "2026-05-04-cst-presents-lightweight-two-wheel-tire-portfolio-at-china-cycle-2026",
+    "week_start": "2026-05-04",
+    "week_end": "2026-05-10",
+    "publication_date": "2026-05-08",
+    "event_date": null,
+    "effective_date": null,
+    "title": "CST presents lightweight two-wheel tire portfolio at China Cycle 2026",
+    "primary_category": "R&D & Product Development",
+    "related_categories": [],
+    "tags": [],
+    "event_type": "other",
+    "project_stage": "not_assessed",
+    "companies": [
+      "Cheng Shin Rubber / CST"
+    ],
+    "counterparties": [],
+    "products_or_technologies": [],
+    "geographies": [
+      "china"
+    ],
+    "what_happened": "CST showed multiple lightweight bicycle-tire products at the Shanghai exhibition, using a 'weight disappears' display to frame performance and product-range changes for two-wheel mobility.",
+    "intelligence_signal": "Lightweight construction and application-specific two-wheel portfolios are moving into mainstream product positioning.",
+    "why_it_matters": "The launch provides a current product signal in China's large two-wheel market, although no independent performance data accompanied the display.",
+    "what_to_watch": null,
+    "sources": [
+      {
+        "publisher": "TireChina",
+        "title": null,
+        "publication_date": "2026-05-08",
+        "url": "https://www.tirechina.net/832446.html",
+        "source_role": "primary",
+        "link_label": "TireChina"
+      }
+    ],
+    "evidence_status": "source_reported",
+    "evidence_note": null,
+    "post_cutoff_context": false,
+    "weekly_report_path": "reports/2026-05-04-to-2026-05-10.md",
+    "story_url": "reports/2026-05-04-to-2026-05-10.md/#cst-presents-lightweight-two-wheel-tire-portfolio-at-china-cycle-2026"
+  },
+  {
+    "story_id": "2026-05-04-vredestein-comtrac-2-wins-promobil-motorhome-summer-tire-test",
+    "week_start": "2026-05-04",
+    "week_end": "2026-05-10",
+    "publication_date": "2026-05-07",
+    "event_date": null,
+    "effective_date": null,
+    "title": "Vredestein Comtrac 2+ wins Promobil motorhome summer-tire test",
+    "primary_category": "R&D & Product Development",
+    "related_categories": [],
+    "tags": [],
+    "event_type": "other",
+    "project_stage": "not_assessed",
+    "companies": [
+      "Apollo Tyres / Vredestein"
+    ],
+    "counterparties": [],
+    "products_or_technologies": [],
+    "geographies": [],
+    "what_happened": "Promobil ranked the Comtrac 2+ first in a motorhome summer-tire group test, highlighting short wet and dry braking distances.",
+    "intelligence_signal": "Independent category tests can influence specialist replacement demand.",
+    "why_it_matters": "The accessible report lacks the full protocol and result table needed for a stronger cross-product conclusion.",
+    "what_to_watch": null,
+    "sources": [
+      {
+        "publisher": "Tyrepress",
+        "title": null,
+        "publication_date": "2026-05-07",
+        "url": "https://www.tyrepress.com/2026/05/vredestein-comtrac-2-wins-in-promobil-group-test-of-motorhome-tyres",
+        "source_role": "primary",
+        "link_label": "Tyrepress"
+      }
+    ],
+    "evidence_status": "context_limited",
+    "evidence_note": "The ranking is attributable, but the accessible summary does not provide the complete test protocol or table.",
+    "post_cutoff_context": false,
+    "weekly_report_path": "reports/2026-05-04-to-2026-05-10.md",
+    "story_url": "reports/2026-05-04-to-2026-05-10.md/#vredestein-comtrac-2-wins-promobil-motorhome-summer-tire-test"
+  },
+  {
+    "story_id": "2026-05-04-european-commission-proposes-excluding-retreaded-tires-from-eudr-product-scope",
+    "week_start": "2026-05-04",
+    "week_end": "2026-05-10",
+    "publication_date": "2026-05-05",
+    "event_date": null,
+    "effective_date": null,
+    "title": "European Commission proposes excluding retreaded tires from EUDR product scope",
+    "primary_category": "Materials & Supply Chain",
+    "related_categories": [],
+    "tags": [],
+    "event_type": "other",
+    "project_stage": "not_assessed",
+    "companies": [
+      "European Commission"
+    ],
+    "counterparties": [],
+    "products_or_technologies": [],
+    "geographies": [],
+    "what_happened": "The Commission proposed removing retreaded tires from the EU Deforestation Regulation's product scope as part of simplification ahead of planned application in December 2026.",
+    "intelligence_signal": "Regulators are distinguishing circular products from new rubber-intensive goods when calibrating traceability burdens.",
+    "why_it_matters": "An exclusion could reduce administrative friction for retreading, but it is not effective law at the proposal stage.",
+    "what_to_watch": null,
+    "sources": [
+      {
+        "publisher": "Tyrepress",
+        "title": null,
+        "publication_date": "2026-05-05",
+        "url": "https://www.tyrepress.com/2026/05/eu-moves-to-exclude-retreads-from-eudr-scope",
+        "source_role": "primary",
+        "link_label": "Tyrepress"
+      }
+    ],
+    "evidence_status": "source_reported",
+    "evidence_note": null,
+    "post_cutoff_context": false,
+    "weekly_report_path": "reports/2026-05-04-to-2026-05-10.md",
+    "story_url": "reports/2026-05-04-to-2026-05-10.md/#european-commission-proposes-excluding-retreaded-tires-from-eudr-product-scope"
+  },
+  {
+    "story_id": "2026-05-04-linglong-shows-concept-tire-containing-85-sustainable-materials",
+    "week_start": "2026-05-04",
+    "week_end": "2026-05-10",
+    "publication_date": "2026-05-06",
+    "event_date": null,
+    "effective_date": null,
+    "title": "Linglong shows concept tire containing 85% sustainable materials",
+    "primary_category": "Materials & Supply Chain",
+    "related_categories": [],
+    "tags": [],
+    "event_type": "other",
+    "project_stage": "not_assessed",
+    "companies": [
+      "Linglong Tire"
+    ],
+    "counterparties": [],
+    "products_or_technologies": [],
+    "geographies": [
+      "china"
+    ],
+    "what_happened": "Linglong presented an 85% sustainable-material concept tire at the WBCSD meeting in Montreux and reiterated targets for 100% sustainable materials by 2040 and climate neutrality by 2050.",
+    "intelligence_signal": "Chinese tire makers are raising sustainable-material content in demonstrators, but concept-stage evidence remains distinct from scaled production.",
+    "why_it_matters": "The disclosed material share is a useful development-stage marker and a basis for later commercial qualification checks.",
+    "what_to_watch": null,
+    "sources": [
+      {
+        "publisher": "Tyrepress",
+        "title": null,
+        "publication_date": "2026-05-06",
+        "url": "https://www.tyrepress.com/2026/05/linglong-shows-85-sustainable-materials-concept-tyre-at-wbcsd-meeting",
+        "source_role": "primary",
+        "link_label": "Tyrepress"
+      }
+    ],
+    "evidence_status": "source_reported",
+    "evidence_note": null,
+    "post_cutoff_context": false,
+    "weekly_report_path": "reports/2026-05-04-to-2026-05-10.md",
+    "story_url": "reports/2026-05-04-to-2026-05-10.md/#linglong-shows-concept-tire-containing-85-sustainable-materials"
+  },
+  {
+    "story_id": "2026-05-04-bekaert-completes-acquisition-of-bridgestone-steel-cord-plants-in-china-and-thailand",
+    "week_start": "2026-05-04",
+    "week_end": "2026-05-10",
+    "publication_date": "2026-05-07",
+    "event_date": null,
+    "effective_date": null,
+    "title": "Bekaert completes acquisition of Bridgestone steel-cord plants in China and Thailand",
+    "primary_category": "Materials & Supply Chain",
+    "related_categories": [],
+    "tags": [],
+    "event_type": "other",
+    "project_stage": "not_assessed",
+    "companies": [
+      "Bekaert / Bridgestone"
+    ],
+    "counterparties": [],
+    "products_or_technologies": [],
+    "geographies": [
+      "china"
+    ],
+    "what_happened": "Bekaert completed its EUR60 million purchase of tire-reinforcement operations in Shenyang, China and Rayong, Thailand, with a long-term supply arrangement and about EUR80 million in expected annual revenue cited.",
+    "intelligence_signal": "Tire makers are transferring captive reinforcement assets to specialist materials suppliers while preserving supply through contracts.",
+    "why_it_matters": "The deal changes ownership of a strategic input and directly affects the regional steel-cord supply base.",
+    "what_to_watch": null,
+    "sources": [
+      {
+        "publisher": "TireChina",
+        "title": null,
+        "publication_date": "2026-05-07",
+        "url": "https://www.tirechina.net/832440.html",
+        "source_role": "primary",
+        "link_label": "TireChina"
+      }
+    ],
+    "evidence_status": "source_reported",
+    "evidence_note": null,
+    "post_cutoff_context": false,
+    "weekly_report_path": "reports/2026-05-04-to-2026-05-10.md",
+    "story_url": "reports/2026-05-04-to-2026-05-10.md/#bekaert-completes-acquisition-of-bridgestone-steel-cord-plants-in-china-and-thailand"
+  },
+  {
+    "story_id": "2026-05-04-chinas-expanded-zero-tariff-treatment-for-africa-does-not-broadly-unlock-cheaper-rubber",
+    "week_start": "2026-05-04",
+    "week_end": "2026-05-10",
+    "publication_date": "2026-05-05",
+    "event_date": null,
+    "effective_date": null,
+    "title": "China's expanded zero-tariff treatment for Africa does not broadly unlock cheaper rubber",
+    "primary_category": "Materials & Supply Chain",
+    "related_categories": [],
+    "tags": [],
+    "event_type": "other",
+    "project_stage": "not_assessed",
+    "companies": [
+      "China Rubber Industry Association"
+    ],
+    "counterparties": [],
+    "products_or_technologies": [],
+    "geographies": [
+      "china"
+    ],
+    "what_happened": "China expanded zero-tariff treatment to 20 additional African partner countries, but CRIA noted that the change covers a specified product list rather than all goods and therefore does not create a broad new source of low-cost rubber.",
+    "intelligence_signal": "Headline tariff liberalization can have limited tire-material impact when product coverage and producing-country capacity are narrow.",
+    "why_it_matters": "The clarification prevents an overstatement of the policy's near-term effect on natural-rubber sourcing costs.",
+    "what_to_watch": null,
+    "sources": [
+      {
+        "publisher": "Tyrepress",
+        "title": null,
+        "publication_date": "2026-05-05",
+        "url": "https://www.tyrepress.com/2026/05/chinas-tyre-makers-gain-little-from-africa-tariff-changes",
+        "source_role": "primary",
+        "link_label": "Tyrepress"
+      }
+    ],
+    "evidence_status": "source_reported",
+    "evidence_note": null,
+    "post_cutoff_context": false,
+    "weekly_report_path": "reports/2026-05-04-to-2026-05-10.md",
+    "story_url": "reports/2026-05-04-to-2026-05-10.md/#chinas-expanded-zero-tariff-treatment-for-africa-does-not-broadly-unlock-cheaper-rubber"
+  },
+  {
+    "story_id": "2026-05-04-pirelli-plans-cyber-tire-production-and-a-mirs-upgrade-at-its-georgia-plant",
+    "week_start": "2026-05-04",
+    "week_end": "2026-05-10",
+    "publication_date": "2026-05-07",
+    "event_date": null,
+    "effective_date": null,
+    "title": "Pirelli plans Cyber Tire production and a MIRS upgrade at its Georgia plant",
+    "primary_category": "Manufacturing",
+    "related_categories": [],
+    "tags": [],
+    "event_type": "other",
+    "project_stage": "not_assessed",
+    "companies": [
+      "Pirelli"
+    ],
+    "counterparties": [],
+    "products_or_technologies": [],
+    "geographies": [],
+    "what_happened": "Pirelli announced that its US plant in Georgia will produce connected Cyber Tires and receive the latest version of the company's MIRS manufacturing system.",
+    "intelligence_signal": "Connected-tire capability is moving closer to regional series production alongside flexible manufacturing upgrades.",
+    "why_it_matters": "Combining product electronics with plant modernization is a concrete manufacturing direction, but the announcement does not establish commissioning.",
+    "what_to_watch": null,
+    "sources": [
+      {
+        "publisher": "Tyrepress",
+        "title": null,
+        "publication_date": "2026-05-07",
+        "url": "https://www.tyrepress.com/2026/05/pirelli-us-plant-to-start-manufacturing-cyber-tyre-gaining-latest-mirs-update",
+        "source_role": "primary",
+        "link_label": "Tyrepress"
+      }
+    ],
+    "evidence_status": "source_reported",
+    "evidence_note": null,
+    "post_cutoff_context": false,
+    "weekly_report_path": "reports/2026-05-04-to-2026-05-10.md",
+    "story_url": "reports/2026-05-04-to-2026-05-10.md/#pirelli-plans-cyber-tire-production-and-a-mirs-upgrade-at-its-georgia-plant"
+  },
+  {
+    "story_id": "2026-05-04-pirelli-reports-xushen-tyre-as-a-fully-consolidated-china-operation",
+    "week_start": "2026-05-04",
+    "week_end": "2026-05-10",
+    "publication_date": "2026-05-08",
+    "event_date": null,
+    "effective_date": null,
+    "title": "Pirelli reports Xushen Tyre as a fully consolidated China operation",
+    "primary_category": "Manufacturing",
+    "related_categories": [],
+    "tags": [],
+    "event_type": "other",
+    "project_stage": "not_assessed",
+    "companies": [
+      "Pirelli / Xushen Tyre"
+    ],
+    "counterparties": [],
+    "products_or_technologies": [],
+    "geographies": [
+      "china"
+    ],
+    "what_happened": "Pirelli's first-quarter reporting included Xushen Tyre as a fully consolidated entity after the group exercised its call option with effect from 1 January 2026, supporting its China new-energy-vehicle strategy.",
+    "intelligence_signal": "Control of Chinese manufacturing assets is being tightened to align local production and product development with premium EV demand.",
+    "why_it_matters": "Full consolidation changes governance and financial control, even though it does not by itself prove a new capacity increase.",
+    "what_to_watch": null,
+    "sources": [
+      {
+        "publisher": "Tyrepress",
+        "title": null,
+        "publication_date": "2026-05-08",
+        "url": "https://www.tyrepress.com/2026/05/pirelli-consolidates-xushen-tyre-jv-in-ongoing-move-to-target-new-energy-vehicles",
+        "source_role": "primary",
+        "link_label": "Tyrepress"
+      }
+    ],
+    "evidence_status": "source_reported",
+    "evidence_note": null,
+    "post_cutoff_context": false,
+    "weekly_report_path": "reports/2026-05-04-to-2026-05-10.md",
+    "story_url": "reports/2026-05-04-to-2026-05-10.md/#pirelli-reports-xushen-tyre-as-a-fully-consolidated-china-operation"
+  },
+  {
+    "story_id": "2026-05-04-sanli-tires-rmb63671-million-expansion-receives-environmental-approval",
+    "week_start": "2026-05-04",
+    "week_end": "2026-05-10",
+    "publication_date": "2026-05-08",
+    "event_date": null,
+    "effective_date": null,
+    "title": "Sanli Tire's RMB636.71 million expansion receives environmental approval",
+    "primary_category": "Manufacturing",
+    "related_categories": [],
+    "tags": [],
+    "event_type": "other",
+    "project_stage": "not_assessed",
+    "companies": [
+      "Sanli Tire"
+    ],
+    "counterparties": [],
+    "products_or_technologies": [],
+    "geographies": [
+      "china"
+    ],
+    "what_happened": "Heze authorities approved the environmental report for a Cao County expansion designed for 3.38 million semi-steel radial tires a year, including UHP, EV, run-flat and self-sealing products, supported by 162 equipment sets.",
+    "intelligence_signal": "Chinese manufacturers are directing brownfield capex toward larger-rim, EV and safety-oriented product mixes.",
+    "why_it_matters": "The approval advances the project beyond announcement while remaining short of construction or commissioning evidence.",
+    "what_to_watch": null,
+    "sources": [
+      {
+        "publisher": "TireChina",
+        "title": null,
+        "publication_date": "2026-05-08",
+        "url": "https://www.tirechina.net/832444.html",
+        "source_role": "primary",
+        "link_label": "TireChina"
+      }
+    ],
+    "evidence_status": "source_reported",
+    "evidence_note": null,
+    "post_cutoff_context": false,
+    "weekly_report_path": "reports/2026-05-04-to-2026-05-10.md",
+    "story_url": "reports/2026-05-04-to-2026-05-10.md/#sanli-tires-rmb63671-million-expansion-receives-environmental-approval"
+  },
+  {
+    "story_id": "2026-05-04-continental-raises-tire-and-contitech-profitability-despite-lower-sales",
+    "week_start": "2026-05-04",
+    "week_end": "2026-05-10",
+    "publication_date": "2026-05-07",
+    "event_date": null,
+    "effective_date": null,
+    "title": "Continental raises tire and ContiTech profitability despite lower sales",
+    "primary_category": "Manufacturing",
+    "related_categories": [],
+    "tags": [],
+    "event_type": "other",
+    "project_stage": "not_assessed",
+    "companies": [
+      "Continental"
+    ],
+    "counterparties": [],
+    "products_or_technologies": [],
+    "geographies": [],
+    "what_happened": "Continental reported improved adjusted EBIT margins in Tires and ContiTech despite a weak market, tariffs and currency headwinds, citing cost discipline, product mix and lower raw-material costs.",
+    "intelligence_signal": "Manufacturing economics are improving through mix and cost control even without top-line expansion.",
+    "why_it_matters": "The result gives an operating benchmark for margin resilience during demand softness.",
+    "what_to_watch": null,
+    "sources": [
+      {
+        "publisher": "Tyrepress",
+        "title": null,
+        "publication_date": "2026-05-07",
+        "url": "https://www.tyrepress.com/2026/05/continental-lifts-profitability-in-tyres-contitech-in-q1-as-sales-fall",
+        "source_role": "primary",
+        "link_label": "Tyrepress"
+      }
+    ],
+    "evidence_status": "source_reported",
+    "evidence_note": null,
+    "post_cutoff_context": false,
+    "weekly_report_path": "reports/2026-05-04-to-2026-05-10.md",
+    "story_url": "reports/2026-05-04-to-2026-05-10.md/#continental-raises-tire-and-contitech-profitability-despite-lower-sales"
+  },
+  {
+    "story_id": "2026-05-04-chinese-tire-makers-announce-may-price-increases-but-channel-pass-through-remains-uneven",
+    "week_start": "2026-05-04",
+    "week_end": "2026-05-10",
+    "publication_date": "2026-05-05",
+    "event_date": null,
+    "effective_date": null,
+    "title": "Chinese tire makers announce May price increases, but channel pass-through remains uneven",
+    "primary_category": "Marketing & Distribution",
+    "related_categories": [],
+    "tags": [],
+    "event_type": "other",
+    "project_stage": "not_assessed",
+    "companies": [
+      "China tire market"
+    ],
+    "counterparties": [],
+    "products_or_technologies": [],
+    "geographies": [
+      "china"
+    ],
+    "what_happened": "Fangxing Tire said semi-steel, all-steel and OTR prices would rise 3%-5% from 10 May, while the report counted more than 80 domestic and international price notices since March.",
+    "intelligence_signal": "Raw-material inflation is prompting broad list-price action, but notices do not establish realized transaction prices.",
+    "why_it_matters": "The gap between announced increases and dealer acceptance is a direct signal about channel power and margin recovery in China.",
+    "what_to_watch": null,
+    "sources": [
+      {
+        "publisher": "TireChina",
+        "title": null,
+        "publication_date": "2026-05-05",
+        "url": "https://www.tirechina.net/832429.html",
+        "source_role": "primary",
+        "link_label": "TireChina"
+      }
+    ],
+    "evidence_status": "source_reported",
+    "evidence_note": null,
+    "post_cutoff_context": false,
+    "weekly_report_path": "reports/2026-05-04-to-2026-05-10.md",
+    "story_url": "reports/2026-05-04-to-2026-05-10.md/#chinese-tire-makers-announce-may-price-increases-but-channel-pass-through-remains-uneven"
+  },
+  {
+    "story_id": "2026-05-04-goodyear-posts-a-249-million-first-quarter-loss-as-tire-volume-falls-116",
+    "week_start": "2026-05-04",
+    "week_end": "2026-05-10",
+    "publication_date": "2026-05-07",
+    "event_date": null,
+    "effective_date": null,
+    "title": "Goodyear posts a $249 million first-quarter loss as tire volume falls 11.6%",
+    "primary_category": "Marketing & Distribution",
+    "related_categories": [],
+    "tags": [],
+    "event_type": "other",
+    "project_stage": "not_assessed",
+    "companies": [
+      "Goodyear"
+    ],
+    "counterparties": [],
+    "products_or_technologies": [],
+    "geographies": [],
+    "what_happened": "Goodyear reported a $249 million net loss, sales down 8.7% to $3.881 billion and tire units down 11.6% to 34.0 million in the first quarter.",
+    "intelligence_signal": "Weak North American replacement demand and volume pressure are forcing sharper portfolio and footprint decisions.",
+    "why_it_matters": "The scale of the decline is a material demand signal and a baseline for later restructuring actions.",
+    "what_to_watch": null,
+    "sources": [
+      {
+        "publisher": "Tyrepress",
+        "title": null,
+        "publication_date": "2026-05-07",
+        "url": "https://www.tyrepress.com/2026/05/goodyear-posts-249-million-loss-in-q126",
+        "source_role": "primary",
+        "link_label": "Tyrepress"
+      }
+    ],
+    "evidence_status": "source_reported",
+    "evidence_note": null,
+    "post_cutoff_context": false,
+    "weekly_report_path": "reports/2026-05-04-to-2026-05-10.md",
+    "story_url": "reports/2026-05-04-to-2026-05-10.md/#goodyear-posts-a-249-million-first-quarter-loss-as-tire-volume-falls-116"
+  },
+  {
+    "story_id": "2026-05-04-chinas-march-tire-exports-fall-while-first-quarter-volume-remains-above-2025",
+    "week_start": "2026-05-04",
+    "week_end": "2026-05-10",
+    "publication_date": "2026-05-08",
+    "event_date": null,
+    "effective_date": null,
+    "title": "China's March tire exports fall, while first-quarter volume remains above 2025",
+    "primary_category": "Marketing & Distribution",
+    "related_categories": [],
+    "tags": [],
+    "event_type": "other",
+    "project_stage": "not_assessed",
+    "companies": [
+      "China tire export market"
+    ],
+    "counterparties": [],
+    "products_or_technologies": [],
+    "geographies": [
+      "china"
+    ],
+    "what_happened": "China exported 800,000 tonnes of rubber tires in March, down 6.9% year on year, with value down 11.3% to RMB13.475 billion; cumulative first-quarter volume remained higher than a year earlier.",
+    "intelligence_signal": "Export volume and value are diverging, signaling pricing or mix pressure even while cumulative shipments grow.",
+    "why_it_matters": "The customs-based data is a direct measure of external demand and pricing pressure facing Chinese producers.",
+    "what_to_watch": null,
+    "sources": [
+      {
+        "publisher": "Tyrepress",
+        "title": null,
+        "publication_date": "2026-05-08",
+        "url": "https://www.tyrepress.com/2026/05/chinas-tyre-exports-fell-in-march-but-first-quarter-volumes-still-rose",
+        "source_role": "primary",
+        "link_label": "Tyrepress"
+      }
+    ],
+    "evidence_status": "source_reported",
+    "evidence_note": null,
+    "post_cutoff_context": false,
+    "weekly_report_path": "reports/2026-05-04-to-2026-05-10.md",
+    "story_url": "reports/2026-05-04-to-2026-05-10.md/#chinas-march-tire-exports-fall-while-first-quarter-volume-remains-above-2025"
+  },
+  {
+    "story_id": "2026-05-04-ceat-builds-localized-european-entities-in-four-key-markets",
+    "week_start": "2026-05-04",
+    "week_end": "2026-05-10",
+    "publication_date": "2026-05-05",
+    "event_date": null,
+    "effective_date": null,
+    "title": "CEAT builds localized European entities in four key markets",
+    "primary_category": "Marketing & Distribution",
+    "related_categories": [],
+    "tags": [],
+    "event_type": "other",
+    "project_stage": "not_assessed",
+    "companies": [
+      "CEAT"
+    ],
+    "counterparties": [],
+    "products_or_technologies": [],
+    "geographies": [],
+    "what_happened": "CEAT confirmed entities or branches in the UK, Germany, France and Poland, describing a shift from an export-led model toward a permanent localized presence.",
+    "intelligence_signal": "Emerging tire makers are adding local commercial infrastructure to compete beyond importer-only distribution.",
+    "why_it_matters": "Legal and operating presence can improve market access and partner support, though it does not establish sales growth by itself.",
+    "what_to_watch": null,
+    "sources": [
+      {
+        "publisher": "Tyrepress",
+        "title": null,
+        "publication_date": "2026-05-05",
+        "url": "https://www.tyrepress.com/2026/05/ceat-expanding-european-presence",
+        "source_role": "primary",
+        "link_label": "Tyrepress"
+      }
+    ],
+    "evidence_status": "source_reported",
+    "evidence_note": null,
+    "post_cutoff_context": false,
+    "weekly_report_path": "reports/2026-05-04-to-2026-05-10.md",
+    "story_url": "reports/2026-05-04-to-2026-05-10.md/#ceat-builds-localized-european-entities-in-four-key-markets"
+  },
+  {
+    "story_id": "2026-05-04-china-commercial-tire-demand-improves-while-cost-pass-through-stays-weak",
+    "week_start": "2026-05-04",
+    "week_end": "2026-05-10",
+    "publication_date": "2026-05-07",
+    "event_date": null,
+    "effective_date": null,
+    "title": "China commercial-tire demand improves while cost pass-through stays weak",
+    "primary_category": "Marketing & Distribution",
+    "related_categories": [],
+    "tags": [],
+    "event_type": "other",
+    "project_stage": "not_assessed",
+    "companies": [
+      "China commercial tire market"
+    ],
+    "counterparties": [],
+    "products_or_technologies": [],
+    "geographies": [
+      "china"
+    ],
+    "what_happened": "An industry review described a weakly stable first-half market: raw-material costs remained elevated, channel inventory constrained replenishment and first-quarter commercial-vehicle sales reached 1.114 million units, up 6% year on year.",
+    "intelligence_signal": "Volume recovery and pricing power are diverging, leaving manufacturers to balance utilization, inventory and margin.",
+    "why_it_matters": "The combination explains why announced tire increases may not translate quickly into channel prices.",
+    "what_to_watch": null,
+    "sources": [
+      {
+        "publisher": "TireChina",
+        "title": null,
+        "publication_date": "2026-05-07",
+        "url": "https://www.tirechina.net/832441.html",
+        "source_role": "primary",
+        "link_label": "TireChina"
+      }
+    ],
+    "evidence_status": "source_reported",
+    "evidence_note": null,
+    "post_cutoff_context": false,
+    "weekly_report_path": "reports/2026-05-04-to-2026-05-10.md",
+    "story_url": "reports/2026-05-04-to-2026-05-10.md/#china-commercial-tire-demand-improves-while-cost-pass-through-stays-weak"
+  },
+  {
+    "story_id": "2026-05-04-european-replacement-consumer-tire-sales-return-to-modest-growth-in-q1",
+    "week_start": "2026-05-04",
+    "week_end": "2026-05-10",
+    "publication_date": "2026-05-07",
+    "event_date": null,
+    "effective_date": null,
+    "title": "European replacement consumer-tire sales return to modest growth in Q1",
+    "primary_category": "Marketing & Distribution",
+    "related_categories": [],
+    "tags": [],
+    "event_type": "other",
+    "project_stage": "not_assessed",
+    "companies": [
+      "Tyres Europe"
+    ],
+    "counterparties": [],
+    "products_or_technologies": [],
+    "geographies": [],
+    "what_happened": "Tyres Europe members sold 58.144 million replacement consumer tires in the first quarter, up 1% from 57.499 million a year earlier.",
+    "intelligence_signal": "European replacement demand is stabilizing after a weak 2025, but the recovery remains shallow.",
+    "why_it_matters": "The association dataset offers a comparable volume signal for channel demand rather than relying on a single manufacturer.",
+    "what_to_watch": null,
+    "sources": [
+      {
+        "publisher": "Tyrepress",
+        "title": null,
+        "publication_date": "2026-05-07",
+        "url": "https://www.tyrepress.com/2026/05/tyres-europe-reports-growing-replacement-tyre-sales-in-q1-2026",
+        "source_role": "primary",
+        "link_label": "Tyrepress"
+      }
+    ],
+    "evidence_status": "source_reported",
+    "evidence_note": null,
+    "post_cutoff_context": false,
+    "weekly_report_path": "reports/2026-05-04-to-2026-05-10.md",
+    "story_url": "reports/2026-05-04-to-2026-05-10.md/#european-replacement-consumer-tire-sales-return-to-modest-growth-in-q1"
+  },
+  {
+    "story_id": "2026-05-04-grupo-andres-expands-salamanca-warehouse-and-acquires-seville-site",
+    "week_start": "2026-05-04",
+    "week_end": "2026-05-10",
+    "publication_date": "2026-05-05",
+    "event_date": null,
+    "effective_date": null,
+    "title": "Grupo Andres expands Salamanca warehouse and acquires Seville site",
+    "primary_category": "Marketing & Distribution",
+    "related_categories": [],
+    "tags": [],
+    "event_type": "other",
+    "project_stage": "not_assessed",
+    "companies": [
+      "Grupo Andres"
+    ],
+    "counterparties": [],
+    "products_or_technologies": [],
+    "geographies": [],
+    "what_happened": "The distributor added almost 4,000 square metres and capacity for about 100,000 tires at Salamanca, while acquiring 25,000 square metres in Seville for a new southern Spain warehouse; its network now exceeds 55,000 square metres.",
+    "intelligence_signal": "European tire wholesalers are adding regional inventory capacity to shorten service distance and support broader assortments.",
+    "why_it_matters": "Physical storage expansion is a concrete channel investment rather than a marketing-only expansion claim.",
+    "what_to_watch": null,
+    "sources": [
+      {
+        "publisher": "Tyrepress",
+        "title": null,
+        "publication_date": "2026-05-05",
+        "url": "https://www.tyrepress.com/2026/05/grupo-andres-expanding-central-warehouse-adding-new-facility",
+        "source_role": "primary",
+        "link_label": "Tyrepress"
+      }
+    ],
+    "evidence_status": "source_reported",
+    "evidence_note": null,
+    "post_cutoff_context": false,
+    "weekly_report_path": "reports/2026-05-04-to-2026-05-10.md",
+    "story_url": "reports/2026-05-04-to-2026-05-10.md/#grupo-andres-expands-salamanca-warehouse-and-acquires-seville-site"
+  },
+  {
+    "story_id": "2026-05-04-jiangsu-general-reports-revenue-growth-but-profit-pressure-during-ownership-reform",
+    "week_start": "2026-05-04",
+    "week_end": "2026-05-10",
+    "publication_date": "2026-05-05",
+    "event_date": null,
+    "effective_date": null,
+    "title": "Jiangsu General reports revenue growth but profit pressure during ownership reform",
+    "primary_category": "Marketing & Distribution",
+    "related_categories": [],
+    "tags": [],
+    "event_type": "other",
+    "project_stage": "not_assessed",
+    "companies": [
+      "Jiangsu General Science Technology"
+    ],
+    "counterparties": [],
+    "products_or_technologies": [],
+    "geographies": [
+      "china"
+    ],
+    "what_happened": "Jiangsu General reported robust 2025 top-line growth alongside a sharp profitability decline, while an ownership reform was positioned as a change to the company's longer-term strategy.",
+    "intelligence_signal": "Scale growth is not automatically converting into earnings as Chinese manufacturers absorb input costs and trade pressure.",
+    "why_it_matters": "The result provides a counterweight to capacity announcements and highlights the financial constraint on overseas and product expansion.",
+    "what_to_watch": null,
+    "sources": [
+      {
+        "publisher": "Tyrepress",
+        "title": null,
+        "publication_date": "2026-05-05",
+        "url": "https://www.tyrepress.com/2026/05/jiangsu-general-reports-2025-profit-pressure-as-ownership-reform-reshapes-strategy",
+        "source_role": "primary",
+        "link_label": "Tyrepress"
+      }
+    ],
+    "evidence_status": "source_reported",
+    "evidence_note": null,
+    "post_cutoff_context": false,
+    "weekly_report_path": "reports/2026-05-04-to-2026-05-10.md",
+    "story_url": "reports/2026-05-04-to-2026-05-10.md/#jiangsu-general-reports-revenue-growth-but-profit-pressure-during-ownership-reform"
+  },
+  {
+    "story_id": "2026-05-04-mrf-reports-roughly-29-profit-growth-for-fiscal-2026",
+    "week_start": "2026-05-04",
+    "week_end": "2026-05-10",
+    "publication_date": "2026-05-07",
+    "event_date": null,
+    "effective_date": null,
+    "title": "MRF reports roughly 29% profit growth for fiscal 2026",
+    "primary_category": "Marketing & Distribution",
+    "related_categories": [],
+    "tags": [],
+    "event_type": "other",
+    "project_stage": "not_assessed",
+    "companies": [
+      "MRF Limited"
+    ],
+    "counterparties": [],
+    "products_or_technologies": [],
+    "geographies": [],
+    "what_happened": "MRF's audited full-year results showed standalone and consolidated revenue growth above 10% and profit growth close to 30% for the year ended 31 March 2026.",
+    "intelligence_signal": "India's domestic and replacement-market exposure is supporting stronger earnings than several mature-market peers.",
+    "why_it_matters": "The result helps distinguish regional demand and margin trajectories across global tire makers.",
+    "what_to_watch": null,
+    "sources": [
+      {
+        "publisher": "Tyrepress",
+        "title": null,
+        "publication_date": "2026-05-07",
+        "url": "https://www.tyrepress.com/2026/05/mrf-reports-29-profit-increase-in-fy2026",
+        "source_role": "primary",
+        "link_label": "Tyrepress"
+      }
+    ],
+    "evidence_status": "source_reported",
+    "evidence_note": null,
+    "post_cutoff_context": false,
+    "weekly_report_path": "reports/2026-05-04-to-2026-05-10.md",
+    "story_url": "reports/2026-05-04-to-2026-05-10.md/#mrf-reports-roughly-29-profit-growth-for-fiscal-2026"
+  },
+  {
+    "story_id": "2026-05-04-linglong-runs-master-gen-2-campaign-across-22-transport-hubs",
+    "week_start": "2026-05-04",
+    "week_end": "2026-05-10",
+    "publication_date": "2026-05-08",
+    "event_date": null,
+    "effective_date": null,
+    "title": "Linglong runs Master Gen 2 campaign across 22 transport hubs",
+    "primary_category": "Marketing & Distribution",
+    "related_categories": [],
+    "tags": [],
+    "event_type": "other",
+    "project_stage": "not_assessed",
+    "companies": [
+      "Linglong Tire"
+    ],
+    "counterparties": [],
+    "products_or_technologies": [],
+    "geographies": [
+      "china"
+    ],
+    "what_happened": "Linglong placed Master Gen 2 advertising in airports and rail stations across 22 Chinese cities and linked the product to a 4 May fan event.",
+    "intelligence_signal": "Chinese premium-tire brands are combining national media reach with experiential events.",
+    "why_it_matters": "The campaign shows channel and positioning activity but provides no measured sales or conversion outcome.",
+    "what_to_watch": null,
+    "sources": [
+      {
+        "publisher": "TireChina",
+        "title": null,
+        "publication_date": "2026-05-08",
+        "url": "https://www.tirechina.net/832445.html",
+        "source_role": "primary",
+        "link_label": "TireChina"
+      }
+    ],
+    "evidence_status": "context_limited",
+    "evidence_note": "This is a brand-supplied campaign account without independently measured commercial outcomes.",
+    "post_cutoff_context": false,
+    "weekly_report_path": "reports/2026-05-04-to-2026-05-10.md",
+    "story_url": "reports/2026-05-04-to-2026-05-10.md/#linglong-runs-master-gen-2-campaign-across-22-transport-hubs"
+  },
+  {
+    "story_id": "2026-05-04-bridgestone-and-penske-share-first-decarbonization-lab-findings-after-500000-fleet-miles",
+    "week_start": "2026-05-04",
+    "week_end": "2026-05-10",
+    "publication_date": "2026-05-04",
+    "event_date": null,
+    "effective_date": null,
+    "title": "Bridgestone and Penske share first Decarbonization Lab findings after 500,000 fleet miles",
+    "primary_category": "Sales & Customer Services",
+    "related_categories": [],
+    "tags": [],
+    "event_type": "other",
+    "project_stage": "not_assessed",
+    "companies": [
+      "Bridgestone Americas / Penske Transportation Solutions"
+    ],
+    "counterparties": [],
+    "products_or_technologies": [],
+    "geographies": [],
+    "what_happened": "The partners reported first-phase observations from more than 500,000 fleet miles and scheduled a public discussion at ACT Expo.",
+    "intelligence_signal": "Large-fleet field programs are becoming the proving ground for tire and operating changes tied to fuel and emissions reduction.",
+    "why_it_matters": "Real fleet mileage raises the evidence level above a lab-only claim, although the public summary did not provide a complete controlled baseline.",
+    "what_to_watch": null,
+    "sources": [
+      {
+        "publisher": "Tyrepress",
+        "title": null,
+        "publication_date": "2026-05-04",
+        "url": "https://www.tyrepress.com/2026/05/bridgestone-penske-share-initial-decarbonization-lab-findings",
+        "source_role": "primary",
+        "link_label": "Tyrepress"
+      }
+    ],
+    "evidence_status": "source_reported",
+    "evidence_note": null,
+    "post_cutoff_context": false,
+    "weekly_report_path": "reports/2026-05-04-to-2026-05-10.md",
+    "story_url": "reports/2026-05-04-to-2026-05-10.md/#bridgestone-and-penske-share-first-decarbonization-lab-findings-after-500000-fleet-miles"
+  },
+  {
+    "story_id": "2026-05-04-gri-extends-pneumatic-tire-warranty-coverage-to-as-long-as-ten-years",
+    "week_start": "2026-05-04",
+    "week_end": "2026-05-10",
+    "publication_date": "2026-05-07",
+    "event_date": null,
+    "effective_date": null,
+    "title": "GRI extends pneumatic-tire warranty coverage to as long as ten years",
+    "primary_category": "Sales & Customer Services",
+    "related_categories": [],
+    "tags": [],
+    "event_type": "other",
+    "project_stage": "not_assessed",
+    "companies": [
+      "GRI"
+    ],
+    "counterparties": [],
+    "products_or_technologies": [],
+    "geographies": [],
+    "what_happened": "GRI updated its limited warranty for pneumatic tires manufactured from 1 January 2025, extending eligible coverage to as long as ten years across more than 80 countries.",
+    "intelligence_signal": "Specialty-tire suppliers are using longer warranties to support lifetime-value positioning and distributor confidence.",
+    "why_it_matters": "The policy changes the customer proposition across a broad geographic footprint, subject to its terms and exclusions.",
+    "what_to_watch": null,
+    "sources": [
+      {
+        "publisher": "Tyrepress",
+        "title": null,
+        "publication_date": "2026-05-07",
+        "url": "https://www.tyrepress.com/2026/05/up-to-10-years-gri-extends-pneumatic-tyre-warranty",
+        "source_role": "primary",
+        "link_label": "Tyrepress"
+      }
+    ],
+    "evidence_status": "source_reported",
+    "evidence_note": null,
+    "post_cutoff_context": false,
+    "weekly_report_path": "reports/2026-05-04-to-2026-05-10.md",
+    "story_url": "reports/2026-05-04-to-2026-05-10.md/#gri-extends-pneumatic-tire-warranty-coverage-to-as-long-as-ten-years"
+  },
+  {
+    "story_id": "2026-05-11-aeolus-produces-chinas-first-reported-6080r57-giant-radial-otr-tire",
+    "week_start": "2026-05-11",
+    "week_end": "2026-05-17",
+    "publication_date": "2026-05-13",
+    "event_date": null,
+    "effective_date": null,
+    "title": "Aeolus produces China's first reported 60/80R57 giant radial OTR tire",
+    "primary_category": "R&D & Product Development",
+    "related_categories": [],
+    "tags": [],
+    "event_type": "other",
+    "project_stage": "not_assessed",
+    "companies": [
+      "Aeolus Tyre"
+    ],
+    "counterparties": [],
+    "products_or_technologies": [],
+    "geographies": [
+      "china"
+    ],
+    "what_happened": "Aeolus rolled out a 60/80R57 radial tire for 50-ton loaders, describing it as the first domestically produced tire in the size and linking it to a RMB1.464 billion expansion designed for about 20,000 giant OTR tires a year.",
+    "intelligence_signal": "Chinese OTR programs are moving into larger, higher-load segments previously concentrated among global specialists.",
+    "why_it_matters": "A physical first article is stronger evidence than a project announcement, while design capacity and performance remain to be qualified.",
+    "what_to_watch": null,
+    "sources": [
+      {
+        "publisher": "TireChina",
+        "title": null,
+        "publication_date": "2026-05-13",
+        "url": "https://www.tirechina.net/832461.html",
+        "source_role": "primary",
+        "link_label": "TireChina"
+      }
+    ],
+    "evidence_status": "source_reported",
+    "evidence_note": null,
+    "post_cutoff_context": false,
+    "weekly_report_path": "reports/2026-05-11-to-2026-05-17.md",
+    "story_url": "reports/2026-05-11-to-2026-05-17.md/#aeolus-produces-chinas-first-reported-6080r57-giant-radial-otr-tire"
+  },
+  {
+    "story_id": "2026-05-11-yokohama-opens-rd-center-at-its-new-hangzhou-passenger-tire-plant",
+    "week_start": "2026-05-11",
+    "week_end": "2026-05-17",
+    "publication_date": "2026-05-11",
+    "event_date": null,
+    "effective_date": null,
+    "title": "Yokohama opens R&D center at its new Hangzhou passenger-tire plant",
+    "primary_category": "R&D & Product Development",
+    "related_categories": [],
+    "tags": [],
+    "event_type": "other",
+    "project_stage": "not_assessed",
+    "companies": [
+      "Yokohama Rubber"
+    ],
+    "counterparties": [],
+    "products_or_technologies": [],
+    "geographies": [
+      "china"
+    ],
+    "what_happened": "Yokohama Rubber opened a development center at its Hangzhou plant to localize product development and support production for Chinese demand; the associated passenger-tire plant began production in November 2025.",
+    "intelligence_signal": "Global manufacturers are co-locating local R&D with Chinese production to shorten product-response cycles.",
+    "why_it_matters": "The operating center is a concrete localization step rather than a future research commitment.",
+    "what_to_watch": null,
+    "sources": [
+      {
+        "publisher": "Tyrepress",
+        "title": null,
+        "publication_date": "2026-05-11",
+        "url": "https://www.tyrepress.com/2026/05/yokohama-rubber-establishes-china-rd-centre",
+        "source_role": "primary",
+        "link_label": "Tyrepress"
+      }
+    ],
+    "evidence_status": "source_reported",
+    "evidence_note": null,
+    "post_cutoff_context": false,
+    "weekly_report_path": "reports/2026-05-11-to-2026-05-17.md",
+    "story_url": "reports/2026-05-11-to-2026-05-17.md/#yokohama-opens-rd-center-at-its-new-hangzhou-passenger-tire-plant"
+  },
+  {
+    "story_id": "2026-05-11-state-of-knowledge-review-finds-tire-wear-health-evidence-remains-inconclusive",
+    "week_start": "2026-05-11",
+    "week_end": "2026-05-17",
+    "publication_date": "2026-05-12",
+    "event_date": null,
+    "effective_date": null,
+    "title": "State-of-knowledge review finds tire-wear health evidence remains inconclusive",
+    "primary_category": "R&D & Product Development",
+    "related_categories": [],
+    "tags": [],
+    "event_type": "other",
+    "project_stage": "not_assessed",
+    "companies": [
+      "Tire Industry Project research consortium"
+    ],
+    "counterparties": [],
+    "products_or_technologies": [],
+    "geographies": [],
+    "what_happened": "A three-part literature review concluded that inconsistent sampling and analytical methods prevent robust quantification of human-health impacts attributable to tire-wear emissions.",
+    "intelligence_signal": "Measurement harmonization remains a prerequisite for credible health-risk comparison and regulation.",
+    "why_it_matters": "The conclusion is decision-relevant, but the weekly source is a summary rather than the full papers and therefore remains context.",
+    "what_to_watch": null,
+    "sources": [
+      {
+        "publisher": "Tyrepress",
+        "title": null,
+        "publication_date": "2026-05-12",
+        "url": "https://www.tyrepress.com/2026/05/state-of-knowledge-research-on-tyre-wear-emissions-finds-human-health-impacts-inconclusive",
+        "source_role": "primary",
+        "link_label": "Tyrepress"
+      }
+    ],
+    "evidence_status": "context_limited",
+    "evidence_note": "The accessible weekly article summarizes the review; the underlying papers should be used for method-level claims.",
+    "post_cutoff_context": false,
+    "weekly_report_path": "reports/2026-05-11-to-2026-05-17.md",
+    "story_url": "reports/2026-05-11-to-2026-05-17.md/#state-of-knowledge-review-finds-tire-wear-health-evidence-remains-inconclusive"
+  },
+  {
+    "story_id": "2026-05-11-greenline-tyres-joins-marangoni-ringtread-network-in-morocco",
+    "week_start": "2026-05-11",
+    "week_end": "2026-05-17",
+    "publication_date": "2026-05-11",
+    "event_date": null,
+    "effective_date": null,
+    "title": "Greenline Tyres joins Marangoni Ringtread network in Morocco",
+    "primary_category": "Materials & Supply Chain",
+    "related_categories": [],
+    "tags": [],
+    "event_type": "other",
+    "project_stage": "not_assessed",
+    "companies": [
+      "Marangoni / Greenline Tyres"
+    ],
+    "counterparties": [],
+    "products_or_technologies": [],
+    "geographies": [],
+    "what_happened": "Greenline Tyres became a Marangoni Ringtread partner to supply retreading solutions to Moroccan fleets.",
+    "intelligence_signal": "Retreading systems are expanding through local partners in North Africa rather than only through direct manufacturer operations.",
+    "why_it_matters": "The partnership creates a concrete route for circular tire services, although customer volume is not disclosed.",
+    "what_to_watch": null,
+    "sources": [
+      {
+        "publisher": "Tyrepress",
+        "title": null,
+        "publication_date": "2026-05-11",
+        "url": "https://www.tyrepress.com/2026/05/greenline-tyres-becomes-marangoni-ringtread-partner-in-morocco",
+        "source_role": "primary",
+        "link_label": "Tyrepress"
+      }
+    ],
+    "evidence_status": "source_reported",
+    "evidence_note": null,
+    "post_cutoff_context": false,
+    "weekly_report_path": "reports/2026-05-11-to-2026-05-17.md",
+    "story_url": "reports/2026-05-11-to-2026-05-17.md/#greenline-tyres-joins-marangoni-ringtread-network-in-morocco"
+  },
+  {
+    "story_id": "2026-05-11-goodyear-plans-55-sustainable-material-racing-tires-and-retreading-for-tgp",
+    "week_start": "2026-05-11",
+    "week_end": "2026-05-17",
+    "publication_date": "2026-05-12",
+    "event_date": null,
+    "effective_date": null,
+    "title": "Goodyear plans 55%-sustainable-material racing tires and retreading for TGP",
+    "primary_category": "Materials & Supply Chain",
+    "related_categories": [],
+    "tags": [],
+    "event_type": "other",
+    "project_stage": "not_assessed",
+    "companies": [
+      "Goodyear"
+    ],
+    "counterparties": [],
+    "products_or_technologies": [],
+    "geographies": [],
+    "what_happened": "Goodyear announced that it would supply racing tires containing 55% sustainable materials to the new TGP Championship and retread used tires for commercial transport applications.",
+    "intelligence_signal": "Motorsport programs are being used to connect alternative materials with a second-life pathway.",
+    "why_it_matters": "The plan is relevant but remained prospective at publication, with no race-use or retread outcome yet available.",
+    "what_to_watch": null,
+    "sources": [
+      {
+        "publisher": "Tyrepress",
+        "title": null,
+        "publication_date": "2026-05-12",
+        "url": "https://www.tyrepress.com/2026/05/goodyear-sponsor-sole-tyre-supplier-of-tgp-championship",
+        "source_role": "primary",
+        "link_label": "Tyrepress"
+      }
+    ],
+    "evidence_status": "context_limited",
+    "evidence_note": "The supply and retreading plan was announced before the first race and had no reported operating result in the window.",
+    "post_cutoff_context": false,
+    "weekly_report_path": "reports/2026-05-11-to-2026-05-17.md",
+    "story_url": "reports/2026-05-11-to-2026-05-17.md/#goodyear-plans-55-sustainable-material-racing-tires-and-retreading-for-tgp"
+  },
+  {
+    "story_id": "2026-05-11-bkt-approves-rs20-billion-capacity-program-with-advanced-production-automation",
+    "week_start": "2026-05-11",
+    "week_end": "2026-05-17",
+    "publication_date": "2026-05-11",
+    "event_date": null,
+    "effective_date": null,
+    "title": "BKT approves Rs20 billion capacity program with advanced production automation",
+    "primary_category": "Manufacturing",
+    "related_categories": [],
+    "tags": [],
+    "event_type": "other",
+    "project_stage": "not_assessed",
+    "companies": [
+      "Balkrishna Industries"
+    ],
+    "counterparties": [],
+    "products_or_technologies": [],
+    "geographies": [],
+    "what_happened": "BKT's board approved Rs20 billion for OHT and on-road tire capacity, infrastructure and advanced automation in its highway-tire operations, alongside sustainability initiatives.",
+    "intelligence_signal": "Large Indian manufacturers are coupling segment expansion with automation rather than treating capacity and process technology as separate programs.",
+    "why_it_matters": "Board approval makes the capex concrete, but the source discloses neither the technical architecture nor measured factory outcomes.",
+    "what_to_watch": null,
+    "sources": [
+      {
+        "publisher": "Tyrepress",
+        "title": null,
+        "publication_date": "2026-05-11",
+        "url": "https://www.tyrepress.com/2026/05/bkt-approves-major-investment-in-capacity-expansion-infrastructure",
+        "source_role": "primary",
+        "link_label": "Tyrepress"
+      }
+    ],
+    "evidence_status": "source_reported",
+    "evidence_note": null,
+    "post_cutoff_context": false,
+    "weekly_report_path": "reports/2026-05-11-to-2026-05-17.md",
+    "story_url": "reports/2026-05-11-to-2026-05-17.md/#bkt-approves-rs20-billion-capacity-program-with-advanced-production-automation"
+  },
+  {
+    "story_id": "2026-05-11-linglong-cancels-tongchuan-factory-plan-and-flags-delays-in-anhui-and-brazil",
+    "week_start": "2026-05-11",
+    "week_end": "2026-05-17",
+    "publication_date": "2026-05-12",
+    "event_date": null,
+    "effective_date": null,
+    "title": "Linglong cancels Tongchuan factory plan and flags delays in Anhui and Brazil",
+    "primary_category": "Manufacturing",
+    "related_categories": [],
+    "tags": [],
+    "event_type": "other",
+    "project_stage": "not_assessed",
+    "companies": [
+      "Linglong Tire"
+    ],
+    "counterparties": [],
+    "products_or_technologies": [],
+    "geographies": [
+      "china"
+    ],
+    "what_happened": "Linglong terminated its planned Tongchuan tire factory after slow preliminary work and uncertain returns, while reporting that its Anhui project was behind schedule and Brazil negotiations remained unresolved.",
+    "intelligence_signal": "Chinese tire makers are becoming more selective about large greenfield projects as execution and return risks rise.",
+    "why_it_matters": "A withdrawn RMB-scale project is as material to capacity forecasting as a new announcement and prevents overstating future supply.",
+    "what_to_watch": null,
+    "sources": [
+      {
+        "publisher": "Tyrepress",
+        "title": null,
+        "publication_date": "2026-05-12",
+        "url": "https://www.tyrepress.com/2026/05/linglong-terminates-tongchuan-factory-plan-delays-for-anhui-and-brazil-projects",
+        "source_role": "primary",
+        "link_label": "Tyrepress"
+      }
+    ],
+    "evidence_status": "source_reported",
+    "evidence_note": null,
+    "post_cutoff_context": false,
+    "weekly_report_path": "reports/2026-05-11-to-2026-05-17.md",
+    "story_url": "reports/2026-05-11-to-2026-05-17.md/#linglong-cancels-tongchuan-factory-plan-and-flags-delays-in-anhui-and-brazil"
+  },
+  {
+    "story_id": "2026-05-11-yokohama-plans-245-million-otr-plants-in-india-and-mexico",
+    "week_start": "2026-05-11",
+    "week_end": "2026-05-17",
+    "publication_date": "2026-05-15",
+    "event_date": null,
+    "effective_date": null,
+    "title": "Yokohama plans $245 million OTR plants in India and Mexico",
+    "primary_category": "Manufacturing",
+    "related_categories": [],
+    "tags": [],
+    "event_type": "other",
+    "project_stage": "not_assessed",
+    "companies": [
+      "Yokohama Rubber"
+    ],
+    "counterparties": [],
+    "products_or_technologies": [],
+    "geographies": [],
+    "what_happened": "Yokohama announced new mining and construction tire plants in India and Mexico to receive production acquired with Goodyear's OTR business, plus equipment for giant OTR tires.",
+    "intelligence_signal": "Post-acquisition manufacturing networks are being rebuilt around regional OTR demand and larger products.",
+    "why_it_matters": "The plan ties capital, product scope and geographic transfer together, but construction and commissioning remain future stages.",
+    "what_to_watch": null,
+    "sources": [
+      {
+        "publisher": "Tyrepress",
+        "title": null,
+        "publication_date": "2026-05-15",
+        "url": "https://www.tyrepress.com/2026/05/yokohama-invests-245-million-in-new-mexico-and-india-otr-tyre-plants-transferring-goodyear-otr-capacity",
+        "source_role": "primary",
+        "link_label": "Tyrepress"
+      }
+    ],
+    "evidence_status": "source_reported",
+    "evidence_note": null,
+    "post_cutoff_context": false,
+    "weekly_report_path": "reports/2026-05-11-to-2026-05-17.md",
+    "story_url": "reports/2026-05-11-to-2026-05-17.md/#yokohama-plans-245-million-otr-plants-in-india-and-mexico"
+  },
+  {
+    "story_id": "2026-05-11-inner-mongolia-approves-rmb12-billion-aviation-and-specialty-tire-base",
+    "week_start": "2026-05-11",
+    "week_end": "2026-05-17",
+    "publication_date": "2026-05-14",
+    "event_date": null,
+    "effective_date": null,
+    "title": "Inner Mongolia approves RMB1.2 billion aviation and specialty-tire base",
+    "primary_category": "Manufacturing",
+    "related_categories": [],
+    "tags": [],
+    "event_type": "other",
+    "project_stage": "not_assessed",
+    "companies": [
+      "Huangpu Tire (Inner Mongolia)"
+    ],
+    "counterparties": [],
+    "products_or_technologies": [],
+    "geographies": [
+      "china"
+    ],
+    "what_happened": "Hohhot authorities approved the environmental report for a base designed for 80,000 specialty tires, 15,000 new aviation tires and 15,000 retreaded aviation tires annually, with digital hazardous-waste traceability specified.",
+    "intelligence_signal": "Specialty capacity projects are combining high-value products, retreading and more granular environmental controls.",
+    "why_it_matters": "The approval advances a strategic aviation-tire project but does not establish construction or qualified output.",
+    "what_to_watch": null,
+    "sources": [
+      {
+        "publisher": "TireChina",
+        "title": null,
+        "publication_date": "2026-05-14",
+        "url": "https://www.tirechina.net/832467.html",
+        "source_role": "primary",
+        "link_label": "TireChina"
+      }
+    ],
+    "evidence_status": "source_reported",
+    "evidence_note": null,
+    "post_cutoff_context": false,
+    "weekly_report_path": "reports/2026-05-11-to-2026-05-17.md",
+    "story_url": "reports/2026-05-11-to-2026-05-17.md/#inner-mongolia-approves-rmb12-billion-aviation-and-specialty-tire-base"
+  },
+  {
+    "story_id": "2026-05-11-shandong-liblik-completes-mixing-curing-power-and-fire-system-upgrades",
+    "week_start": "2026-05-11",
+    "week_end": "2026-05-17",
+    "publication_date": "2026-05-11",
+    "event_date": null,
+    "effective_date": null,
+    "title": "Shandong LIBLIK completes mixing, curing, power and fire-system upgrades",
+    "primary_category": "Manufacturing",
+    "related_categories": [],
+    "tags": [],
+    "event_type": "other",
+    "project_stage": "not_assessed",
+    "companies": [
+      "Shandong LIBLIK Tire"
+    ],
+    "counterparties": [],
+    "products_or_technologies": [],
+    "geographies": [
+      "china"
+    ],
+    "what_happened": "The Weifang manufacturer reported completed upgrades to rubber mixing, bladder curing, emergency power and fire-protection systems for continuous specialty-tire production.",
+    "intelligence_signal": "Smaller Shandong producers are investing in process stability and production continuity, not only headline capacity.",
+    "why_it_matters": "The work identifies specific factory systems, but the company release provides no before-and-after quality or uptime metrics.",
+    "what_to_watch": null,
+    "sources": [
+      {
+        "publisher": "EIN Presswire",
+        "title": null,
+        "publication_date": "2026-05-11",
+        "url": "https://www.einnews.com/pr_news/912005047/liblik-tires-strengthens-production-continuity-through-factory-upgrade",
+        "source_role": "primary",
+        "link_label": "EIN Presswire"
+      }
+    ],
+    "evidence_status": "source_reported",
+    "evidence_note": null,
+    "post_cutoff_context": false,
+    "weekly_report_path": "reports/2026-05-11-to-2026-05-17.md",
+    "story_url": "reports/2026-05-11-to-2026-05-17.md/#shandong-liblik-completes-mixing-curing-power-and-fire-system-upgrades"
+  },
+  {
+    "story_id": "2026-05-11-us-maintains-antidumping-and-countervailing-measures-on-chinese-passenger-and-light-truck-tires",
+    "week_start": "2026-05-11",
+    "week_end": "2026-05-17",
+    "publication_date": "2026-05-12",
+    "event_date": null,
+    "effective_date": null,
+    "title": "US maintains antidumping and countervailing measures on Chinese passenger and light-truck tires",
+    "primary_category": "Marketing & Distribution",
+    "related_categories": [],
+    "tags": [],
+    "event_type": "other",
+    "project_stage": "not_assessed",
+    "companies": [
+      "US Department of Commerce / China tire exporters"
+    ],
+    "counterparties": [],
+    "products_or_technologies": [],
+    "geographies": [
+      "china"
+    ],
+    "what_happened": "A second expedited sunset review maintained the US trade-remedy framework, with cited dumping and subsidy margins indicating that the duties would continue rather than expire.",
+    "intelligence_signal": "Persistent trade barriers keep overseas manufacturing and market diversification central to Chinese tire strategy.",
+    "why_it_matters": "The decision affects market access and capacity-location economics, although company-specific duty treatment varies.",
+    "what_to_watch": null,
+    "sources": [
+      {
+        "publisher": "TireChina",
+        "title": null,
+        "publication_date": "2026-05-12",
+        "url": "https://www.tirechina.net/832459.html",
+        "source_role": "primary",
+        "link_label": "TireChina"
+      }
+    ],
+    "evidence_status": "source_reported",
+    "evidence_note": null,
+    "post_cutoff_context": false,
+    "weekly_report_path": "reports/2026-05-11-to-2026-05-17.md",
+    "story_url": "reports/2026-05-11-to-2026-05-17.md/#us-maintains-antidumping-and-countervailing-measures-on-chinese-passenger-and-light-truck-tires"
+  },
+  {
+    "story_id": "2026-05-11-sailun-raises-china-otr-tire-prices-7-9-amid-input-cost-pressure",
+    "week_start": "2026-05-11",
+    "week_end": "2026-05-17",
+    "publication_date": "2026-05-15",
+    "event_date": null,
+    "effective_date": null,
+    "title": "Sailun raises China OTR tire prices 7%-9% amid input-cost pressure",
+    "primary_category": "Marketing & Distribution",
+    "related_categories": [],
+    "tags": [],
+    "event_type": "other",
+    "project_stage": "not_assessed",
+    "companies": [
+      "Sailun Group"
+    ],
+    "counterparties": [],
+    "products_or_technologies": [],
+    "geographies": [
+      "china"
+    ],
+    "what_happened": "Sailun said domestic non-road tire prices increased 7%-9% from 11 May; the same market report listed 3%-5% increases by several other Chinese makers across truck, passenger and OTR ranges.",
+    "intelligence_signal": "The largest increases are appearing in material-intensive OTR products, where cost exposure and order structure differ from passenger tires.",
+    "why_it_matters": "The effective date makes this more concrete than a general pricing warning, though realized prices remain unverified.",
+    "what_to_watch": null,
+    "sources": [
+      {
+        "publisher": "TireChina",
+        "title": null,
+        "publication_date": "2026-05-15",
+        "url": "https://www.tirechina.net/832476.html",
+        "source_role": "primary",
+        "link_label": "TireChina"
+      }
+    ],
+    "evidence_status": "source_reported",
+    "evidence_note": null,
+    "post_cutoff_context": false,
+    "weekly_report_path": "reports/2026-05-11-to-2026-05-17.md",
+    "story_url": "reports/2026-05-11-to-2026-05-17.md/#sailun-raises-china-otr-tire-prices-7-9-amid-input-cost-pressure"
+  },
+  {
+    "story_id": "2026-05-11-guangrao-tire-expo-opens-as-yongsheng-presents-new-ev-load-and-all-terrain-tires",
+    "week_start": "2026-05-11",
+    "week_end": "2026-05-17",
+    "publication_date": "2026-05-16",
+    "event_date": null,
+    "effective_date": null,
+    "title": "Guangrao Tire Expo opens as Yongsheng presents new EV, load and all-terrain tires",
+    "primary_category": "Marketing & Distribution",
+    "related_categories": [],
+    "tags": [],
+    "event_type": "other",
+    "project_stage": "not_assessed",
+    "companies": [
+      "Yongsheng Rubber / China GRTAE"
+    ],
+    "counterparties": [],
+    "products_or_technologies": [],
+    "geographies": [
+      "china"
+    ],
+    "what_happened": "The 16th China (Guangrao) International Rubber Tire and Auto Parts Exhibition opened on 15 May, and local maker Yongsheng displayed TBR and PCR products including EV08, RF28 and AT03.",
+    "intelligence_signal": "Guangrao is using a full-chain trade platform to connect local product development with global buyers, equipment suppliers and materials companies.",
+    "why_it_matters": "The in-window company account confirms local-maker participation and concrete products, while exhibition attendance does not establish orders.",
+    "what_to_watch": null,
+    "sources": [
+      {
+        "publisher": "Yongsheng Rubber",
+        "title": null,
+        "publication_date": "2026-05-16",
+        "url": "https://www.yongshenggroup.com/nd.jsp?id=64",
+        "source_role": "primary",
+        "link_label": "Yongsheng Rubber"
+      },
+      {
+        "publisher": null,
+        "title": null,
+        "publication_date": null,
+        "url": "https://www.chinagrtae.com/",
+        "source_role": "companion",
+        "link_label": "second source"
+      }
+    ],
+    "evidence_status": "source_reported",
+    "evidence_note": null,
+    "post_cutoff_context": false,
+    "weekly_report_path": "reports/2026-05-11-to-2026-05-17.md",
+    "story_url": "reports/2026-05-11-to-2026-05-17.md/#guangrao-tire-expo-opens-as-yongsheng-presents-new-ev-load-and-all-terrain-tires"
+  },
+  {
+    "story_id": "2026-05-11-sailun-plans-new-ev-uhp-winter-and-commercial-products-for-tire-cologne",
+    "week_start": "2026-05-11",
+    "week_end": "2026-05-17",
+    "publication_date": "2026-05-11",
+    "event_date": null,
+    "effective_date": null,
+    "title": "Sailun plans new EV, UHP, winter and commercial products for Tire Cologne",
+    "primary_category": "Marketing & Distribution",
+    "related_categories": [],
+    "tags": [],
+    "event_type": "other",
+    "project_stage": "not_assessed",
+    "companies": [
+      "Sailun Group"
+    ],
+    "counterparties": [],
+    "products_or_technologies": [],
+    "geographies": [
+      "china"
+    ],
+    "what_happened": "Sailun announced a broad product display and new-generation launches for Tire Cologne, using the event to reinforce its European-market commitment and sustainability positioning.",
+    "intelligence_signal": "Chinese tire makers are using European trade platforms to broaden product mix and distributor visibility.",
+    "why_it_matters": "The plan signals market-entry intent and product pipeline breadth, but not realized sales.",
+    "what_to_watch": null,
+    "sources": [
+      {
+        "publisher": "Tyrepress",
+        "title": null,
+        "publication_date": "2026-05-11",
+        "url": "https://www.tyrepress.com/2026/05/sailun-showcasing-advanced-reliable-mobility-solutions-at-ttc-2026",
+        "source_role": "primary",
+        "link_label": "Tyrepress"
+      }
+    ],
+    "evidence_status": "source_reported",
+    "evidence_note": null,
+    "post_cutoff_context": false,
+    "weekly_report_path": "reports/2026-05-11-to-2026-05-17.md",
+    "story_url": "reports/2026-05-11-to-2026-05-17.md/#sailun-plans-new-ev-uhp-winter-and-commercial-products-for-tire-cologne"
+  },
+  {
+    "story_id": "2026-05-11-citira-reports-uk-market-entry-and-acquisition-led-first-quarter-expansion",
+    "week_start": "2026-05-11",
+    "week_end": "2026-05-17",
+    "publication_date": "2026-05-13",
+    "event_date": null,
+    "effective_date": null,
+    "title": "Citira reports UK market entry and acquisition-led first-quarter expansion",
+    "primary_category": "Marketing & Distribution",
+    "related_categories": [],
+    "tags": [],
+    "event_type": "other",
+    "project_stage": "not_assessed",
+    "companies": [
+      "Citira"
+    ],
+    "counterparties": [],
+    "products_or_technologies": [],
+    "geographies": [],
+    "what_happened": "Citira reported first-quarter revenue of SEK632.6 million, up 54.6%, while like-for-like revenue rose 3.1%; the period included entry into the UK tire-service market.",
+    "intelligence_signal": "European tire retail consolidation is producing headline growth well above underlying organic expansion.",
+    "why_it_matters": "Separating acquisition and like-for-like growth gives a clearer view of channel momentum.",
+    "what_to_watch": null,
+    "sources": [
+      {
+        "publisher": "Tyrepress",
+        "title": null,
+        "publication_date": "2026-05-13",
+        "url": "https://www.tyrepress.com/2026/05/citira-hails-continued-expansion-and-uk-entry-in-q126-results",
+        "source_role": "primary",
+        "link_label": "Tyrepress"
+      }
+    ],
+    "evidence_status": "source_reported",
+    "evidence_note": null,
+    "post_cutoff_context": false,
+    "weekly_report_path": "reports/2026-05-11-to-2026-05-17.md",
+    "story_url": "reports/2026-05-11-to-2026-05-17.md/#citira-reports-uk-market-entry-and-acquisition-led-first-quarter-expansion"
+  },
+  {
+    "story_id": "2026-05-11-apollo-tyres-posts-14-fourth-quarter-revenue-growth",
+    "week_start": "2026-05-11",
+    "week_end": "2026-05-17",
+    "publication_date": "2026-05-14",
+    "event_date": null,
+    "effective_date": null,
+    "title": "Apollo Tyres posts 14% fourth-quarter revenue growth",
+    "primary_category": "Marketing & Distribution",
+    "related_categories": [],
+    "tags": [],
+    "event_type": "other",
+    "project_stage": "not_assessed",
+    "companies": [
+      "Apollo Tyres"
+    ],
+    "counterparties": [],
+    "products_or_technologies": [],
+    "geographies": [],
+    "what_happened": "Apollo reported fourth-quarter revenue of Rs73.36 billion, up 14%, and operating profit of Rs10.69 billion, up 28%; Indian truck-bus radial growth exceeded 20%.",
+    "intelligence_signal": "India replacement and OE demand remains a relative growth engine despite weaker European conditions.",
+    "why_it_matters": "The segment commentary helps locate current market strength and channel momentum.",
+    "what_to_watch": null,
+    "sources": [
+      {
+        "publisher": "Tyrepress",
+        "title": null,
+        "publication_date": "2026-05-14",
+        "url": "https://www.tyrepress.com/2026/05/apollo-tyres-q4-fy26-revenue-up-14",
+        "source_role": "primary",
+        "link_label": "Tyrepress"
+      }
+    ],
+    "evidence_status": "source_reported",
+    "evidence_note": null,
+    "post_cutoff_context": false,
+    "weekly_report_path": "reports/2026-05-11-to-2026-05-17.md",
+    "story_url": "reports/2026-05-11-to-2026-05-17.md/#apollo-tyres-posts-14-fourth-quarter-revenue-growth"
+  },
+  {
+    "story_id": "2026-05-11-uk-moves-35-425-tonne-electric-vans-to-three-year-first-mot-cycle",
+    "week_start": "2026-05-11",
+    "week_end": "2026-05-17",
+    "publication_date": "2026-05-13",
+    "event_date": null,
+    "effective_date": null,
+    "title": "UK moves 3.5-4.25 tonne electric vans to three-year first MOT cycle",
+    "primary_category": "Marketing & Distribution",
+    "related_categories": [],
+    "tags": [],
+    "event_type": "other",
+    "project_stage": "not_assessed",
+    "companies": [
+      "UK Government"
+    ],
+    "counterparties": [],
+    "products_or_technologies": [],
+    "geographies": [],
+    "what_happened": "From 1 June, new electric vans between 3.5 and 4.25 tonnes will use Class 7 MOT rules and receive their first test after three years rather than one.",
+    "intelligence_signal": "Regulation is reducing a service burden created by the extra weight of electric commercial vehicles.",
+    "why_it_matters": "The change can affect fleet maintenance timing and inspection touchpoints, including tire-service opportunities.",
+    "what_to_watch": null,
+    "sources": [
+      {
+        "publisher": "Tyrepress",
+        "title": null,
+        "publication_date": "2026-05-13",
+        "url": "https://www.tyrepress.com/2026/05/e-vans-move-to-third-year-mots",
+        "source_role": "primary",
+        "link_label": "Tyrepress"
+      }
+    ],
+    "evidence_status": "source_reported",
+    "evidence_note": null,
+    "post_cutoff_context": false,
+    "weekly_report_path": "reports/2026-05-11-to-2026-05-17.md",
+    "story_url": "reports/2026-05-11-to-2026-05-17.md/#uk-moves-35-425-tonne-electric-vans-to-three-year-first-mot-cycle"
+  },
+  {
+    "story_id": "2026-05-11-gitis-giticomfort-retail-program-links-product-technology-with-more-than-100-chinese-dealers",
+    "week_start": "2026-05-11",
+    "week_end": "2026-05-17",
+    "publication_date": "2026-05-14",
+    "event_date": null,
+    "effective_date": null,
+    "title": "Giti's GitiComfort retail program links product technology with more than 100 Chinese dealers",
+    "primary_category": "Marketing & Distribution",
+    "related_categories": [],
+    "tags": [],
+    "event_type": "other",
+    "project_stage": "not_assessed",
+    "companies": [
+      "Giti Tire / GitiComfort"
+    ],
+    "counterparties": [],
+    "products_or_technologies": [],
+    "geographies": [
+      "china"
+    ],
+    "what_happened": "More than 100 core retail representatives attended a China training and factory-visit program covering Giti's AdvanZtech 2.0 and EV READY product frameworks and channel collaboration.",
+    "intelligence_signal": "Product-platform communication is being paired with dealer education as brands push higher-value EV and performance ranges.",
+    "why_it_matters": "The program is evidence of channel enablement, not proof of sell-through or manufacturing performance.",
+    "what_to_watch": null,
+    "sources": [
+      {
+        "publisher": "TireChina",
+        "title": null,
+        "publication_date": "2026-05-14",
+        "url": "https://www.tirechina.net/832471.html",
+        "source_role": "primary",
+        "link_label": "TireChina"
+      }
+    ],
+    "evidence_status": "source_reported",
+    "evidence_note": null,
+    "post_cutoff_context": false,
+    "weekly_report_path": "reports/2026-05-11-to-2026-05-17.md",
+    "story_url": "reports/2026-05-11-to-2026-05-17.md/#gitis-giticomfort-retail-program-links-product-technology-with-more-than-100-chinese-dealers"
+  },
+  {
+    "story_id": "2026-05-11-hankook-launches-china-wide-ion-ev-tire-promotion-through-certified-stores",
+    "week_start": "2026-05-11",
+    "week_end": "2026-05-17",
+    "publication_date": "2026-05-15",
+    "event_date": null,
+    "effective_date": null,
+    "title": "Hankook launches China-wide iON EV tire promotion through certified stores",
+    "primary_category": "Marketing & Distribution",
+    "related_categories": [],
+    "tags": [],
+    "event_type": "other",
+    "project_stage": "not_assessed",
+    "companies": [
+      "Hankook Tire"
+    ],
+    "counterparties": [],
+    "products_or_technologies": [],
+    "geographies": [
+      "china"
+    ],
+    "what_happened": "Hankook began a 15 May-31 July promotion offering RMB30 per tire on 17-inch-and-larger iON products through certified offline stores, alongside its service-registration program.",
+    "intelligence_signal": "EV tire portfolios are being supported by linked retail incentives and customer-service enrollment rather than product advertising alone.",
+    "why_it_matters": "The campaign shows an active China channel mechanism, but no redemption or incremental-sales data is yet available.",
+    "what_to_watch": null,
+    "sources": [
+      {
+        "publisher": "TireChina",
+        "title": null,
+        "publication_date": "2026-05-15",
+        "url": "https://www.tirechina.net/832473.html",
+        "source_role": "primary",
+        "link_label": "TireChina"
+      }
+    ],
+    "evidence_status": "source_reported",
+    "evidence_note": null,
+    "post_cutoff_context": false,
+    "weekly_report_path": "reports/2026-05-11-to-2026-05-17.md",
+    "story_url": "reports/2026-05-11-to-2026-05-17.md/#hankook-launches-china-wide-ion-ev-tire-promotion-through-certified-stores"
+  },
+  {
+    "story_id": "2026-05-11-continental-publishes-eu-fleet-safety-framework-for-digital-tire-management",
+    "week_start": "2026-05-11",
+    "week_end": "2026-05-17",
+    "publication_date": "2026-05-13",
+    "event_date": null,
+    "effective_date": null,
+    "title": "Continental publishes EU fleet-safety framework for digital tire management",
+    "primary_category": "Sales & Customer Services",
+    "related_categories": [],
+    "tags": [],
+    "event_type": "other",
+    "project_stage": "not_assessed",
+    "companies": [
+      "Continental"
+    ],
+    "counterparties": [],
+    "products_or_technologies": [],
+    "geographies": [],
+    "what_happened": "Continental released a white paper arguing that continuous pressure and temperature monitoring can identify risks missed between manual inspections and improve fleet safety and reliability.",
+    "intelligence_signal": "Commercial tire service is shifting from periodic inspection toward continuous condition monitoring.",
+    "why_it_matters": "The paper clarifies the service model and operational problem, but is not an independent outcome study.",
+    "what_to_watch": null,
+    "sources": [
+      {
+        "publisher": "Tyrepress",
+        "title": null,
+        "publication_date": "2026-05-13",
+        "url": "https://www.tyrepress.com/2026/05/conti-publishes-eu-fleet-safety-through-tyre-management-white-paper",
+        "source_role": "primary",
+        "link_label": "Tyrepress"
+      }
+    ],
+    "evidence_status": "source_reported",
+    "evidence_note": null,
+    "post_cutoff_context": false,
+    "weekly_report_path": "reports/2026-05-11-to-2026-05-17.md",
+    "story_url": "reports/2026-05-11-to-2026-05-17.md/#continental-publishes-eu-fleet-safety-framework-for-digital-tire-management"
+  },
+  {
+    "story_id": "2026-05-11-pirelli-develops-two-bespoke-p-zero-oe-fitments-for-bmw-ix3",
+    "week_start": "2026-05-11",
+    "week_end": "2026-05-17",
+    "publication_date": "2026-05-14",
+    "event_date": null,
+    "effective_date": null,
+    "title": "Pirelli develops two bespoke P Zero OE fitments for BMW iX3",
+    "primary_category": "Sales & Customer Services",
+    "related_categories": [],
+    "tags": [],
+    "event_type": "other",
+    "project_stage": "not_assessed",
+    "companies": [
+      "Pirelli / BMW"
+    ],
+    "counterparties": [],
+    "products_or_technologies": [],
+    "geographies": [],
+    "what_happened": "Pirelli developed two original-equipment fitments for the BMW iX3: a P Zero variant prioritizing handling and a P Zero E-based fitment aimed at electric-driving efficiency.",
+    "intelligence_signal": "EV platforms are supporting multiple tire calibrations for distinct performance priorities on the same vehicle line.",
+    "why_it_matters": "A named OE fitment is direct customer adoption evidence, while comparative performance remains supplier-described.",
+    "what_to_watch": null,
+    "sources": [
+      {
+        "publisher": "Tyrepress",
+        "title": null,
+        "publication_date": "2026-05-14",
+        "url": "https://www.tyrepress.com/2026/05/pirelli-develops-two-bespoke-p-zero-oe-fitments-for-bmw-ix3",
+        "source_role": "primary",
+        "link_label": "Tyrepress"
+      }
+    ],
+    "evidence_status": "source_reported",
+    "evidence_note": null,
+    "post_cutoff_context": false,
+    "weekly_report_path": "reports/2026-05-11-to-2026-05-17.md",
+    "story_url": "reports/2026-05-11-to-2026-05-17.md/#pirelli-develops-two-bespoke-p-zero-oe-fitments-for-bmw-ix3"
+  },
+  {
+    "story_id": "2026-05-11-european-recall-covers-several-goodyear-treadmax-retread-lines-over-curing-issue",
+    "week_start": "2026-05-11",
+    "week_end": "2026-05-17",
+    "publication_date": "2026-05-15",
+    "event_date": null,
+    "effective_date": null,
+    "title": "European recall covers several Goodyear TreadMax retread lines over curing issue",
+    "primary_category": "Sales & Customer Services",
+    "related_categories": [],
+    "tags": [],
+    "event_type": "other",
+    "project_stage": "not_assessed",
+    "companies": [
+      "Goodyear"
+    ],
+    "counterparties": [],
+    "products_or_technologies": [],
+    "geographies": [],
+    "what_happened": "The European Commission Safety Gate system listed several Goodyear TreadMax truck retread products for recall because of a curing issue.",
+    "intelligence_signal": "Retread growth depends on manufacturing control and traceable corrective action as much as circularity benefits.",
+    "why_it_matters": "A formal safety recall is direct customer-service and quality evidence with immediate operating implications.",
+    "what_to_watch": null,
+    "sources": [
+      {
+        "publisher": "Tyrepress",
+        "title": null,
+        "publication_date": "2026-05-15",
+        "url": "https://www.tyrepress.com/2026/05/certain-goodyear-treadmax-tyres-recalled-in-europe",
+        "source_role": "primary",
+        "link_label": "Tyrepress"
+      }
+    ],
+    "evidence_status": "source_reported",
+    "evidence_note": null,
+    "post_cutoff_context": false,
+    "weekly_report_path": "reports/2026-05-11-to-2026-05-17.md",
+    "story_url": "reports/2026-05-11-to-2026-05-17.md/#european-recall-covers-several-goodyear-treadmax-retread-lines-over-curing-issue"
+  },
+  {
+    "story_id": "2026-05-11-hd-ricketts-reports-uptime-and-cost-benefits-from-michelin-x-works-fleet-policy",
+    "week_start": "2026-05-11",
+    "week_end": "2026-05-17",
+    "publication_date": "2026-05-13",
+    "event_date": null,
+    "effective_date": null,
+    "title": "HD Ricketts reports uptime and cost benefits from Michelin X Works fleet policy",
+    "primary_category": "Sales & Customer Services",
+    "related_categories": [],
+    "tags": [],
+    "event_type": "other",
+    "project_stage": "not_assessed",
+    "companies": [
+      "Michelin / HD Ricketts"
+    ],
+    "counterparties": [],
+    "products_or_technologies": [],
+    "geographies": [],
+    "what_happened": "The UK haulier said X Works tires and an accidental-damage guarantee improved durability and helped control tire-related costs in mixed on- and off-road service.",
+    "intelligence_signal": "Fleet customers are evaluating tires as a package of casing durability, uptime and risk coverage.",
+    "why_it_matters": "A named operating customer provides adoption evidence, although the public account does not quantify a controlled savings baseline.",
+    "what_to_watch": null,
+    "sources": [
+      {
+        "publisher": "Tyrepress",
+        "title": null,
+        "publication_date": "2026-05-13",
+        "url": "https://www.tyrepress.com/2026/05/michelin-helping-hd-ricketts-maximise-uptime-and-reduce-costs",
+        "source_role": "primary",
+        "link_label": "Tyrepress"
+      }
+    ],
+    "evidence_status": "source_reported",
+    "evidence_note": null,
+    "post_cutoff_context": false,
+    "weekly_report_path": "reports/2026-05-11-to-2026-05-17.md",
+    "story_url": "reports/2026-05-11-to-2026-05-17.md/#hd-ricketts-reports-uptime-and-cost-benefits-from-michelin-x-works-fleet-policy"
+  },
+  {
+    "story_id": "2026-09-14-goodyear-updates-ultragrip-arctic-2-ahead-of-stricter-studded-tire-rules",
+    "week_start": "2026-09-14",
+    "week_end": "2026-09-20",
+    "publication_date": "2026-09-14",
+    "event_date": null,
+    "effective_date": null,
+    "title": "Goodyear updates UltraGrip Arctic 2 ahead of stricter studded-tire rules",
+    "primary_category": "R&D & Product Development",
+    "related_categories": [],
+    "tags": [],
+    "event_type": "other",
+    "project_stage": "not_assessed",
+    "companies": [
+      "Goodyear"
+    ],
+    "counterparties": [],
+    "products_or_technologies": [],
+    "geographies": [],
+    "what_happened": "Goodyear introduced an updated UltraGrip Arctic 2 with revised stud-pin geometry and the same stud count, positioning it for Finland's A+ road-wear requirement for new studded tires from 2027 and UNECE R164.",
+    "intelligence_signal": "Nordic winter-tire development is shifting toward lower road wear without simply reducing stud count.",
+    "why_it_matters": "The design responds to a specific regulatory test regime, although the public performance evidence is based on the company's internal testing.",
+    "what_to_watch": null,
+    "sources": [
+      {
+        "publisher": "Goodyear Europe Newsroom",
+        "title": null,
+        "publication_date": "2026-09-14",
+        "url": "https://news.goodyear.eu/sv-sv/utvecklat-foer-nordiska-vintrar-goodyear-uppdaterar-ultragrip-arctic-2",
+        "source_role": "primary",
+        "link_label": "Goodyear Europe Newsroom"
+      }
+    ],
+    "evidence_status": "source_reported",
+    "evidence_note": null,
+    "post_cutoff_context": false,
+    "weekly_report_path": "reports/2026-09-14-to-2026-09-20.md",
+    "story_url": "reports/2026-09-14-to-2026-09-20.md/#goodyear-updates-ultragrip-arctic-2-ahead-of-stricter-studded-tire-rules"
+  },
+  {
+    "story_id": "2026-09-14-continental-targets-more-than-650-uhp-sizes-by-end-2027",
+    "week_start": "2026-09-14",
+    "week_end": "2026-09-20",
+    "publication_date": "2026-09-16",
+    "event_date": null,
+    "effective_date": null,
+    "title": "Continental targets more than 650 UHP sizes by end-2027",
+    "primary_category": "R&D & Product Development",
+    "related_categories": [],
+    "tags": [],
+    "event_type": "other",
+    "project_stage": "not_assessed",
+    "companies": [
+      "Continental"
+    ],
+    "counterparties": [],
+    "products_or_technologies": [],
+    "geographies": [],
+    "what_happened": "Continental said it plans to offer more than 650 ultra-high-performance tire sizes by the end of 2027 and reported that UHP products represented 62% of its passenger-tire sales in 2025, up from 49% in 2020.",
+    "intelligence_signal": "Premium tire portfolios are expanding in size coverage as UHP products take a larger share of manufacturer sales.",
+    "why_it_matters": "The sales-mix history supports the direction of demand, while the 650-size figure remains a future portfolio target.",
+    "what_to_watch": null,
+    "sources": [
+      {
+        "publisher": "Continental",
+        "title": null,
+        "publication_date": "2026-09-16",
+        "url": "https://www.continental.com/en/press/press-releases/ultra-high-performance-tires",
+        "source_role": "primary",
+        "link_label": "Continental"
+      }
+    ],
+    "evidence_status": "source_reported",
+    "evidence_note": null,
+    "post_cutoff_context": false,
+    "weekly_report_path": "reports/2026-09-14-to-2026-09-20.md",
+    "story_url": "reports/2026-09-14-to-2026-09-20.md/#continental-targets-more-than-650-uhp-sizes-by-end-2027"
+  },
+  {
+    "story_id": "2026-09-14-guizhou-tyres-ar600-receives-agricultural-market-application-award",
+    "week_start": "2026-09-14",
+    "week_end": "2026-09-20",
+    "publication_date": "2026-09-18",
+    "event_date": null,
+    "effective_date": null,
+    "title": "Guizhou Tyre's AR600 receives agricultural-market application award",
+    "primary_category": "R&D & Product Development",
+    "related_categories": [],
+    "tags": [],
+    "event_type": "other",
+    "project_stage": "not_assessed",
+    "companies": [
+      "Guizhou Tyre"
+    ],
+    "counterparties": [],
+    "products_or_technologies": [],
+    "geographies": [
+      "china"
+    ],
+    "what_happened": "The AR600 VF ultra-low-pressure paddy-field radial tire received a market-application award at an agricultural-machinery event.",
+    "intelligence_signal": "Agricultural tire makers are using application-specific awards to position low-pressure radial products.",
+    "why_it_matters": "The award is attributable recognition but the source does not disclose independent field-test methods or customer outcomes.",
+    "what_to_watch": null,
+    "sources": [
+      {
+        "publisher": "China Tire Business",
+        "title": null,
+        "publication_date": "2026-09-18",
+        "url": "https://www.tirechina.net/833078.html",
+        "source_role": "primary",
+        "link_label": "China Tire Business"
+      }
+    ],
+    "evidence_status": "context_limited",
+    "evidence_note": "Promotional award coverage without a disclosed judging method or independent performance dataset.",
+    "post_cutoff_context": false,
+    "weekly_report_path": "reports/2026-09-14-to-2026-09-20.md",
+    "story_url": "reports/2026-09-14-to-2026-09-20.md/#guizhou-tyres-ar600-receives-agricultural-market-application-award"
+  },
+  {
+    "story_id": "2026-09-14-lianke-approves-egypt-base-for-silica-and-carbon-black-supply",
+    "week_start": "2026-09-14",
+    "week_end": "2026-09-20",
+    "publication_date": "2026-09-15",
+    "event_date": null,
+    "effective_date": null,
+    "title": "Lianke approves Egypt base for silica and carbon-black supply",
+    "primary_category": "Materials & Supply Chain",
+    "related_categories": [],
+    "tags": [],
+    "event_type": "other",
+    "project_stage": "not_assessed",
+    "companies": [
+      "Shandong Lianke Technology"
+    ],
+    "counterparties": [],
+    "products_or_technologies": [],
+    "geographies": [
+      "china"
+    ],
+    "what_happened": "A board disclosure reported approval for an Egypt project of about RMB1 billion in the Suez Canal Economic Zone, planned for 100,000 tonnes each of silica and carbon black with an 18-month construction schedule.",
+    "intelligence_signal": "Chinese upstream suppliers are pairing overseas tire investment with localized reinforcing-material capacity.",
+    "why_it_matters": "The project could shorten regional material supply chains, but the evidence currently establishes board approval rather than permits, construction or output.",
+    "what_to_watch": null,
+    "sources": [
+      {
+        "publisher": "China Securities Journal",
+        "title": null,
+        "publication_date": "2026-09-15",
+        "url": "https://epaper.cs.com.cn/zgzqb/html/2026-09/15/nw.D110000zgzqb_20260915_5-B043.htm",
+        "source_role": "primary",
+        "link_label": "China Securities Journal"
+      },
+      {
+        "publisher": null,
+        "title": null,
+        "publication_date": null,
+        "url": "https://www.tirechina.net/833068.html",
+        "source_role": "companion",
+        "link_label": "second source"
+      }
+    ],
+    "evidence_status": "source_reported",
+    "evidence_note": null,
+    "post_cutoff_context": false,
+    "weekly_report_path": "reports/2026-09-14-to-2026-09-20.md",
+    "story_url": "reports/2026-09-14-to-2026-09-20.md/#lianke-approves-egypt-base-for-silica-and-carbon-black-supply"
+  },
+  {
+    "story_id": "2026-09-14-china-carbon-black-prices-pull-back-after-a-feedstock-driven-spike",
+    "week_start": "2026-09-14",
+    "week_end": "2026-09-20",
+    "publication_date": "2026-09-19",
+    "event_date": null,
+    "effective_date": null,
+    "title": "China carbon-black prices pull back after a feedstock-driven spike",
+    "primary_category": "Materials & Supply Chain",
+    "related_categories": [],
+    "tags": [],
+    "event_type": "other",
+    "project_stage": "not_assessed",
+    "companies": [
+      "China carbon-black market"
+    ],
+    "counterparties": [],
+    "products_or_technologies": [],
+    "geographies": [
+      "china"
+    ],
+    "what_happened": "Trade reports described tire-grade carbon-black prices near or above RMB10,000 per tonne before a Shandong N330 quotation of RMB11,300-11,500 per tonne fell by RMB350 on September 18-19; tire makers had issued price-increase letters as costs rose.",
+    "intelligence_signal": "A fast raw-material spike is passing through to tire pricing while showing early signs of reversal, increasing procurement and quotation risk.",
+    "why_it_matters": "Carbon black is a major tire input, but the reported spot quotations and operating-rate estimates are market snapshots rather than audited transaction data.",
+    "what_to_watch": null,
+    "sources": [
+      {
+        "publisher": "China Tire Business",
+        "title": null,
+        "publication_date": "2026-09-19",
+        "url": "https://www.tirechina.net/833084.html",
+        "source_role": "primary",
+        "link_label": "China Tire Business"
+      },
+      {
+        "publisher": null,
+        "title": null,
+        "publication_date": null,
+        "url": "https://www.tirechina.net/833065.html",
+        "source_role": "companion",
+        "link_label": "second source"
+      }
+    ],
+    "evidence_status": "source_reported",
+    "evidence_note": null,
+    "post_cutoff_context": false,
+    "weekly_report_path": "reports/2026-09-14-to-2026-09-20.md",
+    "story_url": "reports/2026-09-14-to-2026-09-20.md/#china-carbon-black-prices-pull-back-after-a-feedstock-driven-spike"
+  },
+  {
+    "story_id": "2026-09-14-cheeshine-launches-ep365-plasticizer-for-high-silica-tire-compounds",
+    "week_start": "2026-09-14",
+    "week_end": "2026-09-20",
+    "publication_date": "2026-09-16",
+    "event_date": null,
+    "effective_date": null,
+    "title": "Cheeshine launches EP365 plasticizer for high-silica tire compounds",
+    "primary_category": "Materials & Supply Chain",
+    "related_categories": [],
+    "tags": [],
+    "event_type": "other",
+    "project_stage": "not_assessed",
+    "companies": [
+      "Cheeshine Chemical"
+    ],
+    "counterparties": [],
+    "products_or_technologies": [],
+    "geographies": [
+      "china"
+    ],
+    "what_happened": "At RubberTech China, Cheeshine introduced EP365 for high-silica compounds and reported lower Mooney viscosity, faster mixing and a 14-18% wear improvement in company testing.",
+    "intelligence_signal": "Material suppliers are packaging processing efficiency and wear claims into additives aimed at high-silica formulations.",
+    "why_it_matters": "The product targets a real mixing-performance trade-off, but the public account omits formulation, test method, baseline and statistical detail.",
+    "what_to_watch": null,
+    "sources": [
+      {
+        "publisher": "China Rubber Industry Association",
+        "title": null,
+        "publication_date": "2026-09-16",
+        "url": "https://www.cria.org.cn/a/2100097558298857474",
+        "source_role": "primary",
+        "link_label": "China Rubber Industry Association"
+      }
+    ],
+    "evidence_status": "source_reported",
+    "evidence_note": null,
+    "post_cutoff_context": false,
+    "weekly_report_path": "reports/2026-09-14-to-2026-09-20.md",
+    "story_url": "reports/2026-09-14-to-2026-09-20.md/#cheeshine-launches-ep365-plasticizer-for-high-silica-tire-compounds"
+  },
+  {
+    "story_id": "2026-09-14-birla-carbons-china-and-asia-growth-message-receives-an-in-window-trade-recap",
+    "week_start": "2026-09-14",
+    "week_end": "2026-09-20",
+    "publication_date": "2026-09-17",
+    "event_date": null,
+    "effective_date": null,
+    "title": "Birla Carbon's China and Asia growth message receives an in-window trade recap",
+    "primary_category": "Materials & Supply Chain",
+    "related_categories": [],
+    "tags": [],
+    "event_type": "other",
+    "project_stage": "not_assessed",
+    "companies": [
+      "Birla Carbon"
+    ],
+    "counterparties": [],
+    "products_or_technologies": [],
+    "geographies": [
+      "china"
+    ],
+    "what_happened": "An in-window trade article recapped Birla Carbon's September 8 statement on expanding supply and innovation for rubber customers in China and Asia.",
+    "intelligence_signal": "Global carbon-black suppliers are emphasizing local technical support and regional capacity around Asian tire demand.",
+    "why_it_matters": "The original company announcement predates this week's window and the recap adds no independently verified project stage.",
+    "what_to_watch": null,
+    "sources": [
+      {
+        "publisher": "Tyrepress",
+        "title": null,
+        "publication_date": "2026-09-17",
+        "url": "https://www.tyrepress.com/2026/09/birla-carbons-expanding-supply-leading-rubber-industry-growth-in-china-and-across-asia",
+        "source_role": "primary",
+        "link_label": "Tyrepress"
+      },
+      {
+        "publisher": null,
+        "title": null,
+        "publication_date": null,
+        "url": "https://www.birlacarbon.com/birla-carbons-expanding-supply-and-innovation-are-leading-the-next-phase-of-rubber-industry-growth-in-china-and-across-asia",
+        "source_role": "companion",
+        "link_label": "second source"
+      }
+    ],
+    "evidence_status": "context_limited",
+    "evidence_note": "In-window recap of a 2026-09-08 company release; retained as context rather than counted as a new weekly event.",
+    "post_cutoff_context": false,
+    "weekly_report_path": "reports/2026-09-14-to-2026-09-20.md",
+    "story_url": "reports/2026-09-14-to-2026-09-20.md/#birla-carbons-china-and-asia-growth-message-receives-an-in-window-trade-recap"
+  },
+  {
+    "story_id": "2026-09-14-linglong-presents-tire-described-as-using-85-sustainable-materials",
+    "week_start": "2026-09-14",
+    "week_end": "2026-09-20",
+    "publication_date": "2026-09-17",
+    "event_date": null,
+    "effective_date": null,
+    "title": "Linglong presents tire described as using 85% sustainable materials",
+    "primary_category": "Materials & Supply Chain",
+    "related_categories": [],
+    "tags": [],
+    "event_type": "other",
+    "project_stage": "not_assessed",
+    "companies": [
+      "Linglong Tire"
+    ],
+    "counterparties": [],
+    "products_or_technologies": [],
+    "geographies": [
+      "china"
+    ],
+    "what_happened": "Linglong presented a tire it described as containing 85% sustainable materials at a zero-carbon industry forum.",
+    "intelligence_signal": "High sustainable-material content remains a visible prototype target among Chinese tire makers.",
+    "why_it_matters": "The percentage is a company claim without a disclosed mass-balance boundary, certification or tire-performance dataset.",
+    "what_to_watch": null,
+    "sources": [
+      {
+        "publisher": "China Tire Business",
+        "title": null,
+        "publication_date": "2026-09-17",
+        "url": "https://www.tirechina.net/833076.html",
+        "source_role": "primary",
+        "link_label": "China Tire Business"
+      }
+    ],
+    "evidence_status": "context_limited",
+    "evidence_note": "Retained as context because the material-content boundary and performance validation were not disclosed.",
+    "post_cutoff_context": false,
+    "weekly_report_path": "reports/2026-09-14-to-2026-09-20.md",
+    "story_url": "reports/2026-09-14-to-2026-09-20.md/#linglong-presents-tire-described-as-using-85-sustainable-materials"
+  },
+  {
+    "story_id": "2026-09-14-hankook-produces-first-pre-series-tire-at-eur540-million-hungary-truck-tire-plant",
+    "week_start": "2026-09-14",
+    "week_end": "2026-09-20",
+    "publication_date": "2026-09-14",
+    "event_date": null,
+    "effective_date": null,
+    "title": "Hankook produces first pre-series tire at EUR540 million Hungary truck-tire plant",
+    "primary_category": "Manufacturing",
+    "related_categories": [],
+    "tags": [],
+    "event_type": "other",
+    "project_stage": "not_assessed",
+    "companies": [
+      "Hankook Tire"
+    ],
+    "counterparties": [],
+    "products_or_technologies": [],
+    "geographies": [],
+    "what_happened": "Hankook reported the first pre-series tire from its EUR540 million Hungary expansion, designed for more than 800,000 truck and bus tires a year, with automated logistics, guided vehicles, real-time tracking and automated testing; production is scheduled for October.",
+    "intelligence_signal": "Large tire projects are embedding material flow, traceability and quality automation at the commissioning stage.",
+    "why_it_matters": "The first pre-series tire is a meaningful stage change, but it precedes stable commercial output, yield and utilization evidence.",
+    "what_to_watch": null,
+    "sources": [
+      {
+        "publisher": "Hankook Tire Media Center",
+        "title": null,
+        "publication_date": "2026-09-14",
+        "url": "https://www.hankooktire-mediacenter.com/press-kits/iaa-2026/press-release?cHash=f7687bc17be90ba4a42daeb2e4a5567e&tx_news_pi1%5Baction%5D=detail&tx_news_pi1%5Bcontroller%5D=News&tx_news_pi1%5Bnews%5D=13377",
+        "source_role": "primary",
+        "link_label": "Hankook Tire Media Center"
+      }
+    ],
+    "evidence_status": "source_reported",
+    "evidence_note": null,
+    "post_cutoff_context": false,
+    "weekly_report_path": "reports/2026-09-14-to-2026-09-20.md",
+    "story_url": "reports/2026-09-14-to-2026-09-20.md/#hankook-produces-first-pre-series-tire-at-eur540-million-hungary-truck-tire-plant"
+  },
+  {
+    "story_id": "2026-09-14-ascenso-commits-us100-million-to-giant-mining-tire-manufacturing-in-india",
+    "week_start": "2026-09-14",
+    "week_end": "2026-09-20",
+    "publication_date": "2026-09-15",
+    "event_date": null,
+    "effective_date": null,
+    "title": "Ascenso commits US$100 million to giant mining-tire manufacturing in India",
+    "primary_category": "Manufacturing",
+    "related_categories": [],
+    "tags": [],
+    "event_type": "other",
+    "project_stage": "not_assessed",
+    "companies": [
+      "Ascenso Tyres"
+    ],
+    "counterparties": [],
+    "products_or_technologies": [],
+    "geographies": [],
+    "what_happened": "Ascenso outlined a US$100 million Indian investment in all-steel radial mining tires and said it produced its first 27.00R49 tire in August while expanding coverage from 25- to 49-inch sizes.",
+    "intelligence_signal": "Indian off-highway suppliers are moving into larger all-steel radial mining formats through dedicated capital investment.",
+    "why_it_matters": "A first tire indicates process commissioning, but it does not establish qualified serial output, capacity or field life.",
+    "what_to_watch": null,
+    "sources": [
+      {
+        "publisher": "ET Auto",
+        "title": null,
+        "publication_date": "2026-09-15",
+        "url": "https://auto.economictimes.indiatimes.com/amp/news/tyres/ascenso-tyres-to-invest-100-million-in-india-for-giant-mining-tyre-manufacturing/134260424",
+        "source_role": "primary",
+        "link_label": "ET Auto"
+      },
+      {
+        "publisher": null,
+        "title": null,
+        "publication_date": null,
+        "url": "https://www.tyrepress.com/2026/09/ascenso-investing-us100-million-in-giant-tyre-segment",
+        "source_role": "companion",
+        "link_label": "second source"
+      }
+    ],
+    "evidence_status": "source_reported",
+    "evidence_note": null,
+    "post_cutoff_context": false,
+    "weekly_report_path": "reports/2026-09-14-to-2026-09-20.md",
+    "story_url": "reports/2026-09-14-to-2026-09-20.md/#ascenso-commits-us100-million-to-giant-mining-tire-manufacturing-in-india"
+  },
+  {
+    "story_id": "2026-09-14-wanlis-malaysia-plant-advances-with-eur21-million-steel-cord-calender-award",
+    "week_start": "2026-09-14",
+    "week_end": "2026-09-20",
+    "publication_date": "2026-09-15",
+    "event_date": null,
+    "effective_date": null,
+    "title": "Wanli's Malaysia plant advances with EUR2.1 million steel-cord calender award",
+    "primary_category": "Manufacturing",
+    "related_categories": [],
+    "tags": [],
+    "event_type": "other",
+    "project_stage": "not_assessed",
+    "companies": [
+      "Wanli Tire"
+    ],
+    "counterparties": [],
+    "products_or_technologies": [],
+    "geographies": [
+      "china"
+    ],
+    "what_happened": "Trade reporting said Rodolfo Comerio won a EUR2.1 million steel-cord calender procurement for Wanli's planned Malaysia base, which targets 1.2 million truck and bus radial tires and 5 million passenger tires a year.",
+    "intelligence_signal": "Chinese tire makers' overseas projects are moving from investment announcements into identifiable process-equipment procurement.",
+    "why_it_matters": "An equipment award is a stronger execution marker than a plan alone, while still preceding installation, acceptance and commercial output.",
+    "what_to_watch": null,
+    "sources": [
+      {
+        "publisher": "China Tire Business",
+        "title": null,
+        "publication_date": "2026-09-15",
+        "url": "https://www.tirechina.net/833067.html",
+        "source_role": "primary",
+        "link_label": "China Tire Business"
+      }
+    ],
+    "evidence_status": "source_reported",
+    "evidence_note": null,
+    "post_cutoff_context": false,
+    "weekly_report_path": "reports/2026-09-14-to-2026-09-20.md",
+    "story_url": "reports/2026-09-14-to-2026-09-20.md/#wanlis-malaysia-plant-advances-with-eur21-million-steel-cord-calender-award"
+  },
+  {
+    "story_id": "2026-09-14-german-tire-production-falls-91-in-first-half-of-2026",
+    "week_start": "2026-09-14",
+    "week_end": "2026-09-20",
+    "publication_date": "2026-09-16",
+    "event_date": null,
+    "effective_date": null,
+    "title": "German tire production falls 9.1% in first half of 2026",
+    "primary_category": "Manufacturing",
+    "related_categories": [],
+    "tags": [],
+    "event_type": "other",
+    "project_stage": "not_assessed",
+    "companies": [
+      "German tire industry"
+    ],
+    "counterparties": [],
+    "products_or_technologies": [],
+    "geographies": [],
+    "what_happened": "Tyrepress reported Wdk data showing German tire production of about 200,000 tonnes in the first half, down 9.1% year on year, while sector revenue fell 7.9% to EUR1.76 billion.",
+    "intelligence_signal": "European manufacturing pressure is visible in both physical output and revenue rather than in isolated plant announcements alone.",
+    "why_it_matters": "The aggregate provides a sector baseline for capacity decisions, although it does not separate product mix, exports or individual companies.",
+    "what_to_watch": null,
+    "sources": [
+      {
+        "publisher": "Tyrepress",
+        "title": null,
+        "publication_date": "2026-09-16",
+        "url": "https://www.tyrepress.com/2026/09/german-tyre-production-falls-9-1-per-cent-in-h1-2026",
+        "source_role": "primary",
+        "link_label": "Tyrepress"
+      }
+    ],
+    "evidence_status": "source_reported",
+    "evidence_note": null,
+    "post_cutoff_context": false,
+    "weekly_report_path": "reports/2026-09-14-to-2026-09-20.md",
+    "story_url": "reports/2026-09-14-to-2026-09-20.md/#german-tire-production-falls-91-in-first-half-of-2026"
+  },
+  {
+    "story_id": "2026-09-14-wanda-boto-files-rmb971-million-passenger-tire-line-retrofit",
+    "week_start": "2026-09-14",
+    "week_end": "2026-09-20",
+    "publication_date": "2026-09-16",
+    "event_date": null,
+    "effective_date": null,
+    "title": "Wanda Boto files RMB97.1 million passenger-tire line retrofit",
+    "primary_category": "Manufacturing",
+    "related_categories": [],
+    "tags": [],
+    "event_type": "other",
+    "project_stage": "not_assessed",
+    "companies": [
+      "Wanda Boto Tire"
+    ],
+    "counterparties": [],
+    "products_or_technologies": [],
+    "geographies": [
+      "china"
+    ],
+    "what_happened": "A project filing described a RMB97.149 million retrofit with dual-station uniformity correction, an upstream material system, constant-tension strip handling and twin-screw temperature control, without adding nominal capacity.",
+    "intelligence_signal": "Chinese brownfield projects are targeting closed-loop process stability and inline quality correction instead of headline capacity alone.",
+    "why_it_matters": "The named equipment provides a concrete intelligent-manufacturing pathway, but the filing does not yet demonstrate realized quality, labor or energy gains.",
+    "what_to_watch": null,
+    "sources": [
+      {
+        "publisher": "China Tire Business",
+        "title": null,
+        "publication_date": "2026-09-16",
+        "url": "https://www.tirechina.net/833069.html",
+        "source_role": "primary",
+        "link_label": "China Tire Business"
+      }
+    ],
+    "evidence_status": "source_reported",
+    "evidence_note": null,
+    "post_cutoff_context": false,
+    "weekly_report_path": "reports/2026-09-14-to-2026-09-20.md",
+    "story_url": "reports/2026-09-14-to-2026-09-20.md/#wanda-boto-files-rmb971-million-passenger-tire-line-retrofit"
+  },
+  {
+    "story_id": "2026-09-14-hebei-zhenggu-files-energy-saving-retrofit-for-motorcycle-and-e-bike-tire-lines",
+    "week_start": "2026-09-14",
+    "week_end": "2026-09-20",
+    "publication_date": "2026-09-14",
+    "event_date": null,
+    "effective_date": null,
+    "title": "Hebei Zhenggu files energy-saving retrofit for motorcycle and e-bike tire lines",
+    "primary_category": "Manufacturing",
+    "related_categories": [],
+    "tags": [],
+    "event_type": "other",
+    "project_stage": "not_assessed",
+    "companies": [
+      "Hebei Zhenggu Tire"
+    ],
+    "counterparties": [],
+    "products_or_technologies": [],
+    "geographies": [
+      "china"
+    ],
+    "what_happened": "A pre-approval environmental filing described a Pingxiang retrofit planned around annual output of 30 million inner tubes and 15 million outer tires, with older high-energy equipment to be replaced.",
+    "intelligence_signal": "Small-format tire producers are using brownfield equipment renewal to combine capacity renewal with energy-efficiency compliance.",
+    "why_it_matters": "The filing is a concrete manufacturing-stage signal, but it is not evidence that the upgraded line is operating or meeting its planned energy profile.",
+    "what_to_watch": null,
+    "sources": [
+      {
+        "publisher": "China Tire Business",
+        "title": null,
+        "publication_date": "2026-09-14",
+        "url": "https://www.tirechina.net/833063.html",
+        "source_role": "primary",
+        "link_label": "China Tire Business"
+      }
+    ],
+    "evidence_status": "source_reported",
+    "evidence_note": null,
+    "post_cutoff_context": false,
+    "weekly_report_path": "reports/2026-09-14-to-2026-09-20.md",
+    "story_url": "reports/2026-09-14-to-2026-09-20.md/#hebei-zhenggu-files-energy-saving-retrofit-for-motorcycle-and-e-bike-tire-lines"
+  },
+  {
+    "story_id": "2026-09-14-shandongs-2026-green-manufacturing-list-includes-13-tire-and-rubber-companies",
+    "week_start": "2026-09-14",
+    "week_end": "2026-09-20",
+    "publication_date": "2026-09-15",
+    "event_date": null,
+    "effective_date": null,
+    "title": "Shandong's 2026 green-manufacturing list includes 13 tire and rubber companies",
+    "primary_category": "Manufacturing",
+    "related_categories": [],
+    "tags": [],
+    "event_type": "other",
+    "project_stage": "not_assessed",
+    "companies": [
+      "Shandong tire and rubber manufacturers"
+    ],
+    "counterparties": [],
+    "products_or_technologies": [],
+    "geographies": [
+      "china"
+    ],
+    "what_happened": "Shandong's published green-manufacturing list covered 802 factories, 18 parks and 94 supply-chain enterprises; a tire-industry review identified 13 tire and rubber companies, with Yongsheng appearing in both factory and supply-chain categories.",
+    "intelligence_signal": "Environmental-management recognition is spreading from individual plants to supply-chain designations in Shandong's tire cluster.",
+    "why_it_matters": "The list is evidence of formal recognition, not a comparative measurement of energy, emissions or circular-material performance.",
+    "what_to_watch": null,
+    "sources": [
+      {
+        "publisher": "Shandong SME Public Service Platform",
+        "title": null,
+        "publication_date": "2026-09-15",
+        "url": "https://m.sme-gov.cn/shandong/news/179912.html",
+        "source_role": "primary",
+        "link_label": "Shandong SME Public Service Platform"
+      },
+      {
+        "publisher": null,
+        "title": null,
+        "publication_date": null,
+        "url": "https://www.tirechina.net/833083.html",
+        "source_role": "companion",
+        "link_label": "second source"
+      }
+    ],
+    "evidence_status": "source_reported",
+    "evidence_note": null,
+    "post_cutoff_context": false,
+    "weekly_report_path": "reports/2026-09-14-to-2026-09-20.md",
+    "story_url": "reports/2026-09-14-to-2026-09-20.md/#shandongs-2026-green-manufacturing-list-includes-13-tire-and-rubber-companies"
+  },
+  {
+    "story_id": "2026-09-14-anhui-aoxin-discloses-rmb150-million-phase-one-radial-scooter-tire-project",
+    "week_start": "2026-09-14",
+    "week_end": "2026-09-20",
+    "publication_date": "2026-09-20",
+    "event_date": null,
+    "effective_date": null,
+    "title": "Anhui Aoxin discloses RMB150 million phase-one radial scooter-tire project",
+    "primary_category": "Manufacturing",
+    "related_categories": [],
+    "tags": [],
+    "event_type": "other",
+    "project_stage": "not_assessed",
+    "companies": [
+      "Anhui Aoxin Tire"
+    ],
+    "counterparties": [],
+    "products_or_technologies": [],
+    "geographies": [
+      "china"
+    ],
+    "what_happened": "An environmental-information notice described a RMB150 million first phase in Huaiyuan, Bengbu, planned for annual output of 12 million radial scooter tires and listed core production equipment.",
+    "intelligence_signal": "Radialization investment is extending into China's scooter-tire segment through specialized greenfield capacity.",
+    "why_it_matters": "The notice establishes project scope and intended equipment, but not completed construction, qualification or demand.",
+    "what_to_watch": null,
+    "sources": [
+      {
+        "publisher": "China Tire Business",
+        "title": null,
+        "publication_date": "2026-09-20",
+        "url": "https://www.tirechina.net/833087.html",
+        "source_role": "primary",
+        "link_label": "China Tire Business"
+      }
+    ],
+    "evidence_status": "source_reported",
+    "evidence_note": null,
+    "post_cutoff_context": false,
+    "weekly_report_path": "reports/2026-09-14-to-2026-09-20.md",
+    "story_url": "reports/2026-09-14-to-2026-09-20.md/#anhui-aoxin-discloses-rmb150-million-phase-one-radial-scooter-tire-project"
+  },
+  {
+    "story_id": "2026-09-14-qingxian-hongyuan-seeks-approval-for-two-phase-small-tire-equipment-upgrade",
+    "week_start": "2026-09-14",
+    "week_end": "2026-09-20",
+    "publication_date": "2026-09-17",
+    "event_date": null,
+    "effective_date": null,
+    "title": "Qingxian Hongyuan seeks approval for two-phase small-tire equipment upgrade",
+    "primary_category": "Manufacturing",
+    "related_categories": [],
+    "tags": [],
+    "event_type": "other",
+    "project_stage": "not_assessed",
+    "companies": [
+      "Qingxian Hongyuan Rubber"
+    ],
+    "counterparties": [],
+    "products_or_technologies": [],
+    "geographies": [
+      "china"
+    ],
+    "what_happened": "Cangzhou authorities accepted an application for a RMB15 million, two-phase upgrade planned over 18 months for 6 million outer tires and 6 million inner tubes, with older reclaimed-rubber equipment to be retired.",
+    "intelligence_signal": "Environmental approval is becoming a visible gate in equipment renewal among smaller Chinese tire producers.",
+    "why_it_matters": "The acceptance establishes a regulated project step, not construction completion or incremental operating capacity.",
+    "what_to_watch": null,
+    "sources": [
+      {
+        "publisher": "China Tire Business",
+        "title": null,
+        "publication_date": "2026-09-17",
+        "url": "https://www.tirechina.net/833074.html",
+        "source_role": "primary",
+        "link_label": "China Tire Business"
+      }
+    ],
+    "evidence_status": "source_reported",
+    "evidence_note": null,
+    "post_cutoff_context": false,
+    "weekly_report_path": "reports/2026-09-14-to-2026-09-20.md",
+    "story_url": "reports/2026-09-14-to-2026-09-20.md/#qingxian-hongyuan-seeks-approval-for-two-phase-small-tire-equipment-upgrade"
+  },
+  {
+    "story_id": "2026-09-14-usw-asks-ustr-to-open-a-section-201-tire-investigation",
+    "week_start": "2026-09-14",
+    "week_end": "2026-09-20",
+    "publication_date": "2026-09-14",
+    "event_date": null,
+    "effective_date": null,
+    "title": "USW asks USTR to open a Section 201 tire investigation",
+    "primary_category": "Marketing & Distribution",
+    "related_categories": [],
+    "tags": [],
+    "event_type": "other",
+    "project_stage": "not_assessed",
+    "companies": [
+      "United Steelworkers"
+    ],
+    "counterparties": [],
+    "products_or_technologies": [],
+    "geographies": [],
+    "what_happened": "The United Steelworkers asked USTR to initiate a Section 201 safeguard investigation into tire imports and cited a 40% decline in domestic output since 2000, nine announced plant closures in two years and more than 7,000 jobs affected.",
+    "intelligence_signal": "US tire-market pressure is moving from plant-level complaints toward a possible broad safeguard route.",
+    "why_it_matters": "A union request could reshape market access if accepted, but no USTR investigation or remedy had begun at publication.",
+    "what_to_watch": null,
+    "sources": [
+      {
+        "publisher": "United Steelworkers",
+        "title": null,
+        "publication_date": "2026-09-14",
+        "url": "https://usw.org/press-release/usw-urges-ustr-to-launch-201-tire-investigation",
+        "source_role": "primary",
+        "link_label": "United Steelworkers"
+      }
+    ],
+    "evidence_status": "source_reported",
+    "evidence_note": null,
+    "post_cutoff_context": false,
+    "weekly_report_path": "reports/2026-09-14-to-2026-09-20.md",
+    "story_url": "reports/2026-09-14-to-2026-09-20.md/#usw-asks-ustr-to-open-a-section-201-tire-investigation"
+  },
+  {
+    "story_id": "2026-09-14-china-tire-export-volume-rises-through-august-while-export-value-falls",
+    "week_start": "2026-09-14",
+    "week_end": "2026-09-20",
+    "publication_date": "2026-09-20",
+    "event_date": null,
+    "effective_date": null,
+    "title": "China tire export volume rises through August while export value falls",
+    "primary_category": "Marketing & Distribution",
+    "related_categories": [],
+    "tags": [],
+    "event_type": "other",
+    "project_stage": "not_assessed",
+    "companies": [
+      "China tire industry"
+    ],
+    "counterparties": [],
+    "products_or_technologies": [],
+    "geographies": [
+      "china"
+    ],
+    "what_happened": "CRIA's summary of customs data put January-August tire exports at 6.63 million tonnes, up 2.0%, and value at RMB110.639 billion, down 3.1%; August volume fell 0.7% and value fell 4.1% year on year.",
+    "intelligence_signal": "Export tonnage and export value are diverging, indicating a weaker realized value mix despite modest volume growth.",
+    "why_it_matters": "The divergence matters for margin and product-mix interpretation, but average value per tonne is an aggregate calculation rather than a like-for-like price series.",
+    "what_to_watch": null,
+    "sources": [
+      {
+        "publisher": "China Rubber Industry Association",
+        "title": null,
+        "publication_date": "2026-09-20",
+        "url": "https://www.cria.org.cn/a/2101571671433515009",
+        "source_role": "primary",
+        "link_label": "China Rubber Industry Association"
+      },
+      {
+        "publisher": null,
+        "title": null,
+        "publication_date": null,
+        "url": "https://www.tirechina.net/833085.html",
+        "source_role": "companion",
+        "link_label": "second source"
+      }
+    ],
+    "evidence_status": "source_reported",
+    "evidence_note": null,
+    "post_cutoff_context": false,
+    "weekly_report_path": "reports/2026-09-14-to-2026-09-20.md",
+    "story_url": "reports/2026-09-14-to-2026-09-20.md/#china-tire-export-volume-rises-through-august-while-export-value-falls"
+  },
+  {
+    "story_id": "2026-09-14-chinas-rising-nev-mix-contrasts-with-weaker-passenger-tire-oe-demand",
+    "week_start": "2026-09-14",
+    "week_end": "2026-09-20",
+    "publication_date": "2026-09-16",
+    "event_date": null,
+    "effective_date": null,
+    "title": "China's rising NEV mix contrasts with weaker passenger-tire OE demand",
+    "primary_category": "Marketing & Distribution",
+    "related_categories": [],
+    "tags": [],
+    "event_type": "other",
+    "project_stage": "not_assessed",
+    "companies": [
+      "China automotive and tire market"
+    ],
+    "counterparties": [],
+    "products_or_technologies": [],
+    "geographies": [
+      "china"
+    ],
+    "what_happened": "A trade analysis using CAAM and Longzhong data put January-August new-energy vehicle sales at 10.65 million, up 10.7%, while estimating passenger-tire OE demand at 86.67 million, down 5.35%; estimated commercial-tire OE demand rose 7.45%.",
+    "intelligence_signal": "Vehicle electrification is increasing its share even as aggregate passenger-vehicle output provides a softer OE tire-volume base.",
+    "why_it_matters": "Product-mix opportunity and market-volume growth are diverging, which changes how suppliers should read the EV opportunity.",
+    "what_to_watch": null,
+    "sources": [
+      {
+        "publisher": "China Tire Business",
+        "title": null,
+        "publication_date": "2026-09-16",
+        "url": "https://www.tirechina.net/833072.html",
+        "source_role": "primary",
+        "link_label": "China Tire Business"
+      }
+    ],
+    "evidence_status": "source_reported",
+    "evidence_note": null,
+    "post_cutoff_context": false,
+    "weekly_report_path": "reports/2026-09-14-to-2026-09-20.md",
+    "story_url": "reports/2026-09-14-to-2026-09-20.md/#chinas-rising-nev-mix-contrasts-with-weaker-passenger-tire-oe-demand"
+  },
+  {
+    "story_id": "2026-09-14-prinx-enters-europes-otr-segment-with-eld12-rollout",
+    "week_start": "2026-09-14",
+    "week_end": "2026-09-20",
+    "publication_date": "2026-09-17",
+    "event_date": null,
+    "effective_date": null,
+    "title": "Prinx enters Europe's OTR segment with ELD12 rollout",
+    "primary_category": "Marketing & Distribution",
+    "related_categories": [],
+    "tags": [],
+    "event_type": "other",
+    "project_stage": "not_assessed",
+    "companies": [
+      "Prinx Chengshan"
+    ],
+    "counterparties": [],
+    "products_or_technologies": [],
+    "geographies": [
+      "china"
+    ],
+    "what_happened": "Prinx introduced the ELD12 earthmover tire and described a broader European rollout through its dealer network.",
+    "intelligence_signal": "Chinese manufacturers are extending European channel strategies beyond passenger and truck tires into specialist off-road segments.",
+    "why_it_matters": "The launch broadens the addressable market, but the public evidence does not provide dealer count, orders or field-performance data.",
+    "what_to_watch": null,
+    "sources": [
+      {
+        "publisher": "Tyrepress",
+        "title": null,
+        "publication_date": "2026-09-17",
+        "url": "https://www.tyrepress.com/2026/09/prinx-enters-otr-segment-with-eld12-launch",
+        "source_role": "primary",
+        "link_label": "Tyrepress"
+      }
+    ],
+    "evidence_status": "source_reported",
+    "evidence_note": null,
+    "post_cutoff_context": false,
+    "weekly_report_path": "reports/2026-09-14-to-2026-09-20.md",
+    "story_url": "reports/2026-09-14-to-2026-09-20.md/#prinx-enters-europes-otr-segment-with-eld12-rollout"
+  },
+  {
+    "story_id": "2026-09-14-linglong-showcases-mining-and-support-vehicle-tires-in-indonesia",
+    "week_start": "2026-09-14",
+    "week_end": "2026-09-20",
+    "publication_date": "2026-09-14",
+    "event_date": null,
+    "effective_date": null,
+    "title": "Linglong showcases mining and support-vehicle tires in Indonesia",
+    "primary_category": "Marketing & Distribution",
+    "related_categories": [],
+    "tags": [],
+    "event_type": "other",
+    "project_stage": "not_assessed",
+    "companies": [
+      "Linglong Tire"
+    ],
+    "counterparties": [],
+    "products_or_technologies": [],
+    "geographies": [
+      "china"
+    ],
+    "what_happened": "Linglong displayed 27.00R49 mining tires and several support-vehicle sizes at Mining Indonesia.",
+    "intelligence_signal": "Chinese OTR suppliers continue to use Southeast Asian trade events to build mining-market visibility.",
+    "why_it_matters": "The item identifies products and market intent but provides no order, trial or field-performance evidence.",
+    "what_to_watch": null,
+    "sources": [
+      {
+        "publisher": "China Tire Business",
+        "title": null,
+        "publication_date": "2026-09-14",
+        "url": "https://www.tirechina.net/833064.html",
+        "source_role": "primary",
+        "link_label": "China Tire Business"
+      }
+    ],
+    "evidence_status": "context_limited",
+    "evidence_note": "Event-only promotional signal; retained as context because it does not show customer adoption or a new technical stage.",
+    "post_cutoff_context": false,
+    "weekly_report_path": "reports/2026-09-14-to-2026-09-20.md",
+    "story_url": "reports/2026-09-14-to-2026-09-20.md/#linglong-showcases-mining-and-support-vehicle-tires-in-indonesia"
+  },
+  {
+    "story_id": "2026-09-14-linglong-holds-egypt-dealer-event-amid-middle-east-and-africa-expansion-claims",
+    "week_start": "2026-09-14",
+    "week_end": "2026-09-20",
+    "publication_date": "2026-09-20",
+    "event_date": null,
+    "effective_date": null,
+    "title": "Linglong holds Egypt dealer event amid Middle East and Africa expansion claims",
+    "primary_category": "Marketing & Distribution",
+    "related_categories": [],
+    "tags": [],
+    "event_type": "other",
+    "project_stage": "not_assessed",
+    "companies": [
+      "Linglong Tire"
+    ],
+    "counterparties": [],
+    "products_or_technologies": [],
+    "geographies": [
+      "china"
+    ],
+    "what_happened": "Linglong held a dealer event in Egypt and said its sales and share had grown in the Middle East and Africa.",
+    "intelligence_signal": "Chinese brands continue to deepen regional dealer engagement around overseas manufacturing and distribution ambitions.",
+    "why_it_matters": "The event supports channel activity but provides no market-share definition, sales period or audited volume.",
+    "what_to_watch": null,
+    "sources": [
+      {
+        "publisher": "China Tire Business",
+        "title": null,
+        "publication_date": "2026-09-20",
+        "url": "https://www.tirechina.net/833090.html",
+        "source_role": "primary",
+        "link_label": "China Tire Business"
+      }
+    ],
+    "evidence_status": "context_limited",
+    "evidence_note": "Company growth claims are unquantified; retained as channel context rather than core commercial evidence.",
+    "post_cutoff_context": false,
+    "weekly_report_path": "reports/2026-09-14-to-2026-09-20.md",
+    "story_url": "reports/2026-09-14-to-2026-09-20.md/#linglong-holds-egypt-dealer-event-amid-middle-east-and-africa-expansion-claims"
+  },
+  {
+    "story_id": "2026-09-14-michelin-pilots-nazca-automated-truck-tire-regrooving-in-european-workshops",
+    "week_start": "2026-09-14",
+    "week_end": "2026-09-20",
+    "publication_date": "2026-09-14",
+    "event_date": null,
+    "effective_date": null,
+    "title": "Michelin pilots NAZCA automated truck-tire regrooving in European workshops",
+    "primary_category": "Sales & Customer Services",
+    "related_categories": [],
+    "tags": [],
+    "event_type": "other",
+    "project_stage": "not_assessed",
+    "companies": [
+      "Michelin"
+    ],
+    "counterparties": [],
+    "products_or_technologies": [],
+    "geographies": [],
+    "what_happened": "Michelin described about 20 NAZCA machines in European pilot use for more than a year; the system uses high-density laser measurement and adaptive control to set regrooving depth, with commercial rollout planned for 2027.",
+    "intelligence_signal": "Automation is moving into tire-life-extension services, where workshop consistency and technician time constrain adoption.",
+    "why_it_matters": "Multi-site pilot use provides industrial evidence, but the claimed 30-50% capacity gain and under-three-minute hands-on time are company-reported without an external baseline.",
+    "what_to_watch": null,
+    "sources": [
+      {
+        "publisher": "Michelin",
+        "title": null,
+        "publication_date": "2026-09-14",
+        "url": "https://www.michelin.com/en/publications/products-and-services/michelin-is-modernizing-regrooving-with-nazca",
+        "source_role": "primary",
+        "link_label": "Michelin"
+      }
+    ],
+    "evidence_status": "source_reported",
+    "evidence_note": null,
+    "post_cutoff_context": false,
+    "weekly_report_path": "reports/2026-09-14-to-2026-09-20.md",
+    "story_url": "reports/2026-09-14-to-2026-09-20.md/#michelin-pilots-nazca-automated-truck-tire-regrooving-in-european-workshops"
+  },
+  {
+    "story_id": "2026-09-14-xiaomi-selects-zc-rubber-arisun-1-star-for-19-inch-n70-variants",
+    "week_start": "2026-09-14",
+    "week_end": "2026-09-20",
+    "publication_date": "2026-09-15",
+    "event_date": null,
+    "effective_date": null,
+    "title": "Xiaomi selects ZC Rubber ARISUN 1 Star for 19-inch N70 variants",
+    "primary_category": "Sales & Customer Services",
+    "related_categories": [],
+    "tags": [],
+    "event_type": "other",
+    "project_stage": "not_assessed",
+    "companies": [
+      "ZC Rubber"
+    ],
+    "counterparties": [],
+    "products_or_technologies": [],
+    "geographies": [
+      "china"
+    ],
+    "what_happened": "ZC Rubber said its 245/55R19 ARISUN 1 Star is original equipment on all 19-inch Xiaomi SkyNomad N70 Pro and Max configurations; an independent trade publication corroborated the fitment.",
+    "intelligence_signal": "Chinese tire makers are converting EV-focused product development into named domestic premium-vehicle fitments.",
+    "why_it_matters": "A specified vehicle and size provide concrete customer evidence, while rolling-resistance, noise and grip claims remain supplier statements.",
+    "what_to_watch": null,
+    "sources": [
+      {
+        "publisher": "ZC Rubber",
+        "title": null,
+        "publication_date": "2026-09-15",
+        "url": "https://www.zc-rubber.com/index.php/news/news_info/27/349",
+        "source_role": "primary",
+        "link_label": "ZC Rubber"
+      },
+      {
+        "publisher": null,
+        "title": null,
+        "publication_date": null,
+        "url": "https://www.tiretechnologyinternational.com/news/oe-fitments/xiaomi-n70-chooses-zc-rubber-arisun-1-star-as-oe-tire.html",
+        "source_role": "companion",
+        "link_label": "second source"
+      }
+    ],
+    "evidence_status": "source_reported",
+    "evidence_note": null,
+    "post_cutoff_context": false,
+    "weekly_report_path": "reports/2026-09-14-to-2026-09-20.md",
+    "story_url": "reports/2026-09-14-to-2026-09-20.md/#xiaomi-selects-zc-rubber-arisun-1-star-for-19-inch-n70-variants"
+  },
+  {
+    "story_id": "2026-09-14-hankook-and-schmitz-cargobull-begin-four-year-trailer-tire-oe-agreement",
+    "week_start": "2026-09-14",
+    "week_end": "2026-09-20",
+    "publication_date": "2026-09-17",
+    "event_date": null,
+    "effective_date": null,
+    "title": "Hankook and Schmitz Cargobull begin four-year trailer-tire OE agreement",
+    "primary_category": "Sales & Customer Services",
+    "related_categories": [],
+    "tags": [],
+    "event_type": "other",
+    "project_stage": "not_assessed",
+    "companies": [
+      "Hankook Tire"
+    ],
+    "counterparties": [],
+    "products_or_technologies": [],
+    "geographies": [],
+    "what_happened": "Hankook said an original-equipment agreement with trailer maker Schmitz Cargobull took effect on July 1 and runs through June 2030, covering Smart Line, Smart Flex and Smart Work trailer products.",
+    "intelligence_signal": "Commercial-tire suppliers are converting regional product portfolios into multi-year trailer OE contracts.",
+    "why_it_matters": "The named customer, product families and contract term provide concrete demand evidence, but public volume and pricing are absent.",
+    "what_to_watch": null,
+    "sources": [
+      {
+        "publisher": "Hankook Tire Media Center",
+        "title": null,
+        "publication_date": "2026-09-17",
+        "url": "https://www.hankooktire-mediacenter.com/fr/communique-de-presse/news/hankook-et-schmitz-cargobull-annoncent-un-partenariat-pour-la-premiere-monte",
+        "source_role": "primary",
+        "link_label": "Hankook Tire Media Center"
+      },
+      {
+        "publisher": null,
+        "title": null,
+        "publication_date": null,
+        "url": "https://www.hankooktire-mediacenter.com/de/pressemappen/the-tire-cologne-2024/pressemitteilung/hankook-und-schmitz-cargobull-vereinbaren-erstausruestungs-partnerschaft-1",
+        "source_role": "companion",
+        "link_label": "second source"
+      }
+    ],
+    "evidence_status": "source_reported",
+    "evidence_note": null,
+    "post_cutoff_context": false,
+    "weekly_report_path": "reports/2026-09-14-to-2026-09-20.md",
+    "story_url": "reports/2026-09-14-to-2026-09-20.md/#hankook-and-schmitz-cargobull-begin-four-year-trailer-tire-oe-agreement"
   }
 ]
