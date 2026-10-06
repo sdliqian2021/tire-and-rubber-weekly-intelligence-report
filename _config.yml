@@ -8,6 +8,8 @@ markdown: kramdown
 site_section: intelligence
 primary_site_url: https://sdliqian2021.github.io
 intelligence_url: https://sdliqian2021.github.io/tire-and-rubber-weekly-intelligence-report
+tire_intelligence_url: https://sdliqian2021.github.io/tire-and-rubber-weekly-intelligence-report
+engineering_ai_url: https://sdliqian2021.github.io/engineering-ai-monthly-intelligence
 exclude:
   - README.md
   - Gemfile
