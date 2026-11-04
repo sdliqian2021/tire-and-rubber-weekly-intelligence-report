@@ -1,39 +1,52 @@
+{% assign page_lang = page.lang | default: site.lang | default: 'en' %}
 <!doctype html>
-<html lang="{{ site.lang | default: 'en' }}">
+<html lang="{{ page_lang }}">
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="color-scheme" content="light">
-    <title>{% if page.title and page.title != "Home" %}{{ page.title }} · {% endif %}{{ site.title }}</title>
+    <title>{% if page.title and page.title != "Home" and page.title != "首页" %}{{ page.title }} · {% endif %}{{ site.title }}</title>
     <meta name="description" content="{{ page.description | default: site.description | strip_html | normalize_whitespace | escape }}">
     <link rel="canonical" href="{{ page.url | absolute_url }}">
+    <link rel="alternate" hreflang="{{ page_lang }}" href="{{ page.url | absolute_url }}">
+    {% if page.translation_url %}
+      {% if page_lang == 'zh-CN' %}{% assign alternate_lang = 'en' %}{% else %}{% assign alternate_lang = 'zh-CN' %}{% endif %}
+      <link rel="alternate" hreflang="{{ alternate_lang }}" href="{{ page.translation_url | absolute_url }}">
+    {% endif %}
     <link rel="stylesheet" href="{{ '/assets/css/site.css' | relative_url }}">
   </head>
   {% assign is_article = false %}
-  {% if page.page_class == "article-page" or page.url contains "/reports/" %}
-    {% assign is_article = true %}
-  {% endif %}
+  {% if page.page_class == "article-page" or page.url contains "/reports/" %}{% assign is_article = true %}{% endif %}
   <body{% if is_article %} class="article-page"{% endif %}>
-    <a class="skip-link" href="#main-content">Skip to content</a>
+    <a class="skip-link" href="#main-content">{% if page_lang == 'zh-CN' %}跳至正文{% else %}Skip to content{% endif %}</a>
 
     <header class="site-header">
       <div class="page-width header-inner">
         <a class="site-name" href="{{ site.primary_site_url }}/">Qian Li's Notes</a>
-        <nav class="site-nav" aria-label="Primary navigation">
-          <a href="{{ site.primary_site_url }}/#technical-essays">Technical thoughts</a>
-          <a href="{{ site.tire_intelligence_url }}/"{% if page.nav != "about" %} aria-current="page"{% endif %}>Tire intelligence</a>
-          <a href="{{ site.engineering_ai_url }}/">Engineering AI</a>
-          <a href="{{ site.tire_intelligence_url }}/about.html"{% if page.nav == "about" %} aria-current="page"{% endif %}>About</a>
+        <nav class="site-nav" aria-label="{% if page_lang == 'zh-CN' %}主导航{% else %}Primary navigation{% endif %}">
+          <a href="{{ site.primary_site_url }}/#technical-essays">{% if page_lang == 'zh-CN' %}技术随笔{% else %}Technical thoughts{% endif %}</a>
+          <a href="{{ site.tire_intelligence_url }}/"{% if page.nav != "about" %} aria-current="page"{% endif %}>{% if page_lang == 'zh-CN' %}轮胎情报{% else %}Tire intelligence{% endif %}</a>
+          <a href="{{ site.engineering_ai_url }}/">{% if page_lang == 'zh-CN' %}工程 AI{% else %}Engineering AI{% endif %}</a>
+          <a href="{% if page_lang == 'zh-CN' %}{{ '/zh/about.html' | relative_url }}{% else %}{{ '/about.html' | relative_url }}{% endif %}"{% if page.nav == "about" %} aria-current="page"{% endif %}>{% if page_lang == 'zh-CN' %}关于{% else %}About{% endif %}</a>
         </nav>
       </div>
     </header>
 
+    {% if page.translation_url %}
+      <div class="page-width language-switch" aria-label="{% if page_lang == 'zh-CN' %}语言切换{% else %}Language switch{% endif %}">
+        {% if page_lang == 'zh-CN' %}
+          <span aria-current="page">中文</span><span aria-hidden="true">|</span><a lang="en" href="{{ page.translation_url | relative_url }}">English</a>
+        {% else %}
+          <a lang="zh-CN" href="{{ page.translation_url | relative_url }}">中文</a><span aria-hidden="true">|</span><span aria-current="page">English</span>
+        {% endif %}
+      </div>
+    {% endif %}
+
     <main id="main-content" class="page-width main-content">
       {{ content }}
-
       {% if page.related_url %}
         <aside class="related-reading">
-          <strong>Related:</strong>
+          <strong>{% if page_lang == 'zh-CN' %}相关阅读：{% else %}Related:{% endif %}</strong>
           <a href="{{ page.related_url }}">{{ page.related_title }}</a>
           {% if page.related_description %}<p>{{ page.related_description }}</p>{% endif %}
         </aside>
@@ -42,8 +55,13 @@
 
     <footer class="site-footer">
       <div class="page-width">
-        <p class="site-scope-note"><strong>Scope note:</strong> This project observes public signals, which overrepresent listed, regulated, and publicity-active organizations. Absence of a public signal does not prove inactivity.</p>
-        <p>© {{ site.time | date: "%Y" }} Qian Li · Technical thoughts and public-source intelligence.</p>
+        {% if page_lang == 'zh-CN' %}
+          <p class="site-scope-note"><strong>范围说明：</strong>本项目观察公开信号，因此上市、受监管以及公开传播活跃的机构会被更多收录。没有公开信号并不等于没有相关活动。</p>
+          <p>© {{ site.time | date: "%Y" }} Qian Li · 技术随笔与公开来源情报。</p>
+        {% else %}
+          <p class="site-scope-note"><strong>Scope note:</strong> This project observes public signals, which overrepresent listed, regulated, and publicity-active organizations. Absence of a public signal does not prove inactivity.</p>
+          <p>© {{ site.time | date: "%Y" }} Qian Li · Technical thoughts and public-source intelligence.</p>
+        {% endif %}
       </div>
     </footer>
   </body>

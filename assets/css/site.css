@@ -20,7 +20,7 @@ body {
   margin: 0;
   color: var(--text);
   background: #fff;
-  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", "Noto Sans CJK SC", Helvetica, Arial, sans-serif;
   font-size: 1rem;
   line-height: 1.7;
   text-rendering: optimizeLegibility;
@@ -109,6 +109,20 @@ a:focus-visible {
 .main-content {
   min-height: calc(100vh - 10rem);
   padding-block: 3.5rem 5rem;
+}
+
+.language-switch {
+  display: flex;
+  justify-content: flex-end;
+  gap: 0.5rem;
+  padding-top: 0.85rem;
+  color: var(--muted);
+  font-size: 0.88rem;
+}
+
+.language-switch [aria-current="page"] {
+  color: var(--text);
+  font-weight: 700;
 }
 
 .blog-intro {
@@ -208,6 +222,13 @@ ol {
   margin: 0;
   color: var(--muted);
   font-size: 0.82rem;
+}
+
+.report-languages {
+  display: flex;
+  gap: 0.45rem;
+  margin: 0 0 0.35rem;
+  font-size: 0.9rem;
 }
 
 .article-page .main-content > h1 {
@@ -510,6 +531,10 @@ hr {
 
   .main-content {
     padding-block: 2.5rem 4rem;
+  }
+
+  .language-switch {
+    justify-content: flex-start;
   }
 
   .blog-intro {
